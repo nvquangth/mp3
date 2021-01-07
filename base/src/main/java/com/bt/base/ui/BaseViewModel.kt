@@ -1,9 +1,9 @@
-package com.bt.mp3.base.ui
+package com.bt.base.ui
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.bt.mp3.base.utils.Event
+import com.bt.base.utils.Event
 import com.bt.mp3.entity.exception.CleanException
 
 open class BaseViewModel : ViewModel() {

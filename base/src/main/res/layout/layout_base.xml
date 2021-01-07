@@ -5,11 +5,11 @@
 
         <variable
             name="viewModel"
-            type="com.bt.mp3.base.ui.BaseViewModel" />
+            type="com.bt.base.ui.BaseViewModel" />
 
         <variable
             name="item"
-            type="com.bt.mp3.base.model.ModelItem" />
+            type="com.bt.base.model.ModelItem" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

@@ -1,4 +1,4 @@
-package com.bt.mp3.base.uikit
+package com.bt.base.uikit
 
 object ThemeHelper {
 

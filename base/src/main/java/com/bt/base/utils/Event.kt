@@ -1,4 +1,4 @@
-package com.bt.mp3.base.utils
+package com.bt.base.utils
 
 /**
  * Used as a wrapper for data that is exposed via a LiveData that represents an event.

@@ -1,8 +1,8 @@
 package com.bt.mp3.ui.radio
 
 import androidx.fragment.app.viewModels
+import com.bt.base.ui.BaseFragment
 import com.bt.mp3.R
-import com.bt.mp3.base.ui.BaseFragment
 import com.bt.mp3.databinding.FragmentRadioBinding
 import dagger.hilt.android.AndroidEntryPoint
 

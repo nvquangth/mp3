@@ -1,8 +1,8 @@
 package com.bt.mp3.ui.discover
 
 import androidx.fragment.app.viewModels
+import com.bt.base.ui.BaseFragment
 import com.bt.mp3.R
-import com.bt.mp3.base.ui.BaseFragment
 import com.bt.mp3.databinding.FragmentDiscoverBinding
 import dagger.hilt.android.AndroidEntryPoint
 

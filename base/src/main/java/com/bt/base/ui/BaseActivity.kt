@@ -1,4 +1,4 @@
-package com.bt.mp3.base.ui
+package com.bt.base.ui
 
 import android.os.Build
 import android.os.Bundle
@@ -9,17 +9,17 @@ import androidx.databinding.DataBindingUtil
 import androidx.databinding.ViewDataBinding
 import androidx.lifecycle.observe
 import androidx.preference.PreferenceManager
-import com.bt.mp3.base.BR
-import com.bt.mp3.base.R
-import com.bt.mp3.base.extension.mapToExceptionItem
-import com.bt.mp3.base.extension.showAlertException
-import com.bt.mp3.base.extension.showDialogException
-import com.bt.mp3.base.extension.showSnackBarException
-import com.bt.mp3.base.model.AlertExceptionItem
-import com.bt.mp3.base.model.DialogExceptionItem
-import com.bt.mp3.base.model.SnackBarExceptionItem
-import com.bt.mp3.base.model.ToastExceptionItem
-import com.bt.mp3.base.uikit.ThemeHelper
+import com.bt.base.BR
+import com.bt.base.R
+import com.bt.base.extension.mapToExceptionItem
+import com.bt.base.extension.showAlertException
+import com.bt.base.extension.showDialogException
+import com.bt.base.extension.showSnackBarException
+import com.bt.base.model.AlertExceptionItem
+import com.bt.base.model.DialogExceptionItem
+import com.bt.base.model.SnackBarExceptionItem
+import com.bt.base.model.ToastExceptionItem
+import com.bt.base.uikit.ThemeHelper
 
 abstract class BaseActivity<ViewBinding : ViewDataBinding, ViewModel : BaseViewModel> : AppCompatActivity() {
 

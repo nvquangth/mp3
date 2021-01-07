@@ -1,4 +1,4 @@
-package com.bt.mp3.base.extension
+package com.bt.base.extension
 
 import android.app.Dialog
 import android.content.Context
@@ -6,7 +6,7 @@ import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
 import androidx.appcompat.app.AlertDialog
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import com.bt.mp3.base.R
+import com.bt.base.R
 
 var loadingDialog: Dialog? = null
 

@@ -7,13 +7,13 @@
 
         <variable
             name="result"
-            type="com.bt.mp3.base.model.Result" />
+            type="com.bt.base.model.Result" />
 
         <variable
             name="callback"
-            type="com.bt.mp3.base.model.RetryCallback" />
+            type="com.bt.base.model.RetryCallback" />
 
-        <import type="com.bt.mp3.base.model.Result" />
+        <import type="com.bt.base.model.Result" />
 
         <import type="android.view.View" />
     </data>

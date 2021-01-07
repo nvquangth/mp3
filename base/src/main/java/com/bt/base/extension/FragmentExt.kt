@@ -1,4 +1,4 @@
-package com.bt.mp3.base.extension
+package com.bt.base.extension
 
 import android.content.Context
 import android.view.View
@@ -7,10 +7,10 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.snackbar.Snackbar
-import com.bt.mp3.base.model.AlertExceptionItem
-import com.bt.mp3.base.model.DialogExceptionItem
-import com.bt.mp3.base.model.SnackBarExceptionItem
-import com.bt.mp3.base.model.ToastExceptionItem
+import com.bt.base.model.AlertExceptionItem
+import com.bt.base.model.DialogExceptionItem
+import com.bt.base.model.SnackBarExceptionItem
+import com.bt.base.model.ToastExceptionItem
 import com.bt.mp3.entity.exception.CleanExceptionType
 
 fun Fragment.hideKeyBoard() {

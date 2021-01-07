@@ -2,8 +2,8 @@ package com.bt.mp3.ui.main
 
 import android.os.Bundle
 import androidx.activity.viewModels
+import com.bt.base.ui.BaseActivity
 import com.bt.mp3.R
-import com.bt.mp3.base.ui.BaseActivity
 import com.bt.mp3.databinding.ActivityMainBinding
 import com.bt.mp3.extension.setupWithNavControllerKeepState
 import com.google.android.material.bottomnavigation.BottomNavigationView

@@ -1,4 +1,4 @@
-package com.bt.mp3.base.model
+package com.bt.base.model
 
 import com.bt.mp3.entity.exception.CleanExceptionType
 

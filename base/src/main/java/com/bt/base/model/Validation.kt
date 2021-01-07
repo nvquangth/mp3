@@ -1,4 +1,4 @@
-package com.bt.mp3.base.model
+package com.bt.base.model
 
 /**
  * A generic class that validate a value.

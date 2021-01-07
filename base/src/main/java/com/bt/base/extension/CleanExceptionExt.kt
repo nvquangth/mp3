@@ -1,11 +1,11 @@
-package com.bt.mp3.base.extension
+package com.bt.base.extension
 
 import android.content.Context
-import com.bt.mp3.base.R
-import com.bt.mp3.base.model.AlertExceptionItem
-import com.bt.mp3.base.model.DialogExceptionItem
-import com.bt.mp3.base.model.ExceptionItem
-import com.bt.mp3.base.model.SnackBarExceptionItem
+import com.bt.base.R
+import com.bt.base.model.AlertExceptionItem
+import com.bt.base.model.DialogExceptionItem
+import com.bt.base.model.ExceptionItem
+import com.bt.base.model.SnackBarExceptionItem
 import com.bt.mp3.entity.exception.CleanException
 import com.bt.mp3.entity.exception.CleanExceptionType
 

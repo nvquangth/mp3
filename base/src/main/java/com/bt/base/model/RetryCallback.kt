@@ -1,4 +1,4 @@
-package com.bt.mp3.base.model
+package com.bt.base.model
 
 interface RetryCallback {
 

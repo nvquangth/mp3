@@ -1,4 +1,4 @@
-package com.bt.mp3.base.ui
+package com.bt.base.ui
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -9,7 +9,7 @@ import androidx.recyclerview.widget.AsyncDifferConfig
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.bt.mp3.base.BR
+import com.bt.base.BR
 import java.util.concurrent.Executors
 
 abstract class BaseRecyclerAdapter<Item, ViewBinding : ViewDataBinding>(callback: DiffUtil.ItemCallback<Item>) :

@@ -1,7 +1,7 @@
-package com.bt.mp3.base.extension
+package com.bt.base.extension
 
 import com.google.android.material.textfield.TextInputLayout
-import com.bt.mp3.base.model.Validation
+import com.bt.base.model.Validation
 
 fun <T> TextInputLayout.setValidation(validationData: Validation<T>) {
     this.error =
