@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MP3</string>
+
+    <!--  Main  -->
+    <string name="main_tab_my_music">Cá nhân</string>
+    <string name="main_tab_discover">Khám phá</string>
+    <string name="main_tab_chart">#chart</string>
+    <string name="main_tab_radio">Radio</string>
+    <string name="main_tab_feed">Theo dõi</string>
+    <string name="hint_search">Bài hát, playlist, nghệ sĩ…</string>
+</resources>

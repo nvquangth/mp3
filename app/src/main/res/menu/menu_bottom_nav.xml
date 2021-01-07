@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tabMyMusic"
+        android:icon="@drawable/ic_my_music"
+        android:title="@string/main_tab_my_music" />
+
+    <item
+        android:id="@+id/tabDiscover"
+        android:icon="@drawable/ic_discover"
+        android:title="@string/main_tab_discover" />
+
+    <item
+        android:id="@+id/tabChart"
+        android:icon="@drawable/ic_chart"
+        android:title="@string/main_tab_chart" />
+
+    <item
+        android:id="@+id/tabRadio"
+        android:icon="@drawable/ic_radio"
+        android:title="@string/main_tab_radio" />
+
+    <item
+        android:id="@+id/tabFeed"
+        android:icon="@drawable/ic_feed"
+        android:title="@string/main_tab_feed" />
+</menu>

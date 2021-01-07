@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tabMyMusic"
+    app:startDestination="@id/myMusicFragment">
+
+    <fragment
+        android:id="@+id/myMusicFragment"
+        android:name="com.bt.mp3.ui.mymusic.MyMusicFragment"
+        android:label="MyMusicFragment"
+        tools:layout="@layout/fragment_my_music" />
+</navigation>

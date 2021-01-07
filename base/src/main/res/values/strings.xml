@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="retry">Retry</string>
+    <string name="update">Update</string>
+    <string name="no_thank">No, thanks</string>
+    <string name="connection_interrupted">Connection interrupted</string>
+    <string name="try_later">Try later</string>
+    <string name="logout">Log out</string>
+    <string name="login_fail">Username or password incorrect, please try again!</string>
+
+    <string name="notification">Notification</string>
+    <string name="data_empty">The data is not exists or empty</string>
+    <string name="server_maintenance">Server maintenance</string>
+    <string name="server_maintenance_message">The app will be available after the maintenance is complete</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="connection_timeout">The connection has time out</string>
+    <string name="new_version_app">New version available</string>
+    <string name="new_version_app_message">Please, update app to new version to continue using</string>
+    <string name="logout_message">You will be returned to the login screen</string>
+    <string name="msg_load_data_failed">Loading data failed, please try again!</string>
+    <string name="msg_loading">Loading data</string>
+
+    <string name="title_error_login">Login Error</string>
+</resources>

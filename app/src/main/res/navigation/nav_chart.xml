@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tabChart"
+    app:startDestination="@id/chartFragment">
+
+    <fragment
+        android:id="@+id/chartFragment"
+        android:name="com.bt.mp3.ui.chart.ChartFragment"
+        android:label="ChartFragment"
+        tools:layout="@layout/fragment_chart" />
+</navigation>

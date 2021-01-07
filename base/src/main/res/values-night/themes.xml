@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Top level DayNight theme to be used in AndroidManifest.xml-->
+    <style name="Theme.MyApp" parent="Base.Theme.MyApp">
+        <!--Material color attributes (dark theme) -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_600</item>
+        <item name="colorSecondary">@color/green_200</item>
+        <item name="colorSecondaryVariant">@color/green_500</item>
+        <item name="android:colorBackground">@color/black_900</item>
+        <item name="colorSurface">@color/black_800</item>
+        <item name="colorError">@color/red_200</item>
+        <item name="colorOnPrimary">@color/black_900</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/white_50</item>
+        <item name="colorOnSurface">@color/white_50</item>
+        <item name="colorOnError">@color/black_900</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR1" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_1</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_1</item>
+        <item name="colorSecondary">@color/color_secondary_theme_1</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_1</item>
+        <item name="android:colorBackground">@color/black_900</item>
+        <item name="colorSurface">@color/black_800</item>
+        <item name="colorError">@color/red_200</item>
+        <item name="colorOnPrimary">@color/black_900</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/white_50</item>
+        <item name="colorOnSurface">@color/white_50</item>
+        <item name="colorOnError">@color/black_900</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR2" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_2</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_2</item>
+        <item name="colorSecondary">@color/color_secondary_theme_2</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_2</item>
+        <item name="android:colorBackground">@color/black_900</item>
+        <item name="colorSurface">@color/black_800</item>
+        <item name="colorError">@color/red_200</item>
+        <item name="colorOnPrimary">@color/black_900</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/white_50</item>
+        <item name="colorOnSurface">@color/white_50</item>
+        <item name="colorOnError">@color/black_900</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR3" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_3</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_3</item>
+        <item name="colorSecondary">@color/color_secondary_theme_3</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_3</item>
+        <item name="android:colorBackground">@color/black_900</item>
+        <item name="colorSurface">@color/black_800</item>
+        <item name="colorError">@color/red_200</item>
+        <item name="colorOnPrimary">@color/black_900</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/white_50</item>
+        <item name="colorOnSurface">@color/white_50</item>
+        <item name="colorOnError">@color/black_900</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR4" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_4</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_4</item>
+        <item name="colorSecondary">@color/color_secondary_theme_4</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_4</item>
+        <item name="android:colorBackground">@color/black_900</item>
+        <item name="colorSurface">@color/black_800</item>
+        <item name="colorError">@color/red_200</item>
+        <item name="colorOnPrimary">@color/black_900</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/white_50</item>
+        <item name="colorOnSurface">@color/white_50</item>
+        <item name="colorOnError">@color/black_900</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR5" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_5</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_5</item>
+        <item name="colorSecondary">@color/color_secondary_theme_5</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_5</item>
+        <item name="android:colorBackground">@color/black_900</item>
+        <item name="colorSurface">@color/black_800</item>
+        <item name="colorError">@color/red_200</item>
+        <item name="colorOnPrimary">@color/black_900</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/white_50</item>
+        <item name="colorOnSurface">@color/white_50</item>
+        <item name="colorOnError">@color/black_900</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR6" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_6</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_6</item>
+        <item name="colorSecondary">@color/color_secondary_theme_6</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_6</item>
+        <item name="android:colorBackground">@color/black_900</item>
+        <item name="colorSurface">@color/black_800</item>
+        <item name="colorError">@color/red_200</item>
+        <item name="colorOnPrimary">@color/black_900</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/white_50</item>
+        <item name="colorOnSurface">@color/white_50</item>
+        <item name="colorOnError">@color/black_900</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR7" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_7</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_7</item>
+        <item name="colorSecondary">@color/color_secondary_theme_7</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_7</item>
+        <item name="android:colorBackground">@color/black_900</item>
+        <item name="colorSurface">@color/black_800</item>
+        <item name="colorError">@color/red_200</item>
+        <item name="colorOnPrimary">@color/black_900</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/white_50</item>
+        <item name="colorOnSurface">@color/white_50</item>
+        <item name="colorOnError">@color/black_900</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR8" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_8</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_8</item>
+        <item name="colorSecondary">@color/color_secondary_theme_8</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_8</item>
+        <item name="android:colorBackground">@color/black_900</item>
+        <item name="colorSurface">@color/black_800</item>
+        <item name="colorError">@color/red_200</item>
+        <item name="colorOnPrimary">@color/black_900</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/white_50</item>
+        <item name="colorOnSurface">@color/white_50</item>
+        <item name="colorOnError">@color/black_900</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR9" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_9</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_9</item>
+        <item name="colorSecondary">@color/color_secondary_theme_9</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_9</item>
+        <item name="android:colorBackground">@color/black_900</item>
+        <item name="colorSurface">@color/black_800</item>
+        <item name="colorError">@color/red_200</item>
+        <item name="colorOnPrimary">@color/black_900</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/white_50</item>
+        <item name="colorOnSurface">@color/white_50</item>
+        <item name="colorOnError">@color/black_900</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Top level DayNight theme to be used in AndroidManifest.xml-->
+    <style name="Theme.MyApp" parent="Base.Theme.MyApp">
+
+    </style>
+
+    <style name="Theme.MyApp.COLOR1" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_1</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_1</item>
+        <item name="colorSecondary">@color/color_secondary_theme_1</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_1</item>
+        <item name="android:colorBackground">@color/white_50</item>
+        <item name="colorSurface">@color/white_50</item>
+        <item name="colorError">@color/red_600</item>
+        <item name="colorOnPrimary">@color/white_50</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/black_900</item>
+        <item name="colorOnSurface">@color/black_900</item>
+        <item name="colorOnError">@color/white_50</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR2" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_2</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_2</item>
+        <item name="colorSecondary">@color/color_secondary_theme_2</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_2</item>
+        <item name="android:colorBackground">@color/white_50</item>
+        <item name="colorSurface">@color/white_50</item>
+        <item name="colorError">@color/red_600</item>
+        <item name="colorOnPrimary">@color/white_50</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/black_900</item>
+        <item name="colorOnSurface">@color/black_900</item>
+        <item name="colorOnError">@color/white_50</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR3" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_3</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_3</item>
+        <item name="colorSecondary">@color/color_secondary_theme_3</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_3</item>
+        <item name="android:colorBackground">@color/white_50</item>
+        <item name="colorSurface">@color/white_50</item>
+        <item name="colorError">@color/red_600</item>
+        <item name="colorOnPrimary">@color/white_50</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/black_900</item>
+        <item name="colorOnSurface">@color/black_900</item>
+        <item name="colorOnError">@color/white_50</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR4" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_4</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_4</item>
+        <item name="colorSecondary">@color/color_secondary_theme_4</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_4</item>
+        <item name="android:colorBackground">@color/white_50</item>
+        <item name="colorSurface">@color/white_50</item>
+        <item name="colorError">@color/red_600</item>
+        <item name="colorOnPrimary">@color/white_50</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/black_900</item>
+        <item name="colorOnSurface">@color/black_900</item>
+        <item name="colorOnError">@color/white_50</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR5" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_5</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_5</item>
+        <item name="colorSecondary">@color/color_secondary_theme_5</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_5</item>
+        <item name="android:colorBackground">@color/white_50</item>
+        <item name="colorSurface">@color/white_50</item>
+        <item name="colorError">@color/red_600</item>
+        <item name="colorOnPrimary">@color/white_50</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/black_900</item>
+        <item name="colorOnSurface">@color/black_900</item>
+        <item name="colorOnError">@color/white_50</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR6" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_6</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_6</item>
+        <item name="colorSecondary">@color/color_secondary_theme_6</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_6</item>
+        <item name="android:colorBackground">@color/white_50</item>
+        <item name="colorSurface">@color/white_50</item>
+        <item name="colorError">@color/red_600</item>
+        <item name="colorOnPrimary">@color/white_50</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/black_900</item>
+        <item name="colorOnSurface">@color/black_900</item>
+        <item name="colorOnError">@color/white_50</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR7" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_7</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_7</item>
+        <item name="colorSecondary">@color/color_secondary_theme_7</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_7</item>
+        <item name="android:colorBackground">@color/white_50</item>
+        <item name="colorSurface">@color/white_50</item>
+        <item name="colorError">@color/red_600</item>
+        <item name="colorOnPrimary">@color/white_50</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/black_900</item>
+        <item name="colorOnSurface">@color/black_900</item>
+        <item name="colorOnError">@color/white_50</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR8" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_8</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_8</item>
+        <item name="colorSecondary">@color/color_secondary_theme_8</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_8</item>
+        <item name="android:colorBackground">@color/white_50</item>
+        <item name="colorSurface">@color/white_50</item>
+        <item name="colorError">@color/red_600</item>
+        <item name="colorOnPrimary">@color/white_50</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/black_900</item>
+        <item name="colorOnSurface">@color/black_900</item>
+        <item name="colorOnError">@color/white_50</item>
+    </style>
+
+    <style name="Theme.MyApp.COLOR9" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">@color/color_primary_theme_9</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_theme_9</item>
+        <item name="colorSecondary">@color/color_secondary_theme_9</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_theme_9</item>
+        <item name="android:colorBackground">@color/white_50</item>
+        <item name="colorSurface">@color/white_50</item>
+        <item name="colorError">@color/red_600</item>
+        <item name="colorOnPrimary">@color/white_50</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/black_900</item>
+        <item name="colorOnSurface">@color/black_900</item>
+        <item name="colorOnError">@color/white_50</item>
+    </style>
+
+    <style name="Base.Theme.MaterialThemeBuilder" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">?android:attr/colorBackground</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarDividerColor">?attr/colorControlHighlight</item>
+    </style>
+
+    <!--Base custom theme which will be shared between both light and dark theme variants-->
+    <style name="Base.Theme.MyApp" parent="Base.Theme.MaterialThemeBuilder">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorSecondary">@color/green_200</item>
+        <item name="colorSecondaryVariant">@color/green_500</item>
+
+        <!--colorBackground appears behind scrollable content and is used for the default window-->
+        <!--background. colorSurface is mapped to the surface of components such as cards, sheets-->
+        <!--and menus. colorError is used to indicate an error state for components such as-->
+        <!--text fields.-->
+        <item name="android:colorBackground">@color/white_50</item>
+        <item name="colorSurface">@color/white_50</item>
+        <item name="colorError">@color/red_600</item>
+
+        <!--"On" colors define how text, icons and strokes are colored in relation to the surface-->
+        <!--on which they appear.-->
+        <item name="colorOnPrimary">@color/white_50</item>
+        <item name="colorOnSecondary">@color/black_900</item>
+        <item name="colorOnBackground">@color/black_900</item>
+        <item name="colorOnSurface">@color/black_900</item>
+        <item name="colorOnError">@color/white_50</item>
+
+        <!--Material type attributes-->
+        <item name="textAppearanceHeadline1">@style/TextAppearance.MyTheme.Headline1</item>
+        <item name="textAppearanceHeadline2">@style/TextAppearance.MyTheme.Headline2</item>
+        <item name="textAppearanceHeadline3">@style/TextAppearance.MyTheme.Headline3</item>
+        <item name="textAppearanceHeadline4">@style/TextAppearance.MyTheme.Headline4</item>
+        <item name="textAppearanceHeadline5">@style/TextAppearance.MyTheme.Headline5</item>
+        <item name="textAppearanceHeadline6">@style/TextAppearance.MyTheme.Headline6</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.MyTheme.Subtitle1</item>
+        <item name="textAppearanceSubtitle2">@style/TextAppearance.MyTheme.Subtitle2</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.MyTheme.Body1</item>
+        <item name="textAppearanceBody2">@style/TextAppearance.MyTheme.Body2</item>
+        <item name="textAppearanceButton">@style/TextAppearance.MyTheme.Button</item>
+        <item name="textAppearanceCaption">@style/TextAppearance.MyTheme.Caption</item>
+        <item name="textAppearanceOverline">@style/TextAppearance.MyTheme.Overline</item>
+
+        <!--Material shape attributes-->
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.MyTheme.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.MyTheme.MediumComponent</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.MyTheme.LargeComponent</item>
+
+        <!--Component styles-->
+        <item name="materialAlertDialogTheme">@style/ThemeOverlay.MaterialComponents.Dialog.Alert</item>
+        <item name="bottomSheetDialogTheme">@style/ThemeOverlay.MyTheme.BottomSheetDialog</item>
+        <item name="navigationViewStyle">@style/Widget.MyTheme.BottomNavigationView</item>
+        <item name="toolbarStyle">@style/Widget.MaterialComponents.Toolbar.PrimarySurface</item>
+    </style>
+</resources>

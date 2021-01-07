@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MP3</string>
+
+    <!--  Main  -->
+    <string name="main_tab_my_music">My Music</string>
+    <string name="main_tab_discover">Discover</string>
+    <string name="main_tab_chart">#chart</string>
+    <string name="main_tab_radio">Radio</string>
+    <string name="main_tab_feed">Feed</string>
+    <string name="hint_search">Song, playlist, artist…</string>
+</resources>

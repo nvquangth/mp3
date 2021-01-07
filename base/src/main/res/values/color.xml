@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Color palette-->
+
+    <color name="purple_200">#bb86fc</color> <!--Color primary (dark)-->
+    <color name="purple_500">#6200ee</color> <!--Color primary (light)-->
+    <color name="purple_600">#4b01d0</color> <!--Color primary variant (dark)-->
+    <color name="purple_700">#3700b3</color> <!--Color primary variant (light)-->
+
+    <color name="green_200">#03dac6</color> <!--Color secondary-->
+    <color name="green_500">#018786</color> <!--Color secondary variant-->
+
+    <color name="red_200">#cf6679</color> <!--Color error (dark)-->
+    <color name="red_600">#b00020</color> <!--Color error (light)-->
+
+    <!--Color surface (light), color on error (light), -->
+    <!--color on surface (dark), color on surface (dark)-->
+    <color name="white_50">#ffffff</color>
+
+    <color name="black_800">#121212</color> <!--Color surface (dark)-->
+    <!--Color on secondary (light), color on background (light),-->
+    <!--color on surface (light)-->
+    <color name="black_900">#000000</color>
+
+    <color name="color_primary_theme_1">#572f90</color>
+    <color name="color_primary_variant_theme_1">#4268E3</color>
+    <color name="color_secondary_theme_1">#AF42E3</color>
+    <color name="color_secondary_variant_theme_1">#FD49CE</color>
+
+    <color name="color_primary_theme_2">#4B6580</color>
+    <color name="color_primary_variant_theme_2">#4258E3</color>
+    <color name="color_secondary_theme_2">#9F42E3</color>
+    <color name="color_secondary_variant_theme_2">#F149FD</color>
+
+    <color name="color_primary_theme_3">#27AE61</color>
+    <color name="color_primary_variant_theme_3">#42ACE3</color>
+    <color name="color_secondary_theme_3">#E342C1</color>
+    <color name="color_secondary_variant_theme_3">#FD7649</color>
+
+    <color name="color_primary_theme_4">#9B58B5</color>
+    <color name="color_primary_variant_theme_4">#8D42E3</color>
+    <color name="color_secondary_theme_4">#4247E3</color>
+    <color name="color_secondary_variant_theme_4">#497AFD</color>
+
+    <color name="color_primary_theme_5">#D64457</color>
+    <color name="color_primary_variant_theme_5">#CA42E3</color>
+    <color name="color_secondary_theme_5">#4282E3</color>
+    <color name="color_secondary_variant_theme_5">#49FDFC</color>
+
+    <color name="color_primary_theme_6">#6E9992</color>
+    <color name="color_primary_variant_theme_6">#428EE3</color>
+    <color name="color_secondary_theme_6">#D742E3</color>
+    <color name="color_secondary_variant_theme_6">#FD5149</color>
+
+    <color name="color_primary_theme_7">#16A086</color>
+    <color name="color_primary_variant_theme_7">#428FE3</color>
+    <color name="color_secondary_theme_7">#D842E3</color>
+    <color name="color_secondary_variant_theme_7">#FD5349</color>
+
+    <color name="color_primary_theme_8">#E67E22</color>
+    <color name="color_primary_variant_theme_8">#E34285</color>
+    <color name="color_secondary_theme_8">#42CBE3</color>
+    <color name="color_secondary_variant_theme_8">#49FD4C</color>
+
+    <color name="color_primary_theme_9">#D73C8A</color>
+    <color name="color_primary_variant_theme_9">#BA42E3</color>
+    <color name="color_secondary_theme_9">#4272E3</color>
+    <color name="color_secondary_variant_theme_9">#49DBFD</color>
+
+    <color name="color_gray_50">#FAFAFA</color>
+    <color name="color_gray_100">#F5F5F5</color>
+    <color name="color_gray_200">#EEEEEE</color>
+    <color name="color_gray_300">#E0E0E0</color>
+    <color name="color_gray_400">#BDBDBD</color>
+    <color name="color_gray_500">#9E9E9E</color>
+    <color name="color_gray_600">#757575</color>
+    <color name="color_gray_700">#616161</color>
+    <color name="color_gray_800">#424242</color>
+    <color name="color_gray_900">#212121</color>
+</resources>

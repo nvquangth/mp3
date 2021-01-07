@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/buttonNavigate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:padding="12dp"
+        android:src="@drawable/ic_baseline_clear_24"
+        app:layout_constraintBottom_toBottomOf="@id/titleConfig"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/titleConfig" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/titleConfig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cấu hình"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@id/textSwitcher"
+        app:layout_constraintStart_toEndOf="@id/buttonNavigate"
+        app:layout_constraintTop_toTopOf="@id/textSwitcher" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/textSwitcher"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="Server"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toStartOf="@+id/textReset"
+        app:layout_constraintStart_toEndOf="@+id/titleConfig"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/textReset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackground"
+        android:padding="8dp"
+        android:text="Reset"
+        android:textAllCaps="true"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/textSwitcher"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textSwitcher" />
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/pagerConfig"
+        android:layout_width="0dp"
+        android:layout_height="300dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textSwitcher" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
