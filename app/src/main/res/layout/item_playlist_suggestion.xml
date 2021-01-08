@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_64">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imagePlaylist"
+            android:layout_width="@dimen/dp_64"
+            android:layout_height="@dimen/dp_64"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imageFavorite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dp_8"
+            android:tint="?colorOnBackground"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_favorite" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp_8"
+            android:layout_marginEnd="@dimen/dp_8"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="?colorOnBackground"
+            app:layout_constraintBottom_toTopOf="@+id/textPublisher"
+            app:layout_constraintEnd_toStartOf="@+id/imageFavorite"
+            app:layout_constraintStart_toEndOf="@+id/imagePlaylist"
+            app:layout_constraintTop_toTopOf="@+id/imageFavorite"
+            tools:text="Quán Quân #ZMA2020" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textPublisher"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp_8"
+            android:layout_marginEnd="@dimen/dp_8"
+            android:ellipsize="end"
+            android:maxLines="1"
+            app:layout_constraintBottom_toBottomOf="@+id/imageFavorite"
+            app:layout_constraintEnd_toStartOf="@+id/imageFavorite"
+            app:layout_constraintStart_toEndOf="@+id/imagePlaylist"
+            app:layout_constraintTop_toBottomOf="@+id/title"
+            tools:text="Zing MP3" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

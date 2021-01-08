@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/iconAdd"
+            android:layout_width="@dimen/dp_64"
+            android:layout_height="@dimen/dp_64"
+            android:background="@drawable/bg_rect_primary_4"
+            android:padding="@dimen/dp_18"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_add_circle" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textCreatePlaylist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp_16"
+            android:text="@string/create_playlist"
+            android:textColor="?colorPrimary"
+            app:layout_constraintBottom_toBottomOf="@+id/iconAdd"
+            app:layout_constraintStart_toEndOf="@+id/iconAdd"
+            app:layout_constraintTop_toTopOf="@+id/iconAdd" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/titlePlaylistSuggestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_16"
+            android:text="@string/playlist_suggest"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/iconAdd" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textPlaylistSuggestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="@+id/titlePlaylistSuggestion"
+            app:layout_constraintTop_toBottomOf="@+id/titlePlaylistSuggestion"
+            tools:text="Đang được nghe nhiều" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerPlaylist"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="@dimen/dp_8"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textPlaylistSuggestion"
+            tools:listitem="@layout/item_playlist_suggestion" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

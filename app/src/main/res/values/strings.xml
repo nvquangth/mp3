@@ -17,4 +17,6 @@
     <string name="album">Album</string>
     <string name="mv">MV</string>
     <string name="artist">Artist</string>
+    <string name="create_playlist">Create playlist</string>
+    <string name="playlist_suggest">Playlist suggestion</string>
 </resources>

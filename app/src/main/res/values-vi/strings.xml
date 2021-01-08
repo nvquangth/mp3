@@ -17,4 +17,6 @@
     <string name="album">Album</string>
     <string name="mv">MV</string>
     <string name="artist">Nghệ sĩ</string>
+    <string name="create_playlist">Tạo playl</string>
+    <string name="playlist_suggest">Playlist gợi ý</string>
 </resources>
