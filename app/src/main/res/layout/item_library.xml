@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="item"
+            type="com.bt.mp3.model.LibraryItem" />
+
+        <import type="android.view.View" />
+    </data>
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="@dimen/dp_168"
+        android:layout_height="@dimen/dp_72"
+        app:cardCornerRadius="@dimen/dp_6"
+        app:cardElevation="@dimen/dp_4">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/iconLib"
+                bindingSrc="@{item.iconResId}"
+                android:layout_width="@dimen/dp_32"
+                android:layout_height="@dimen/dp_32"
+                android:layout_marginStart="@dimen/dp_8"
+                android:layout_marginTop="@dimen/dp_8"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/textTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dp_2"
+                android:text="@{item.title}"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="@+id/iconLib"
+                app:layout_constraintTop_toBottomOf="@+id/iconLib"
+                tools:text="Bài hát" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/textTotalItem"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dp_4"
+                android:text="@{item.totalItem.toString()}"
+                android:textSize="@dimen/sp_12"
+                android:visibility="@{item.totalItem == 0 ? View.GONE : View.VISIBLE}"
+                app:layout_constraintBottom_toBottomOf="@+id/textTitle"
+                app:layout_constraintStart_toEndOf="@+id/textTitle"
+                app:layout_constraintTop_toTopOf="@+id/textTitle"
+                tools:text="19" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </com.google.android.material.card.MaterialCardView>
+</layout>

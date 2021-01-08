@@ -12,8 +12,11 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bt.base.BR
 import java.util.concurrent.Executors
 
+/**
+ * Apply DiffUtil
+ */
 abstract class BaseRecyclerAdapter<Item, ViewBinding : ViewDataBinding>(callback: DiffUtil.ItemCallback<Item>) :
-    ListAdapter<Item, BaseViewHolder<ViewBinding>>(
+    ListAdapter<Item, BaseRecyclerAdapter.BaseViewHolder<ViewBinding>>(
         AsyncDifferConfig.Builder<Item>(callback)
             .setBackgroundThreadExecutor(Executors.newSingleThreadExecutor())
             .build()
@@ -54,7 +57,6 @@ abstract class BaseRecyclerAdapter<Item, ViewBinding : ViewDataBinding>(callback
     protected open fun bindFirstTime(binding: ViewBinding) {}
 
     protected open fun bindView(binding: ViewBinding, item: Item, position: Int) {}
-}
 
-open class BaseViewHolder<ViewBinding : ViewDataBinding> constructor(val binding: ViewBinding) :
-    RecyclerView.ViewHolder(binding.root)
+    open class BaseViewHolder<ViewBinding : ViewDataBinding> constructor(val binding: ViewBinding) : RecyclerView.ViewHolder(binding.root)
+}

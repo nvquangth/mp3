@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
 
     <data>
 
@@ -31,50 +32,66 @@
                     android:id="@+id/toolbar"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:background="@android:color/white"
+                    app:elevation="10dp"
                     app:layout_scrollFlags="scroll|enterAlways">
 
                     <androidx.appcompat.widget.AppCompatImageView
                         android:id="@+id/imageUser"
                         android:layout_width="@dimen/dp_32"
                         android:layout_height="@dimen/dp_32"
-                        android:tint="@android:color/white"
+                        android:tint="@color/color_gray_300"
                         app:srcCompat="@drawable/ic_baseline_account_circle_24" />
 
-                    <LinearLayout
+                    <androidx.constraintlayout.widget.ConstraintLayout
                         android:id="@+id/layoutSearchToolbar"
                         android:layout_width="match_parent"
                         android:layout_height="@dimen/dp_32"
                         android:layout_marginStart="@dimen/dp_24"
                         android:layout_marginEnd="@dimen/dp_16"
-                        android:background="@drawable/bg_rect_white_16"
-                        android:gravity="center_vertical"
-                        android:orientation="horizontal">
+                        android:background="@drawable/bg_rect_gray_300_16">
 
                         <androidx.appcompat.widget.AppCompatImageView
                             android:id="@+id/imageSearchIcon"
                             android:layout_width="@dimen/dp_20"
                             android:layout_height="@dimen/dp_20"
                             android:layout_marginStart="@dimen/dp_8"
+                            app:layout_constraintBottom_toBottomOf="@+id/appCompatEditText"
+                            app:layout_constraintEnd_toStartOf="@+id/appCompatEditText"
+                            app:layout_constraintHorizontal_bias="0.5"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="@+id/appCompatEditText"
                             app:srcCompat="@drawable/ic_baseline_search_24" />
 
                         <androidx.appcompat.widget.AppCompatEditText
+                            android:id="@+id/appCompatEditText"
                             android:layout_width="0dp"
                             android:layout_height="@dimen/dp_32"
                             android:layout_marginStart="@dimen/dp_8"
                             android:layout_marginEnd="@dimen/dp_8"
-                            android:layout_weight="1"
                             android:background="@null"
                             android:enabled="false"
                             android:hint="@string/hint_search"
-                            android:textSize="@dimen/sp_12" />
+                            android:textSize="@dimen/sp_12"
+                            app:layout_constraintBottom_toBottomOf="@+id/imageSearchVoice"
+                            app:layout_constraintEnd_toStartOf="@+id/imageSearchVoice"
+                            app:layout_constraintHorizontal_bias="0.5"
+                            app:layout_constraintStart_toEndOf="@+id/imageSearchIcon"
+                            app:layout_constraintTop_toTopOf="@+id/imageSearchVoice" />
 
                         <androidx.appcompat.widget.AppCompatImageView
                             android:id="@+id/imageSearchVoice"
                             android:layout_width="@dimen/dp_20"
                             android:layout_height="@dimen/dp_20"
                             android:layout_marginEnd="@dimen/dp_8"
-                            app:srcCompat="@drawable/ic_baseline_keyboard_voice_24" />
-                    </LinearLayout>
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintHorizontal_bias="0.5"
+                            app:layout_constraintStart_toEndOf="@+id/appCompatEditText"
+                            app:layout_constraintTop_toTopOf="parent"
+                            app:srcCompat="@drawable/ic_baseline_keyboard_voice_24"
+                            tools:layout_editor_absoluteY="2dp" />
+                    </androidx.constraintlayout.widget.ConstraintLayout>
                 </com.google.android.material.appbar.MaterialToolbar>
             </com.google.android.material.appbar.AppBarLayout>
 

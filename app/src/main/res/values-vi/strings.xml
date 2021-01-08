@@ -8,4 +8,13 @@
     <string name="main_tab_radio">Radio</string>
     <string name="main_tab_feed">Theo dõi</string>
     <string name="hint_search">Bài hát, playlist, nghệ sĩ…</string>
+
+    <!--  My music  -->
+    <string name="library">Thư viện</string>
+    <string name="song">Bài hát</string>
+    <string name="on_device">Trên thiết bị</string>
+    <string name="upload">Upload</string>
+    <string name="album">Album</string>
+    <string name="mv">MV</string>
+    <string name="artist">Nghệ sĩ</string>
 </resources>

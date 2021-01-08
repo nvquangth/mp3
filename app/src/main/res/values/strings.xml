@@ -8,4 +8,13 @@
     <string name="main_tab_radio">Radio</string>
     <string name="main_tab_feed">Feed</string>
     <string name="hint_search">Song, playlist, artist…</string>
+
+    <!--  My music  -->
+    <string name="library">Library</string>
+    <string name="song">Song</string>
+    <string name="on_device">Device</string>
+    <string name="upload">Upload</string>
+    <string name="album">Album</string>
+    <string name="mv">MV</string>
+    <string name="artist">Artist</string>
 </resources>
