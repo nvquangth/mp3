@@ -17,6 +17,13 @@
     <string name="album">Album</string>
     <string name="mv">MV</string>
     <string name="artist">Nghệ sĩ</string>
+    <string name="playlist">Playlist</string>
+    <string name="recently">Gần đây</string>
     <string name="create_playlist">Tạo playl</string>
     <string name="playlist_suggest">Playlist gợi ý</string>
+    <string name="recently_song">Bài hát gần đây</string>
+    <string name="most_popular">Đang được nghe nhiều</string>
+    <string name="top_10">Top 10</string>
+    <string name="top_50">Top 50</string>
+    <string name="top_100">Top 100</string>
 </resources>

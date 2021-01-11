@@ -3,16 +3,25 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <data>
+
+        <variable
+            name="playlistType"
+            type="com.bt.mp3.model.PlaylistTypeItem" />
+    </data>
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:paddingTop="@dimen/dp_12">
 
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/iconAdd"
-            android:layout_width="@dimen/dp_64"
-            android:layout_height="@dimen/dp_64"
+            android:layout_width="@dimen/dp_48"
+            android:layout_height="@dimen/dp_48"
+            android:layout_marginStart="@dimen/dp_12"
             android:background="@drawable/bg_rect_primary_4"
-            android:padding="@dimen/dp_18"
+            android:padding="@dimen/dp_12"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/ic_add_circle" />
@@ -32,16 +41,19 @@
             android:id="@+id/titlePlaylistSuggestion"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="@dimen/dp_16"
+            android:layout_marginTop="@dimen/dp_20"
             android:text="@string/playlist_suggest"
             android:textStyle="bold"
-            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/iconAdd"
             app:layout_constraintTop_toBottomOf="@+id/iconAdd" />
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/textPlaylistSuggestion"
+            bindingPlaylistTitle="@{playlistType}"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="?attr/colorOnBackground"
+            android:textSize="@dimen/sp_12"
             app:layout_constraintStart_toStartOf="@+id/titlePlaylistSuggestion"
             app:layout_constraintTop_toBottomOf="@+id/titlePlaylistSuggestion"
             tools:text="Đang được nghe nhiều" />

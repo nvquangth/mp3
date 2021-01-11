@@ -2,14 +2,18 @@ package com.bt.mp3.ui.mymusic
 
 import android.graphics.Rect
 import android.os.Bundle
-import android.util.Log
 import android.view.View
+import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.RecyclerView
+import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.bt.base.ui.BaseFragment
 import com.bt.mp3.R
 import com.bt.mp3.databinding.FragmentMyMusicBinding
 import com.bt.mp3.model.LibraryItem
+import com.bt.mp3.ui.mymusic.playlist.PlaylistFragment
+import com.bt.mp3.ui.mymusic.recentsong.RecentSongFragment
+import com.google.android.material.tabs.TabLayoutMediator
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.android.synthetic.main.fragment_my_music.*
 
@@ -23,9 +27,9 @@ class MyMusicFragment : BaseFragment<FragmentMyMusicBinding, MyMusicViewModel>()
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
+        // Library
         val libraryAdapter = LibraryAdapter {
         }
-
         recyclerLibrary?.apply {
             adapter = libraryAdapter
             addItemDecoration(
@@ -33,9 +37,6 @@ class MyMusicFragment : BaseFragment<FragmentMyMusicBinding, MyMusicViewModel>()
                     override fun getItemOffsets(outRect: Rect, view: View, parent: RecyclerView, state: RecyclerView.State) {
                         super.getItemOffsets(outRect, view, parent, state)
                         val pos = parent.getChildAdapterPosition(view)
-
-                        Log.d("quangnvxx", "$pos - ${getLibraries()[pos].title}")
-
                         when (pos % 2) {
                             0 -> {
                                 outRect.apply {
@@ -65,6 +66,18 @@ class MyMusicFragment : BaseFragment<FragmentMyMusicBinding, MyMusicViewModel>()
             )
         }
 
+        // Playlist
+        val myMusicPagerAdapter = MyMusicPagerAdapter(this)
+        pagerMyMusic?.apply {
+            adapter = myMusicPagerAdapter
+        }
+        TabLayoutMediator(tabLayout, pagerMyMusic) { tab, position ->
+            tab.text = when (position) {
+                0 -> getString(R.string.playlist)
+                else -> getString(R.string.recently)
+            }
+        }.attach()
+
         libraryAdapter.setData(getLibraries())
     }
 
@@ -77,5 +90,20 @@ class MyMusicFragment : BaseFragment<FragmentMyMusicBinding, MyMusicViewModel>()
             LibraryItem(5, getString(R.string.mv), R.drawable.ic_my_videos_simple, 0),
             LibraryItem(6, getString(R.string.artist), R.drawable.ic_my_artists_simple, 16),
         )
+    }
+
+    private class MyMusicPagerAdapter(f: Fragment) : FragmentStateAdapter(f) {
+
+        companion object {
+
+            private const val ITEM_COUNT = 2
+        }
+
+        override fun getItemCount(): Int = ITEM_COUNT
+
+        override fun createFragment(position: Int): Fragment = when (position) {
+            0 -> PlaylistFragment.newInstance()
+            else -> RecentSongFragment.newInstance()
+        }
     }
 }

@@ -22,9 +22,9 @@
     <!--color on surface (light)-->
     <color name="black_900">#000000</color>
 
-    <color name="color_primary_theme_1">#572f90</color>
+    <color name="color_primary_theme_1">#8947ad</color>
     <color name="color_primary_variant_theme_1">#4268E3</color>
-    <color name="color_secondary_theme_1">#AF42E3</color>
+    <color name="color_secondary_theme_1">#1a8947ad</color>
     <color name="color_secondary_variant_theme_1">#FD49CE</color>
 
     <color name="color_primary_theme_2">#4B6580</color>
