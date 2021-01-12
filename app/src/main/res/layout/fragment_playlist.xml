@@ -10,64 +10,73 @@
             type="com.bt.mp3.model.PlaylistTypeItem" />
     </data>
 
-    <androidx.constraintlayout.widget.ConstraintLayout
+    <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:paddingTop="@dimen/dp_12">
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:overScrollMode="never">
 
-        <androidx.appcompat.widget.AppCompatImageView
-            android:id="@+id/iconAdd"
-            android:layout_width="@dimen/dp_48"
-            android:layout_height="@dimen/dp_48"
-            android:layout_marginStart="@dimen/dp_12"
-            android:background="@drawable/bg_rect_primary_4"
-            android:padding="@dimen/dp_12"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/ic_add_circle" />
-
-        <com.google.android.material.textview.MaterialTextView
-            android:id="@+id/textCreatePlaylist"
-            android:layout_width="wrap_content"
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginStart="@dimen/dp_16"
-            android:text="@string/create_playlist"
-            android:textColor="?colorPrimary"
-            app:layout_constraintBottom_toBottomOf="@+id/iconAdd"
-            app:layout_constraintStart_toEndOf="@+id/iconAdd"
-            app:layout_constraintTop_toTopOf="@+id/iconAdd" />
+            android:paddingTop="@dimen/dp_12">
 
-        <com.google.android.material.textview.MaterialTextView
-            android:id="@+id/titlePlaylistSuggestion"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="@dimen/dp_20"
-            android:text="@string/playlist_suggest"
-            android:textStyle="bold"
-            app:layout_constraintStart_toStartOf="@+id/iconAdd"
-            app:layout_constraintTop_toBottomOf="@+id/iconAdd" />
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/iconAdd"
+                android:layout_width="@dimen/dp_48"
+                android:layout_height="@dimen/dp_48"
+                android:layout_marginStart="@dimen/dp_12"
+                android:background="@drawable/bg_rect_primary_4"
+                android:padding="@dimen/dp_12"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ic_add_circle" />
 
-        <com.google.android.material.textview.MaterialTextView
-            android:id="@+id/textPlaylistSuggestion"
-            bindingPlaylistTitle="@{playlistType}"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="?attr/colorOnBackground"
-            android:textSize="@dimen/sp_12"
-            app:layout_constraintStart_toStartOf="@+id/titlePlaylistSuggestion"
-            app:layout_constraintTop_toBottomOf="@+id/titlePlaylistSuggestion"
-            tools:text="Đang được nghe nhiều" />
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/textCreatePlaylist"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dp_16"
+                android:text="@string/create_playlist"
+                android:textColor="?colorPrimary"
+                app:layout_constraintBottom_toBottomOf="@+id/iconAdd"
+                app:layout_constraintStart_toEndOf="@+id/iconAdd"
+                app:layout_constraintTop_toTopOf="@+id/iconAdd" />
 
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recyclerPlaylist"
-            android:layout_width="0dp"
-            android:layout_height="0dp"
-            android:layout_marginTop="@dimen/dp_8"
-            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textPlaylistSuggestion"
-            tools:listitem="@layout/item_playlist_suggestion" />
-    </androidx.constraintlayout.widget.ConstraintLayout>
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/titlePlaylistSuggestion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dp_20"
+                android:text="@string/playlist_suggest"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="@+id/iconAdd"
+                app:layout_constraintTop_toBottomOf="@+id/iconAdd" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/textPlaylistSuggestion"
+                bindingPlaylistTitle="@{playlistType}"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="?attr/colorOnBackground"
+                android:textSize="@dimen/sp_12"
+                app:layout_constraintStart_toStartOf="@+id/titlePlaylistSuggestion"
+                app:layout_constraintTop_toBottomOf="@+id/titlePlaylistSuggestion"
+                tools:text="Đang được nghe nhiều" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerPlaylist"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dp_8"
+                android:nestedScrollingEnabled="true"
+                android:overScrollMode="never"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textPlaylistSuggestion"
+                tools:itemCount="50"
+                tools:listitem="@layout/item_playlist_suggestion" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.core.widget.NestedScrollView>
 </layout>

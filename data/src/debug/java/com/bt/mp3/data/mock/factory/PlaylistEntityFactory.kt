@@ -26,9 +26,11 @@ object PlaylistEntityFactory {
         ),
         createPlaylistEntity(
             title = "Nghệ Sĩ Của Năm #ZMA2020",
+            imageUrl = "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/4/1/0/f/410f5f95073fdcc8682212e44dcb0c62.jpg"
         ),
         createPlaylistEntity(
             title = "Nữ Ca Sĩ Được Yêu Thích #ZMA2020",
+            imageUrl = "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/1/e/a/e/1eae0f2f82f63a34febe5bac0f82c380.jpg"
         ),
         createPlaylistEntity(
             title = "Nam Ca Sĩ Được Yêu Thích",
