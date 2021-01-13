@@ -1,7 +1,9 @@
 package com.bt.mp3.data.di
 
 import com.bt.mp3.data.repositoryimpl.PlaylistRepositoryImpl
+import com.bt.mp3.data.repositoryimpl.SongRepositoryImpl
 import com.bt.mp3.domain.repository.PlaylistRepository
+import com.bt.mp3.domain.repository.SongRepository
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn
@@ -15,4 +17,8 @@ abstract class RepositoryModule {
     @Singleton
     @Binds
     abstract fun bindPlaylistRepository(playlistRepositoryImpl: PlaylistRepositoryImpl): PlaylistRepository
+
+    @Singleton
+    @Binds
+    abstract fun bindSongRepository(songRepositoryImpl: SongRepositoryImpl): SongRepository
 }

@@ -8,6 +8,7 @@ import com.bt.mp3.model.PlaylistItem
 
 class PlaylistAdapter(
     private val onItemClickListener: ((PlaylistItem) -> Unit)? = null,
+    private val onItemLongClickListener: ((PlaylistItem) -> Unit)? = null,
     private val onFavoriteItemClickListener: ((PlaylistItem) -> Unit)? = null
 ) : BaseRecyclerAdapter<PlaylistItem, ItemPlaylistSuggestionBinding>(
     object : DiffUtil.ItemCallback<PlaylistItem>() {
@@ -28,6 +29,12 @@ class PlaylistAdapter(
                 item?.let {
                     onItemClickListener?.invoke(it)
                 }
+            }
+            root.setOnLongClickListener {
+                item?.let {
+                    onItemLongClickListener?.invoke(it)
+                }
+                true
             }
             imageFavorite.setOnClickListener {
                 item?.let {

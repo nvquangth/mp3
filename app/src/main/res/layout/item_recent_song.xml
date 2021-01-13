@@ -7,7 +7,7 @@
 
         <variable
             name="item"
-            type="com.bt.mp3.model.PlaylistItem" />
+            type="com.bt.mp3.model.SongItem" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -18,7 +18,7 @@
         android:paddingBottom="@dimen/dp_8">
 
         <androidx.appcompat.widget.AppCompatImageView
-            android:id="@+id/imagePlaylist"
+            android:id="@+id/imageSong"
             bindingImageRadius="@{4}"
             bindingImageUrl="@{item.imageUrl}"
             android:layout_width="@dimen/dp_52"
@@ -26,19 +26,6 @@
             android:layout_marginStart="@dimen/dp_12"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
-
-        <androidx.appcompat.widget.AppCompatImageView
-            android:id="@+id/imageFavorite"
-            android:layout_width="0dp"
-            android:layout_height="0dp"
-            android:background="?attr/actionBarItemBackground"
-            android:padding="@dimen/dp_16"
-            android:tint="?colorOnBackground"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintDimensionRatio="1:1"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/ic_favorite" />
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/title"
@@ -52,11 +39,11 @@
             android:textColor="?colorOnBackground"
             android:textSize="@dimen/sp_13"
             app:layout_constraintBottom_toTopOf="@+id/textPublisher"
-            app:layout_constraintEnd_toStartOf="@+id/imageFavorite"
-            app:layout_constraintStart_toEndOf="@+id/imagePlaylist"
-            app:layout_constraintTop_toTopOf="@+id/imageFavorite"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageSong"
+            app:layout_constraintTop_toTopOf="@+id/imageSong"
             app:layout_constraintVertical_chainStyle="packed"
-            tools:text="Ca Khúc Dance/Electonic Được Yêu Thích #ZMA2020" />
+            tools:text="Hello Việt Nam (Single)" />
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/textPublisher"
@@ -66,12 +53,12 @@
             android:layout_marginEnd="@dimen/dp_8"
             android:ellipsize="end"
             android:maxLines="1"
-            android:text="@{item.publisher.name}"
+            android:text="@{item.artistStr}"
             android:textSize="@dimen/sp_12"
-            app:layout_constraintBottom_toBottomOf="@+id/imageFavorite"
-            app:layout_constraintEnd_toStartOf="@+id/imageFavorite"
-            app:layout_constraintStart_toEndOf="@+id/imagePlaylist"
+            app:layout_constraintBottom_toBottomOf="@+id/imageSong"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageSong"
             app:layout_constraintTop_toBottomOf="@+id/title"
-            tools:text="Zing MP3" />
+            tools:text="Phạm Quỳnh Anh" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>

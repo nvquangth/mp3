@@ -25,11 +25,11 @@ class PlaylistViewModel @ViewModelInject constructor(
 
     val playlists: LiveData<List<PlaylistItem>> = _playlistType.switchMap {
         liveData(defaultDispatcher) {
-            val data = getPlaylistUseCase.execute(GetPlaylistUseCase.Param(type = it)).map {
+            getPlaylistUseCase.execute(GetPlaylistUseCase.Param(type = it)).map {
                 playlistItemMapper.mapToPresentation(it)
+            }.run {
+                emit(this)
             }
-
-            emit(data)
         }
     }
 

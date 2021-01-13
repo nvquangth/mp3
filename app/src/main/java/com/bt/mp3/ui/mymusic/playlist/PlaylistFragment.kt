@@ -27,12 +27,7 @@ class PlaylistFragment : BaseFragment<FragmentPlaylistBinding, PlaylistViewModel
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        val playlistAdapter = PlaylistAdapter(
-            {
-            },
-            {
-            }
-        )
+        val playlistAdapter = PlaylistAdapter()
         recyclerPlaylist.apply {
             adapter = playlistAdapter
         }

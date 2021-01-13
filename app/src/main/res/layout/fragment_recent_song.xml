@@ -1,33 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
 
-    <androidx.constraintlayout.widget.ConstraintLayout
+    <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:paddingStart="@dimen/dp_12"
-        android:paddingTop="@dimen/dp_12"
-        android:paddingEnd="@dimen/dp_12">
+        android:overScrollMode="never">
 
-        <androidx.appcompat.widget.AppCompatImageView
-            android:id="@+id/iconRecent"
-            android:layout_width="@dimen/dp_48"
-            android:layout_height="@dimen/dp_48"
-            android:background="@drawable/bg_rect_primary_4"
-            android:padding="@dimen/dp_12"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/ic_recent_song" />
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="@dimen/dp_12">
 
-        <com.google.android.material.textview.MaterialTextView
-            android:id="@+id/textViewRecent"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="@dimen/dp_16"
-            android:text="@string/recently_song"
-            android:textColor="?colorPrimary"
-            app:layout_constraintBottom_toBottomOf="@+id/iconRecent"
-            app:layout_constraintStart_toEndOf="@+id/iconRecent"
-            app:layout_constraintTop_toTopOf="@+id/iconRecent" />
-    </androidx.constraintlayout.widget.ConstraintLayout>
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/iconRecent"
+                android:layout_width="@dimen/dp_52"
+                android:layout_height="@dimen/dp_52"
+                android:layout_marginStart="@dimen/dp_12"
+                android:background="@drawable/bg_rect_primary_4"
+                android:padding="@dimen/dp_12"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ic_recent_song" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/textViewRecent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dp_16"
+                android:text="@string/recently_song"
+                android:textColor="?colorPrimary"
+                app:layout_constraintBottom_toBottomOf="@+id/iconRecent"
+                app:layout_constraintStart_toEndOf="@+id/iconRecent"
+                app:layout_constraintTop_toTopOf="@+id/iconRecent" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerRecentSong"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dp_8"
+                android:nestedScrollingEnabled="true"
+                android:overScrollMode="never"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/iconRecent"
+                tools:itemCount="50"
+                tools:listitem="@layout/item_recent_song" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.core.widget.NestedScrollView>
 </layout>
