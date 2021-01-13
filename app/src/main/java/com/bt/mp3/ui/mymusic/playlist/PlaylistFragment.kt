@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.View
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.observe
+import com.bt.base.model.Result
 import com.bt.base.ui.BaseFragment
 import com.bt.mp3.R
 import com.bt.mp3.databinding.FragmentPlaylistBinding
@@ -37,8 +38,12 @@ class PlaylistFragment : BaseFragment<FragmentPlaylistBinding, PlaylistViewModel
                 viewBinding.playlistType = PlaylistTypeItemMapper.mapToPresentation(it)
             }
 
-            playlists.observe(viewLifecycleOwner) {
-                playlistAdapter.submitList(it.toMutableList())
+            playlistsResult.observe(viewLifecycleOwner) {
+                when (it) {
+                    is Result.Success -> {
+                        playlistAdapter.submitList(it.data.toMutableList())
+                    }
+                }
             }
 
             setPlaylistType(PlaylistTypeItem.MOST_POPULAR)

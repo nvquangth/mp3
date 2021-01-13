@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.View
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.observe
+import com.bt.base.model.Result
 import com.bt.base.ui.BaseFragment
 import com.bt.mp3.R
 import com.bt.mp3.databinding.FragmentRecentSongBinding
@@ -31,8 +32,10 @@ class RecentSongFragment : BaseFragment<FragmentRecentSongBinding, RecentSongVie
         }
 
         with(viewModel) {
-            recentSongs.observe(viewLifecycleOwner) {
-                songAdapter.submitList(it.toMutableList())
+            recentSongsResult.observe(viewLifecycleOwner) {
+                when (it) {
+                    is Result.Success -> songAdapter.submitList(it.data.toMutableList())
+                }
             }
         }
     }

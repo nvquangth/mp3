@@ -9,16 +9,6 @@ import com.bt.base.model.SnackBarExceptionItem
 import com.bt.mp3.entity.exception.CleanException
 import com.bt.mp3.entity.exception.CleanExceptionType
 
-fun Throwable.throwCleanException() {
-    when(this) {
-        is CleanException -> throw this
-
-        is NullPointerException -> {}
-
-        else -> throw CleanException(CleanExceptionType.UNKNOWN, message)
-    }
-}
-
 fun Throwable.mapToCleanException(): CleanException = when(this) {
     is CleanException -> this
 

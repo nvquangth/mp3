@@ -5,8 +5,10 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.liveData
 import androidx.lifecycle.switchMap
+import com.bt.base.model.Result
 import com.bt.base.ui.BaseViewModel
 import com.bt.mp3.annotation.DefaultDispatcher
+import com.bt.mp3.data.extension.mapToCleanException
 import com.bt.mp3.domain.usecase.GetPlaylistUseCase
 import com.bt.mp3.model.PlaylistItem
 import com.bt.mp3.model.PlaylistItemMapper
@@ -23,12 +25,17 @@ class PlaylistViewModel @ViewModelInject constructor(
     val playlistType: LiveData<Int>
         get() = _playlistType
 
-    val playlists: LiveData<List<PlaylistItem>> = _playlistType.switchMap {
+    val playlistsResult: LiveData<Result<List<PlaylistItem>>> = _playlistType.switchMap {
         liveData(defaultDispatcher) {
-            getPlaylistUseCase.execute(GetPlaylistUseCase.Param(type = it)).map {
-                playlistItemMapper.mapToPresentation(it)
-            }.run {
-                emit(this)
+            runCatching {
+                emit(Result.Loading)
+                getPlaylistUseCase.execute(GetPlaylistUseCase.Param(type = it)).map {
+                    playlistItemMapper.mapToPresentation(it)
+                }.run {
+                    emit(Result.Success(this))
+                }
+            }.getOrElse {
+                setExceptionAsync(it.mapToCleanException())
             }
         }
     }

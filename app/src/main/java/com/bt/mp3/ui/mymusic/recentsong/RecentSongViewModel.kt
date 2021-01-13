@@ -4,6 +4,8 @@ import androidx.hilt.lifecycle.ViewModelInject
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.liveData
+import com.bt.base.extension.mapToCleanException
+import com.bt.base.model.Result
 import com.bt.base.ui.BaseViewModel
 import com.bt.mp3.annotation.DefaultDispatcher
 import com.bt.mp3.domain.usecase.GetRecentSongUseCase
@@ -18,11 +20,16 @@ class RecentSongViewModel @ViewModelInject constructor(
 ) : BaseViewModel() {
 
     private val _recentSongs = MutableLiveData<List<SongItem>>()
-    val recentSongs: LiveData<List<SongItem>> = liveData(defaultDispatcher) {
-        getRecentSongUseCase.execute().map {
-            songItemMapper.mapToPresentation(it)
-        }.run {
-            emit(this)
+    val recentSongsResult: LiveData<Result<List<SongItem>>> = liveData(defaultDispatcher) {
+        runCatching {
+            emit(Result.Loading)
+            getRecentSongUseCase.execute().map {
+                songItemMapper.mapToPresentation(it)
+            }.run {
+                emit(Result.Success(this))
+            }
+        }.getOrElse {
+            setExceptionAsync(it.mapToCleanException())
         }
     }
 }

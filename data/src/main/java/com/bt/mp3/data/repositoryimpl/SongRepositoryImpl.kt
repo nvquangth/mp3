@@ -1,5 +1,6 @@
 package com.bt.mp3.data.repositoryimpl
 
+import com.bt.mp3.data.extension.mapToCleanException
 import com.bt.mp3.data.model.SongEntityMapper
 import com.bt.mp3.data.network.SongApi
 import com.bt.mp3.domain.repository.SongRepository
@@ -10,7 +11,9 @@ class SongRepositoryImpl @Inject constructor(
     private val api: SongApi,
     private val songEntityMapper: SongEntityMapper
 ) : SongRepository {
-    override suspend fun getRecentSongs(): List<Song> {
-        return api.getRecentSong().map { songEntityMapper.mapToDomain(it) }
+    override suspend fun getRecentSongs(): List<Song> = runCatching {
+        api.getRecentSong().map { songEntityMapper.mapToDomain(it) }
+    }.getOrElse {
+        throw it.mapToCleanException()
     }
 }
