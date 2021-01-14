@@ -64,6 +64,24 @@ object SongEntityFactory {
             artists = ArtistEntityFactory.createArtistEntities("Only C"),
             publisher = PublisherEntityFactory.createPublisherEntity("Only C"),
             imageUrl = "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/c/c/ccba0ba0430c375e16e95309cd534c09_1492130923.jpg"
+        ),
+        createSongEntity(
+            title = "Hơn Cả Yêu",
+            artists = ArtistEntityFactory.createArtistEntities("Đức Phúc"),
+            publisher = PublisherEntityFactory.createPublisherEntity("Đức Phúc"),
+            imageUrl = "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/a/9/e/d/a9ed142c215560ab45f6b2b433907f90.jpg"
+        ),
+        createSongEntity(
+            title = "Thích Thì Đến",
+            artists = ArtistEntityFactory.createArtistEntities("Lê Bảo Bình"),
+            publisher = PublisherEntityFactory.createPublisherEntity("Lê Bảo Bình"),
+            imageUrl = "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/4/4/6/b4461d303cba114b38429c6ea84d9fa2.jpg"
+        ),
+        createSongEntity(
+            title = "Đi Cùng Em",
+            artists = ArtistEntityFactory.createArtistEntities("Minh Vương M4U", "Lemon Climb", "ACV"),
+            publisher = PublisherEntityFactory.createPublisherEntity("ACV Music"),
+            imageUrl = "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/b/f/3/fbf38164222f12d85a41e7631b944b20.jpg"
         )
     )
 }
