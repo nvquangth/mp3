@@ -1,10 +1,10 @@
-### Android Clean Architecture Sample
+### Android Clean Architecture Diagram
 
 ![](image/clean-architecture.png)
 
 ### Document Reference
 * [The Clean Code Blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-* [Tiếng Việt](https://nvquangth.github.io/2020/08/17/the-clean-architecture/)
+* [Tiếng Việt](https://nvquangth.github.io/2020/08/20/the-clean-architecture/)
 
 > The Clean Architecture include 4 main layer: App, Data, Domain, Entity. Aside from these layers, it has some layer additional which is utilities layers.
 
