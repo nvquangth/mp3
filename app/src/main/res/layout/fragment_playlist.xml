@@ -3,13 +3,6 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <data>
-
-        <variable
-            name="playlistType"
-            type="com.bt.mp3.model.PlaylistTypeItem" />
-    </data>
-
     <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -55,7 +48,7 @@
 
             <com.google.android.material.textview.MaterialTextView
                 android:id="@+id/textPlaylistSuggestion"
-                bindingPlaylistTitle="@{playlistType}"
+                android:text="@string/most_popular"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="?attr/colorOnBackground"

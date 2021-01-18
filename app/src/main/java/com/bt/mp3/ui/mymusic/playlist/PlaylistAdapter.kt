@@ -4,21 +4,18 @@ import androidx.recyclerview.widget.DiffUtil
 import com.bt.base.ui.BaseRecyclerAdapter
 import com.bt.mp3.R
 import com.bt.mp3.databinding.ItemPlaylistSuggestionBinding
-import com.bt.mp3.model.PlaylistItem
+import com.bt.mp3.model.SongItem
 
 class PlaylistAdapter(
-    private val onItemClickListener: ((PlaylistItem) -> Unit)? = null,
-    private val onItemLongClickListener: ((PlaylistItem) -> Unit)? = null,
-    private val onFavoriteItemClickListener: ((PlaylistItem) -> Unit)? = null
-) : BaseRecyclerAdapter<PlaylistItem, ItemPlaylistSuggestionBinding>(
-    object : DiffUtil.ItemCallback<PlaylistItem>() {
+    private val onItemClickListener: ((SongItem) -> Unit)? = null,
+    private val onItemLongClickListener: ((SongItem) -> Unit)? = null,
+    private val onFavoriteItemClickListener: ((SongItem) -> Unit)? = null
+) : BaseRecyclerAdapter<SongItem, ItemPlaylistSuggestionBinding>(
+    object : DiffUtil.ItemCallback<SongItem>() {
 
-        override fun areContentsTheSame(oldItem: PlaylistItem, newItem: PlaylistItem): Boolean = oldItem.id == newItem.id &&
-            oldItem.title == newItem.title &&
-            oldItem.publisher == newItem.publisher &&
-            oldItem.type == newItem.type
+        override fun areContentsTheSame(oldItem: SongItem, newItem: SongItem): Boolean = oldItem == newItem
 
-        override fun areItemsTheSame(oldItem: PlaylistItem, newItem: PlaylistItem): Boolean = oldItem.id == newItem.id
+        override fun areItemsTheSame(oldItem: SongItem, newItem: SongItem): Boolean = oldItem.id == newItem.id
     }
 ) {
     override fun getLayoutRes(viewType: Int): Int = R.layout.item_playlist_suggestion

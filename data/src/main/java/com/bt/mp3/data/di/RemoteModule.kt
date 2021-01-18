@@ -3,6 +3,7 @@ package com.bt.mp3.data.di
 import com.bt.mp3.data.BuildConfig
 import com.bt.mp3.data.mock.network.PlaylistApiMock
 import com.bt.mp3.data.mock.network.SongApiMock
+import com.bt.mp3.data.network.HomeApi
 import com.bt.mp3.data.network.PlaylistApi
 import com.bt.mp3.data.network.RetrofitBuilder
 import com.bt.mp3.data.network.SongApi
@@ -38,4 +39,8 @@ object RemoteModule {
         } else {
             retrofit.create(SongApi::class.java)
         }
+
+    @Singleton
+    @Provides
+    fun provideHomeApi(retrofit: Retrofit): HomeApi = retrofit.create(HomeApi::class.java)
 }

@@ -8,8 +8,6 @@ import com.bt.base.model.Result
 import com.bt.base.ui.BaseFragment
 import com.bt.mp3.R
 import com.bt.mp3.databinding.FragmentPlaylistBinding
-import com.bt.mp3.model.PlaylistTypeItem
-import com.bt.mp3.model.PlaylistTypeItemMapper
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.android.synthetic.main.fragment_playlist.*
 
@@ -34,9 +32,6 @@ class PlaylistFragment : BaseFragment<FragmentPlaylistBinding, PlaylistViewModel
         }
 
         with(viewModel) {
-            playlistType.observe(viewLifecycleOwner) {
-                viewBinding.playlistType = PlaylistTypeItemMapper.mapToPresentation(it)
-            }
 
             playlistsResult.observe(viewLifecycleOwner) {
                 when (it) {
@@ -46,7 +41,7 @@ class PlaylistFragment : BaseFragment<FragmentPlaylistBinding, PlaylistViewModel
                 }
             }
 
-            setPlaylistType(PlaylistTypeItem.MOST_POPULAR)
+            setPlaylistId("ZWZB969E")
         }
     }
 }

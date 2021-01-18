@@ -5,31 +5,30 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.liveData
 import androidx.lifecycle.switchMap
+import com.bt.base.extension.mapToCleanException
 import com.bt.base.model.Result
 import com.bt.base.ui.BaseViewModel
 import com.bt.mp3.annotation.DefaultDispatcher
-import com.bt.mp3.data.extension.mapToCleanException
-import com.bt.mp3.domain.usecase.GetPlaylistUseCase
-import com.bt.mp3.model.PlaylistItem
-import com.bt.mp3.model.PlaylistItemMapper
-import com.bt.mp3.model.PlaylistTypeItem
+import com.bt.mp3.domain.usecase.GetSuggestionPlaylistUseCase
+import com.bt.mp3.model.SongItem
+import com.bt.mp3.model.SongItemMapper
 import kotlinx.coroutines.CoroutineDispatcher
 
 class PlaylistViewModel @ViewModelInject constructor(
-    private val getPlaylistUseCase: GetPlaylistUseCase,
-    private val playlistItemMapper: PlaylistItemMapper,
+    private val getSuggestionPlaylistUseCase: GetSuggestionPlaylistUseCase,
+    private val playlistItemMapper: SongItemMapper,
     @DefaultDispatcher private val defaultDispatcher: CoroutineDispatcher
 ) : BaseViewModel() {
 
-    private val _playlistType = MutableLiveData<Int>()
-    val playlistType: LiveData<Int>
-        get() = _playlistType
+    private val _playlistId = MutableLiveData<String>()
+    val playlistId: LiveData<String>
+        get() = _playlistId
 
-    val playlistsResult: LiveData<Result<List<PlaylistItem>>> = _playlistType.switchMap {
+    val playlistsResult: LiveData<Result<List<SongItem>>> = _playlistId.switchMap {
         liveData(defaultDispatcher) {
             runCatching {
                 emit(Result.Loading)
-                getPlaylistUseCase.execute(GetPlaylistUseCase.Param(type = it)).map {
+                getSuggestionPlaylistUseCase.execute(GetSuggestionPlaylistUseCase.Param(playlistId = it)).map {
                     playlistItemMapper.mapToPresentation(it)
                 }.run {
                     emit(Result.Success(this))
@@ -40,7 +39,7 @@ class PlaylistViewModel @ViewModelInject constructor(
         }
     }
 
-    fun setPlaylistType(type: PlaylistTypeItem?) {
-        _playlistType.value = type?.value
+    fun setPlaylistId(id: String?) {
+        _playlistId.value = id
     }
 }

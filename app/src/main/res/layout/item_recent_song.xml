@@ -20,7 +20,7 @@
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/imageSong"
             bindingImageRadius="@{4}"
-            bindingImageUrl="@{item.imageUrl}"
+            bindingImageUrl="@{item.thumbnailM}"
             android:layout_width="@dimen/dp_52"
             android:layout_height="@dimen/dp_52"
             android:layout_marginStart="@dimen/dp_12"
@@ -53,7 +53,7 @@
             android:layout_marginEnd="@dimen/dp_8"
             android:ellipsize="end"
             android:maxLines="1"
-            android:text="@{item.artistStr}"
+            android:text="@{item.artistsNames}"
             android:textSize="@dimen/sp_12"
             app:layout_constraintBottom_toBottomOf="@+id/imageSong"
             app:layout_constraintEnd_toEndOf="parent"

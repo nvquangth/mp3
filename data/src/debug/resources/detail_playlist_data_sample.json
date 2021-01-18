@@ -1,0 +1,3241 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "encodeId": "ZWZB969E",
+    "title": "Top 100 Bài Hát Nhạc Trẻ Hay Nhất",
+    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/2/b/6/f/2b6fbb21ac9d4a37e4bd90809a2cd507.jpg",
+    "isoffical": true,
+    "link": "/album/Top-100-Bai-Hat-Nhac-Tre-Hay-Nhat-Various-Artists/ZWZB969E.html",
+    "PR": false,
+    "playItemMode": 0,
+    "subType": 24,
+    "uid": 0,
+    "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/2/b/6/f/2b6fbb21ac9d4a37e4bd90809a2cd507.jpg",
+    "isShuffle": true,
+    "userName": "Zing MP3",
+    "isAlbum": false,
+    "textType": "Playlist",
+    "isSingle": false,
+    "releaseDate": "",
+    "description": "Top 100 Nhạc Trẻ là danh sách 100 ca khúc hot nhất hiện tại của thể loại Nhạc Trẻ, được Zing MP3 tự động tổng hợp dựa trên thông tin số liệu lượt nghe và lượt chia sẻ của từng bài hát trên phiên bản web và phiên bản Mobile. Dữ liệu sẽ được lấy trong 30 ngày gần nhất và được cập nhật liên tục.",
+    "aliasTitle": "Top-100-Bai-Hat-Nhac-Tre-Hay-Nhat-Various-Artists",
+    "sectionId": "album",
+    "contentLastUpdate": 1610934458,
+    "genres": [
+      {
+        "id": "IWZ9Z08I",
+        "name": "Việt Nam",
+        "title": "Việt Nam",
+        "alias": "viet-nam",
+        "link": "/the-loai-album/Viet-Nam/IWZ9Z08I.html"
+      },
+      {
+        "id": "IWZ9Z088",
+        "name": "Nhạc Trẻ",
+        "title": "Nhạc Trẻ",
+        "alias": "nhac-tre",
+        "link": "/the-loai-album/Nhac-Tre/IWZ9Z088.html"
+      }
+    ],
+    "song": {
+      "items": [
+        {
+          "encodeId": "ZOZ0WD80",
+          "title": "Đom Đóm",
+          "alias": "Dom-Dom-Jack",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Jack",
+          "artists": [
+            {
+              "id": "IW6WCI7U",
+              "name": "Jack",
+              "link": "/nghe-si/Trinh-Tran-Phuong-Tuan",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/e/9/8/fe9875941d98fbbcb8aedc8960ccbc94.jpg",
+          "link": "/bai-hat/Dom-Dom-Jack/ZOZ0WD80.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/e/9/8/fe9875941d98fbbcb8aedc8960ccbc94.jpg",
+          "duration": 325,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1608988200,
+          "mvlink": "/video-clip/Dom-Dom-Jack/ZOZ0WD80.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOOI7Z87",
+          "title": "Chiều Thu Họa Bóng Nàng",
+          "alias": "Chieu-Thu-Hoa-Bong-Nang-DatKaa",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "DatKaa",
+          "artists": [
+            {
+              "id": "IW6ZBOW8",
+              "name": "DatKaa",
+              "link": "/nghe-si/DatKaa",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/c/0/4/7/c047c4e29dbeda34deacbe2d8dbb71dc.jpg",
+          "link": "/bai-hat/Chieu-Thu-Hoa-Bong-Nang-DatKaa/ZOOI7Z87.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/0/4/7/c047c4e29dbeda34deacbe2d8dbb71dc.jpg",
+          "duration": 267,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1607864400,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWDAAU8Z",
+          "title": "Hoa Hải Đường",
+          "alias": "Hoa-Hai-Duong-Jack",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Jack",
+          "artists": [
+            {
+              "id": "IW6WCI7U",
+              "name": "Jack",
+              "link": "/nghe-si/Trinh-Tran-Phuong-Tuan",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/a/8/6/2/a8626a5671f5a01250a074c4c8140cae.jpg",
+          "link": "/bai-hat/Hoa-Hai-Duong-Jack/ZWDAAU8Z.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/a/8/6/2/a8626a5671f5a01250a074c4c8140cae.jpg",
+          "duration": 230,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1600776000,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWC6EWA8",
+          "title": "Ai Mang Cô Đơn Đi",
+          "alias": "Ai-Mang-Co-Don-Di-K-ICM-APJ",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "K-ICM, APJ",
+          "artists": [
+            {
+              "id": "IWZFFOWB",
+              "name": "K-ICM",
+              "link": "/nghe-si/K-ICM",
+              "spotlight": false
+            },
+            {
+              "id": "IW6WAA7W",
+              "name": "APJ",
+              "link": "/nghe-si/APJ",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/0/1/5/1/0151bcc5dc64312a9b6d9d2245aab54c.jpg",
+          "link": "/bai-hat/Ai-Mang-Co-Don-Di-K-ICM-APJ/ZWC6EWA8.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/1/5/1/0151bcc5dc64312a9b6d9d2245aab54c.jpg",
+          "duration": 221,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1597755600,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWEW9WI8",
+          "title": "Kẹo Bông Gòn",
+          "alias": "Keo-Bong-Gon-H2K-TRUNKY",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "H2K, TRUNKY",
+          "artists": [
+            {
+              "id": "IW6ZZ0OU",
+              "name": "H2K",
+              "link": "/nghe-si/H2K",
+              "spotlight": false
+            },
+            {
+              "id": "IW6ZZ0OZ",
+              "name": "TRUNKY",
+              "link": "/nghe-si/TRUNKY",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/e/9/1/de91f9c8b08e1fb4b35e2b64e1c2ed15.jpg",
+          "link": "/bai-hat/Keo-Bong-Gon-H2K-TRUNKY/ZWEW9WI8.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/e/9/1/de91f9c8b08e1fb4b35e2b64e1c2ed15.jpg",
+          "duration": 205,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1602244800,
+          "mvlink": "/video-clip/Keo-Bong-Gon-H2K-TRUNKY/ZWEW9WI8.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZO0AFICD",
+          "title": "Anh Từng Cố Gắng",
+          "alias": "Anh-Tung-Co-Gang-Nhat-Phong",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Nhật Phong",
+          "artists": [
+            {
+              "id": "IW6W7AZD",
+              "name": "Nhật Phong",
+              "link": "/nghe-si/Nhat-Phong",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/7/1/9/771952620070edb088442430b60ea681.jpg",
+          "link": "/bai-hat/Anh-Tung-Co-Gang-Nhat-Phong/ZO0AFICD.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/7/1/9/771952620070edb088442430b60ea681.jpg",
+          "duration": 279,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1605787200,
+          "mvlink": "/video-clip/Anh-Tung-Co-Gang-Nhat-Phong/ZO0AFICD.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOI6BFA9",
+          "title": "Gặp Nhưng Không Ở Lại",
+          "alias": "Gap-Nhung-Khong-O-Lai-Hien-Ho-Vuong-Anh-Tu",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hiền Hồ, Vương Anh Tú",
+          "artists": [
+            {
+              "id": "IWZFDDF6",
+              "name": "Hiền Hồ",
+              "link": "/nghe-si/Hien-Ho",
+              "spotlight": false
+            },
+            {
+              "id": "IWZ9FE6A",
+              "name": "Vương Anh Tú",
+              "link": "/nghe-si/Vuong-Anh-Tu",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/a/4/b/fa4b429fda0c4d3d2100f64ad3c7a616.jpg",
+          "link": "/bai-hat/Gap-Nhung-Khong-O-Lai-Hien-Ho-Vuong-Anh-Tu/ZOI6BFA9.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/a/4/b/fa4b429fda0c4d3d2100f64ad3c7a616.jpg",
+          "duration": 277,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1606305600,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOI878FA",
+          "title": "Chẳng Thể Tìm Được Em",
+          "alias": "Chang-The-Tim-Duoc-Em-PhucXP-Freak-D",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "PhucXP, Freak D",
+          "artists": [
+            {
+              "id": "IW6896B7",
+              "name": "PhucXP",
+              "link": "/nghe-si/PhucXP",
+              "spotlight": false
+            },
+            {
+              "id": "IW67DFAE",
+              "name": "Freak D",
+              "link": "/nghe-si/Freak-D",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/a/b/8/6ab8deee3953592dc9a4cfcb81bfb1b8.jpg",
+          "link": "/bai-hat/Chang-The-Tim-Duoc-Em-PhucXP-Freak-D/ZOI878FA.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/a/b/8/6ab8deee3953592dc9a4cfcb81bfb1b8.jpg",
+          "duration": 348,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1606305600,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOZA0U99",
+          "title": "Không Muốn Yêu Lại Càng Say Đắm",
+          "alias": "Khong-Muon-Yeu-Lai-Cang-Say-Dam-Mr-Siro",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Mr Siro",
+          "artists": [
+            {
+              "id": "IWZ98609",
+              "name": "Mr Siro",
+              "link": "/nghe-si/mrsiro",
+              "spotlight": true
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/5/4/2/554266220e2c71a9aca8ebdf2fc4d9e2.jpg",
+          "link": "/bai-hat/Khong-Muon-Yeu-Lai-Cang-Say-Dam-Mr-Siro/ZOZA0U99.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/5/4/2/554266220e2c71a9aca8ebdf2fc4d9e2.jpg",
+          "duration": 331,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1609502400,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWDBBADB",
+          "title": "Đánh Mất Em",
+          "alias": "Danh-Mat-Em-Quang-Dang-Tran",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Quang Đăng Trần",
+          "artists": [
+            {
+              "id": "IWZA6DED",
+              "name": "Quang Đăng Trần",
+              "link": "/nghe-si/Tran-Dang-Quang",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/3/6/9/83690ac46c2ba7cf46b153e6226c974d.jpg",
+          "link": "/bai-hat/Danh-Mat-Em-Quang-Dang-Tran/ZWDBBADB.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/3/6/9/83690ac46c2ba7cf46b153e6226c974d.jpg",
+          "duration": 264,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1600866000,
+          "mvlink": "/video-clip/Danh-Mat-Em-Quang-Dang-Tran/ZWDBBADB.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWE80FFA",
+          "title": "Em Băng Qua",
+          "alias": "Em-Bang-Qua-Lap-Nguyen",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Lập Nguyên",
+          "artists": [
+            {
+              "id": "IW68Z8C7",
+              "name": "Lập Nguyên",
+              "link": "/nghe-si/Lap-Nguyen",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/b/8/e/9b8e8e3aca20247aa776599ba6f94ca8.jpg",
+          "link": "/bai-hat/Em-Bang-Qua-Lap-Nguyen/ZWE80FFA.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/b/8/e/9b8e8e3aca20247aa776599ba6f94ca8.jpg",
+          "duration": 244,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1602939600,
+          "mvlink": "/video-clip/Em-Bang-Qua-Lap-Nguyen/ZWE80FFA.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWDZCE80",
+          "title": "Bông Hoa Đẹp Nhất",
+          "alias": "Bong-Hoa-Dep-Nhat-Quan-A-P",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Quân A.P",
+          "artists": [
+            {
+              "id": "IW6ZUZI8",
+              "name": "Quân A.P",
+              "link": "/nghe-si/Quan-A-P",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/8/1/e/f81efd92fa9a3d52eb37f3b867ab9d32.jpg",
+          "link": "/bai-hat/Bong-Hoa-Dep-Nhat-Quan-A-P/ZWDZCE80.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/8/1/e/f81efd92fa9a3d52eb37f3b867ab9d32.jpg",
+          "duration": 315,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1599480000,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWF9D7FB",
+          "title": "Kết Thúc Lưng Chừng",
+          "alias": "Ket-Thuc-Lung-Chung-Van-Vo-Ngoc-Nhan",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Văn Võ Ngọc Nhân",
+          "artists": [
+            {
+              "id": "IW67DCOZ",
+              "name": "Văn Võ Ngọc Nhân",
+              "link": "/nghe-si/Van-Vo-Ngoc-Nhan",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/e/2/7/b/e27b1ce4f147d7afd81b527986067413.jpg",
+          "link": "/bai-hat/Ket-Thuc-Lung-Chung-Van-Vo-Ngoc-Nhan/ZWF9D7FB.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/e/2/7/b/e27b1ce4f147d7afd81b527986067413.jpg",
+          "duration": 253,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1604491200,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBE8U0A",
+          "title": "Hôm Nay Em Cưới Rồi",
+          "alias": "Hom-Nay-Em-Cuoi-Roi-Khai-Dang",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Khải Đăng",
+          "artists": [
+            {
+              "id": "IWZA76EE",
+              "name": "Khải Đăng",
+              "link": "/nghe-si/Khai-Dang",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/0/5/6/6/056652306efa257560bcf64b30f756a3.jpg",
+          "link": "/bai-hat/Hom-Nay-Em-Cuoi-Roi-Khai-Dang/ZWBE8U0A.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/5/6/6/056652306efa257560bcf64b30f756a3.jpg",
+          "duration": 336,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1595250000,
+          "mvlink": "/video-clip/Hom-Nay-Em-Cuoi-Roi-Khai-Dang/ZWBE8U0A.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZO0FW0Z8",
+          "title": "Sao Em Lại Tắt Máy?",
+          "alias": "Sao-Em-Lai-Tat-May-Pham-Nguyen-Ngoc-Vanh-B",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Phạm Nguyên Ngọc, Vanh, B.",
+          "artists": [
+            {
+              "id": "IW6ZZIO9",
+              "name": "Phạm Nguyên Ngọc",
+              "link": "/nghe-si/Pham-Nguyen-Ngoc",
+              "spotlight": false
+            },
+            {
+              "id": "IW689UW0",
+              "name": "Vanh",
+              "link": "/nghe-si/Vanh",
+              "spotlight": false
+            },
+            {
+              "id": "IW68U68B",
+              "name": "B.",
+              "link": "/nghe-si/Bui-Thanh-Binh",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/6/5/5/f6553e5d6281763a103897dbefa05088.jpg",
+          "link": "/bai-hat/Sao-Em-Lai-Tat-May-Pham-Nguyen-Ngoc-Vanh-B/ZO0FW0Z8.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/6/5/5/f6553e5d6281763a103897dbefa05088.jpg",
+          "duration": 198,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1605960000,
+          "mvlink": "/video-clip/Sao-Em-Lai-Tat-May-Pham-Nguyen-Ngoc-Vanh-B/ZO0FW0Z8.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWD88EWA",
+          "title": "Phố Cũ Còn Anh",
+          "alias": "Pho-Cu-Con-Anh-Quinn-Chilly",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Quinn, Chilly",
+          "artists": [
+            {
+              "id": "IW67FCCW",
+              "name": "Quinn",
+              "link": "/nghe-si/Tran-Thi-Diem-Quynh",
+              "spotlight": false
+            },
+            {
+              "id": "IW67FCCU",
+              "name": "Chilly",
+              "link": "/nghe-si/Nguyen-Vu-Hoang-Anh",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/8/9/9/d8996a26339f7b7a5d596666f03edac0.jpg",
+          "link": "/bai-hat/Pho-Cu-Con-Anh-Quinn-Chilly/ZWD88EWA.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/8/9/9/d8996a26339f7b7a5d596666f03edac0.jpg",
+          "duration": 234,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1600430400,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWDE67BW",
+          "title": "Anh Mệt Rồi",
+          "alias": "Anh-Met-Roi-Anh-Quan-Idol",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Anh Quân Idol",
+          "artists": [
+            {
+              "id": "IWZ9CO86",
+              "name": "Anh Quân Idol",
+              "link": "/nghe-si/Anh-Quan-Idol",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/2/d/7/d/2d7d033ca7c2a381748e7fb9dc6aa186.jpg",
+          "link": "/bai-hat/Anh-Met-Roi-Anh-Quan-Idol/ZWDE67BW.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/d/7/d/2d7d033ca7c2a381748e7fb9dc6aa186.jpg",
+          "duration": 297,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1601294400,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWCZDFCA",
+          "title": "Bỏ Lỡ Một Người",
+          "alias": "Bo-Lo-Mot-Nguoi-Le-Bao-Binh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Lê Bảo Bình",
+          "artists": [
+            {
+              "id": "IWZ9B08F",
+              "name": "Lê Bảo Bình",
+              "link": "/nghe-si/Le-Bao-Binh",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/0/f/2/b0f2617eac4b87fd0affe726bfd81a0a.jpg",
+          "link": "/bai-hat/Bo-Lo-Mot-Nguoi-Le-Bao-Binh/ZWCZDFCA.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/0/f/2/b0f2617eac4b87fd0affe726bfd81a0a.jpg",
+          "duration": 315,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1597755600,
+          "mvlink": "/video-clip/Bo-Lo-Mot-Nguoi-Le-Bao-Binh/ZWCZDFCA.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOO9ZUIO",
+          "title": "Sợ Lắm 2",
+          "alias": "So-Lam-2-NB3-Hoai-Bao-Freak-D",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "NB3 Hoài Bảo, Freak D",
+          "artists": [
+            {
+              "id": "IW67DF6B",
+              "name": "NB3 Hoài Bảo",
+              "link": "/nghe-si/NB3-Hoai-Bao",
+              "spotlight": false
+            },
+            {
+              "id": "IW67DFAE",
+              "name": "Freak D",
+              "link": "/nghe-si/Freak-D",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/b/1/a/fb1a09e8ef5ec618d798bbebc66a03d8.jpg",
+          "link": "/bai-hat/So-Lam-2-NB3-Hoai-Bao-Freak-D/ZOO9ZUIO.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/b/1/a/fb1a09e8ef5ec618d798bbebc66a03d8.jpg",
+          "duration": 282,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1608033600,
+          "mvlink": "/video-clip/So-Lam-2-NB3-Hoai-Bao-Freak-D/ZOO9ZUIO.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWC0FAFA",
+          "title": "Khác Biệt To Lớn",
+          "alias": "Khac-Biet-To-Lon-Trinh-Thang-Binh-Liz-Kim-Cuong",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Trịnh Thăng Bình, Liz Kim Cương",
+          "artists": [
+            {
+              "id": "IWZ9ZD8A",
+              "name": "Trịnh Thăng Bình",
+              "link": "/nghe-si/Trinh-Thang-Binh",
+              "spotlight": true
+            },
+            {
+              "id": "IWZD7UI6",
+              "name": "Liz Kim Cương",
+              "link": "/nghe-si/Liz-Kim-Cuong",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/4/9/b/749ba06d29317d07bdbd2617808b8a7f.jpg",
+          "link": "/bai-hat/Khac-Biet-To-Lon-Trinh-Thang-Binh-Liz-Kim-Cuong/ZWC0FAFA.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/4/9/b/749ba06d29317d07bdbd2617808b8a7f.jpg",
+          "duration": 240,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1595770200,
+          "mvlink": "/video-clip/Khac-Biet-To-Lon-Trinh-Thang-Binh-Liz-Kim-Cuong/ZWC0FAFA.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWE7IIZB",
+          "title": "Thiên Đàng",
+          "alias": "Thien-Dang-Wowy-JoliPoli",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Wowy, JoliPoli",
+          "artists": [
+            {
+              "id": "IWZ98WDB",
+              "name": "Wowy",
+              "link": "/nghe-si/Wowy",
+              "spotlight": false
+            },
+            {
+              "id": "IW68ZZW9",
+              "name": "JoliPoli",
+              "link": "/nghe-si/JoliPoli",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/7/a/c/67ac7d2313b6291e48083a2b53bc9b90.jpg",
+          "link": "/bai-hat/Thien-Dang-Wowy-JoliPoli/ZWE7IIZB.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/7/a/c/67ac7d2313b6291e48083a2b53bc9b90.jpg",
+          "duration": 232,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1602676800,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAEIUUB",
+          "title": "Sóng Gió",
+          "alias": "Song-Gio-Jack-K-ICM",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Jack, K-ICM",
+          "artists": [
+            {
+              "id": "IW6WCI7U",
+              "name": "Jack",
+              "link": "/nghe-si/Trinh-Tran-Phuong-Tuan",
+              "spotlight": false
+            },
+            {
+              "id": "IWZFFOWB",
+              "name": "K-ICM",
+              "link": "/nghe-si/K-ICM",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/3/6/c/836cf31f036fb8f89b78cfd07cd77477.jpg",
+          "link": "/bai-hat/Song-Gio-Jack-K-ICM/ZWAEIUUB.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/3/6/c/836cf31f036fb8f89b78cfd07cd77477.jpg",
+          "duration": 254,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Song-Gio-Jack-K-ICM/ZWAEIUUB.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWDAEADE",
+          "title": "Kẻ Điên Tin Vào Tình Yêu",
+          "alias": "Ke-Dien-Tin-Vao-Tinh-Yeu-Lil-Zpoet",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Lil Zpoet",
+          "artists": [
+            {
+              "id": "IW6ZBOWU",
+              "name": "Lil Zpoet",
+              "link": "/nghe-si/Lil-Zpoet",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/9/f/6/69f621e3a5655a7c984664e893af70ab.jpg",
+          "link": "/bai-hat/Ke-Dien-Tin-Vao-Tinh-Yeu-Lil-Zpoet/ZWDAEADE.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/9/f/6/69f621e3a5655a7c984664e893af70ab.jpg",
+          "duration": 276,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1601208000,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBWAIDA",
+          "title": "Thích Thì Đến",
+          "alias": "Thich-Thi-Den-Le-Bao-Binh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Lê Bảo Bình",
+          "artists": [
+            {
+              "id": "IWZ9B08F",
+              "name": "Lê Bảo Bình",
+              "link": "/nghe-si/Le-Bao-Binh",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/4/4/6/b4461d303cba114b38429c6ea84d9fa2.jpg",
+          "link": "/bai-hat/Thich-Thi-Den-Le-Bao-Binh/ZWBWAIDA.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/4/4/6/b4461d303cba114b38429c6ea84d9fa2.jpg",
+          "duration": 345,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1586869200,
+          "mvlink": "/video-clip/Thich-Thi-Den-Le-Bao-Binh/ZWBWAIDA.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBOWD78",
+          "title": "Em Không Sai Chúng Ta Sai",
+          "alias": "Em-Khong-Sai-Chung-Ta-Sai-ERIK",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "ERIK",
+          "artists": [
+            {
+              "id": "IWZA6CIZ",
+              "name": "ERIK",
+              "link": "/nghe-si/ERIK",
+              "spotlight": true
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/4/0/d/740d5e0fd272d2421d441e9fd5c08fdd.jpg",
+          "link": "/bai-hat/Em-Khong-Sai-Chung-Ta-Sai-ERIK/ZWBOWD78.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/4/0/d/740d5e0fd272d2421d441e9fd5c08fdd.jpg",
+          "duration": 292,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1588766400,
+          "mvlink": "/video-clip/Em-Khong-Sai-Chung-Ta-Sai-ERIK/ZWBOWD78.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOI867CW",
+          "title": "Hạnh Phúc Bỏ Rơi Em",
+          "alias": "Hanh-Phuc-Bo-Roi-Em-Huong-Ly",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hương Ly",
+          "artists": [
+            {
+              "id": "IW6ZO9UB",
+              "name": "Hương Ly",
+              "link": "/nghe-si/Nguyen-Huong-Ly",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/a/b/3/7ab30cc0d5991cac104017384344b2dc.jpg",
+          "link": "/bai-hat/Hanh-Phuc-Bo-Roi-Em-Huong-Ly/ZOI867CW.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/a/b/3/7ab30cc0d5991cac104017384344b2dc.jpg",
+          "duration": 341,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1606305600,
+          "mvlink": "/video-clip/Hanh-Phuc-Bo-Roi-Em-Huong-Ly/ZOI867CW.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOUB77ZO",
+          "title": "Hẹn Yêu",
+          "alias": "Hen-Yeu-Phan-Yen-Nhi",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Phan Yến Nhi",
+          "artists": [
+            {
+              "id": "IW6W9D00",
+              "name": "Phan Yến Nhi",
+              "link": "/nghe-si/Phan-Yen-Nhi",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/f/e/5/6fe50c8f1465c3579a6eb146285778e0.jpg",
+          "link": "/bai-hat/Hen-Yeu-Phan-Yen-Nhi/ZOUB77ZO.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/f/e/5/6fe50c8f1465c3579a6eb146285778e0.jpg",
+          "duration": 345,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1608811200,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWCOIU7C",
+          "title": "Sầu Hồng Gai",
+          "alias": "Sau-Hong-Gai-G5RSquad",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "G5RSquad",
+          "artists": [
+            {
+              "id": "IW6ZU880",
+              "name": "G5RSquad",
+              "link": "/nghe-si/G5RSquad",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/e/b/7/9eb73a8fb45aba1b72c816cff2799ce3.jpg",
+          "link": "/bai-hat/Sau-Hong-Gai-G5RSquad/ZWCOIU7C.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/e/b/7/9eb73a8fb45aba1b72c816cff2799ce3.jpg",
+          "duration": 351,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1597066200,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOWID7W7",
+          "title": "Lời Nói Điêu Trên Môi Em (Lofi Version)",
+          "alias": "Loi-Noi-Dieu-Tren-Moi-Em-Lofi-Version-Do-Nguyen-Phuc-Lil-Zpoet",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Đỗ Nguyên Phúc, Lil Zpoet",
+          "artists": [
+            {
+              "id": "IWZAEZWD",
+              "name": "Đỗ Nguyên Phúc",
+              "link": "/nghe-si/Do-Nguyen-Phuc-IWZAEZWD",
+              "spotlight": false
+            },
+            {
+              "id": "IW6ZBOWU",
+              "name": "Lil Zpoet",
+              "link": "/nghe-si/Lil-Zpoet",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/4/e/6/74e6e8def48999e1408bcd8f29fc5b12.jpg",
+          "link": "/bai-hat/Loi-Noi-Dieu-Tren-Moi-Em-Lofi-Version-Do-Nguyen-Phuc-Lil-Zpoet/ZOWID7W7.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/4/e/6/74e6e8def48999e1408bcd8f29fc5b12.jpg",
+          "duration": 176,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1606816200,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAFWIOZ",
+          "title": "Sai Lầm Của Anh",
+          "alias": "Sai-Lam-Cua-Anh-Dinh-Dung",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Đình Dũng",
+          "artists": [
+            {
+              "id": "IW6UI066",
+              "name": "Đình Dũng",
+              "link": "/nghe-si/Dinh-Dung",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/1/3/4/8/1348cacf4068d3f69fc457e99e1e9801.jpg",
+          "link": "/bai-hat/Sai-Lam-Cua-Anh-Dinh-Dung/ZWAFWIOZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/1/3/4/8/1348cacf4068d3f69fc457e99e1e9801.jpg",
+          "duration": 289,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWE989D0",
+          "title": "Cứ Vội Vàng",
+          "alias": "Cu-Voi-Vang-Ro-Ti",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Rô Ti",
+          "artists": [
+            {
+              "id": "IW6ZZAC7",
+              "name": "Rô Ti",
+              "link": "/nghe-si/Roti",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/2/9/b/b29bfeee43b8e65c365b0c90eb56dfec.jpg",
+          "link": "/bai-hat/Cu-Voi-Vang-Ro-Ti/ZWE989D0.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/2/9/b/b29bfeee43b8e65c365b0c90eb56dfec.jpg",
+          "duration": 328,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1603093800,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBW97D6",
+          "title": "Tình Sầu Thiên Thu Muôn Lối",
+          "alias": "Tinh-Sau-Thien-Thu-Muon-Loi-Doan-Hieu-B",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Doãn Hiếu, B.",
+          "artists": [
+            {
+              "id": "IW6ZAIOE",
+              "name": "Doãn Hiếu",
+              "link": "/nghe-si/Doan-Hieu",
+              "spotlight": false
+            },
+            {
+              "id": "IW68U68B",
+              "name": "B.",
+              "link": "/nghe-si/Bui-Thanh-Binh",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/5/a/6/95a6dc0b77b93e4ecbbf23235a7f2b50.jpg",
+          "link": "/bai-hat/Tinh-Sau-Thien-Thu-Muon-Loi-Doan-Hieu-B/ZWBW97D6.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/5/a/6/95a6dc0b77b93e4ecbbf23235a7f2b50.jpg",
+          "duration": 264,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1586606400,
+          "mvlink": "/video-clip/Tinh-Sau-Thien-Thu-Muon-Loi-Doan-Hieu-B/ZWBW97D6.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZO67W0EO",
+          "title": "Hẹn Yêu",
+          "alias": "Hen-Yeu-Minh-Vuong-M4U-Thuong-Vo-ACV",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Minh Vương M4U, Thương Võ, ACV",
+          "artists": [
+            {
+              "id": "IWZ9ZFA7",
+              "name": "Minh Vương M4U",
+              "link": "/nghe-si/Minh-Vuong-M4U",
+              "spotlight": false
+            },
+            {
+              "id": "IWZFEZIC",
+              "name": "Thương Võ",
+              "link": "/nghe-si/Thuong-Vo",
+              "spotlight": false
+            },
+            {
+              "id": "IW6ZAAB8",
+              "name": "ACV",
+              "link": "/nghe-si/ACV",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/f/4/a/ff4ac76952eb79b4ed30da40dd727a4d.jpg",
+          "link": "/bai-hat/Hen-Yeu-Minh-Vuong-M4U-Thuong-Vo-ACV/ZO67W0EO.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/f/4/a/ff4ac76952eb79b4ed30da40dd727a4d.jpg",
+          "duration": 291,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1610247600,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWB0DFWZ",
+          "title": "Hơn Cả Yêu",
+          "alias": "Hon-Ca-Yeu-Duc-Phuc",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Đức Phúc",
+          "artists": [
+            {
+              "id": "IWZA66AO",
+              "name": "Đức Phúc",
+              "link": "/nghe-si/Duc-Phuc",
+              "spotlight": true
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/a/9/e/d/a9ed142c215560ab45f6b2b433907f90.jpg",
+          "link": "/bai-hat/Hon-Ca-Yeu-Duc-Phuc/ZWB0DFWZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/a/9/e/d/a9ed142c215560ab45f6b2b433907f90.jpg",
+          "duration": 256,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1581426000,
+          "mvlink": "/video-clip/Hon-Ca-Yeu-Duc-Phuc/ZWB0DFWZ.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWB0DOFI",
+          "title": "Cứ Ngỡ Là Anh",
+          "alias": "Cu-Ngo-La-Anh-Dinh-Tung-Huy",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Đinh Tùng Huy",
+          "artists": [
+            {
+              "id": "IWZA6F8I",
+              "name": "Đinh Tùng Huy",
+              "link": "/nghe-si/Dinh-Tung-Huy",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/3/8/2/5/382563b06858cc9c5b7397a81ed62761.jpg",
+          "link": "/bai-hat/Cu-Ngo-La-Anh-Dinh-Tung-Huy/ZWB0DOFI.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/8/2/5/382563b06858cc9c5b7397a81ed62761.jpg",
+          "duration": 289,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1581252300,
+          "mvlink": "/video-clip/Cu-Ngo-La-Anh-Dinh-Tung-Huy/ZWB0DOFI.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBOCU8O",
+          "title": "Đường Quyền Tình Yêu",
+          "alias": "Duong-Quyen-Tinh-Yeu-DatKaa-QT-Beatz",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "DatKaa, QT Beatz",
+          "artists": [
+            {
+              "id": "IW6ZBOW8",
+              "name": "DatKaa",
+              "link": "/nghe-si/DatKaa",
+              "spotlight": false
+            },
+            {
+              "id": "IW6Z69FC",
+              "name": "QT Beatz",
+              "link": "/nghe-si/QT-Beatz",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/a/8/6/9a8668d0ea709d91345e338aaa1a6046.jpg",
+          "link": "/bai-hat/Duong-Quyen-Tinh-Yeu-DatKaa-QT-Beatz/ZWBOCU8O.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/a/8/6/9a8668d0ea709d91345e338aaa1a6046.jpg",
+          "duration": 233,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1591428240,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWD0B66D",
+          "title": "Họa Mây (Cố Giang Tình 2)",
+          "alias": "Hoa-May-Co-Giang-Tinh-2-X2X",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "X2X",
+          "artists": [
+            {
+              "id": "IW6Z6EU7",
+              "name": "X2X",
+              "link": "/nghe-si/X2X",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/c/c/7/0/cc709844d6aa6d3bf943bb91cf7ba662.jpg",
+          "link": "/bai-hat/Hoa-May-Co-Giang-Tinh-2-X2X/ZWD0B66D.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/c/7/0/cc709844d6aa6d3bf943bb91cf7ba662.jpg",
+          "duration": 249,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1598356800,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBOEDB9",
+          "title": "Cho Anh Say",
+          "alias": "Cho-Anh-Say-Phan-Duy-Anh-ACV",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Phan Duy Anh, ACV",
+          "artists": [
+            {
+              "id": "IWZ99IO9",
+              "name": "Phan Duy Anh",
+              "link": "/nghe-si/Phan-Duy-Anh",
+              "spotlight": false
+            },
+            {
+              "id": "IW6ZAAB8",
+              "name": "ACV",
+              "link": "/nghe-si/ACV",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/1/3/c/4/13c41aade59ccbc1d6a5819050ca8c65.jpg",
+          "link": "/bai-hat/Cho-Anh-Say-Phan-Duy-Anh-ACV/ZWBOEDB9.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/1/3/c/4/13c41aade59ccbc1d6a5819050ca8c65.jpg",
+          "duration": 307,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1592226000,
+          "mvlink": "/video-clip/Cho-Anh-Say-Phan-Duy-Anh-ACV/ZWBOEDB9.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW9CUEC9",
+          "title": "Hẹn Yêu",
+          "alias": "Hen-Yeu-Duy-Zuno",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Duy Zuno",
+          "artists": [
+            {
+              "id": "IW6W8EB0",
+              "name": "Duy Zuno",
+              "link": "/nghe-si/Duy-Zuno",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/2/e/1/9/2e1914cb9b1dcb962faf4a69a2f943df.jpg",
+          "link": "/bai-hat/Hen-Yeu-Duy-Zuno/ZW9CUEC9.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/e/1/9/2e1914cb9b1dcb962faf4a69a2f943df.jpg",
+          "duration": 299,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWFWO7D8",
+          "title": "Yêu Một Người Sao Buồn Đến Thế",
+          "alias": "Yeu-Mot-Nguoi-Sao-Buon-Den-The-Noo-Phuoc-Thinh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Noo Phước Thịnh",
+          "artists": [
+            {
+              "id": "IWZ9ZUU6",
+              "name": "Noo Phước Thịnh",
+              "link": "/nghe-si/Noo-Phuoc-Thinh",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/e/0/c/3/e0c341956a038d66b77275b20168b112.jpg",
+          "link": "/bai-hat/Yeu-Mot-Nguoi-Sao-Buon-Den-The-Noo-Phuoc-Thinh/ZWFWO7D8.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/e/0/c/3/e0c341956a038d66b77275b20168b112.jpg",
+          "duration": 299,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1603800000,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAD0OB6",
+          "title": "Bạc Phận",
+          "alias": "Bac-Phan-Jack-K-ICM",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Jack, K-ICM",
+          "artists": [
+            {
+              "id": "IW6WCI7U",
+              "name": "Jack",
+              "link": "/nghe-si/Trinh-Tran-Phuong-Tuan",
+              "spotlight": false
+            },
+            {
+              "id": "IWZFFOWB",
+              "name": "K-ICM",
+              "link": "/nghe-si/K-ICM",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/4/2/5/3/425334e6f252b8c34d74d16177a5eb9d.jpg",
+          "link": "/bai-hat/Bac-Phan-Jack-K-ICM/ZWAD0OB6.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/2/5/3/425334e6f252b8c34d74d16177a5eb9d.jpg",
+          "duration": 249,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Bac-Phan-Jack-K-ICM/ZWAD0OB6.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWADZBB9",
+          "title": "Ai Là Người Thương Em",
+          "alias": "Ai-La-Nguoi-Thuong-Em-Quan-A-P",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Quân A.P",
+          "artists": [
+            {
+              "id": "IW6ZUZI8",
+              "name": "Quân A.P",
+              "link": "/nghe-si/Quan-A-P",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/e/6/0/7e6088a95d78a12eae1cf55d0b3cc3b9.jpg",
+          "link": "/bai-hat/Ai-La-Nguoi-Thuong-Em-Quan-A-P/ZWADZBB9.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/e/6/0/7e6088a95d78a12eae1cf55d0b3cc3b9.jpg",
+          "duration": 307,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Ai-La-Nguoi-Thuong-Em-Quan-A-P/ZWADZBB9.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAEFWIF",
+          "title": "Em Gì Ơi",
+          "alias": "Em-Gi-Oi-Jack-K-ICM",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Jack, K-ICM",
+          "artists": [
+            {
+              "id": "IW6WCI7U",
+              "name": "Jack",
+              "link": "/nghe-si/Trinh-Tran-Phuong-Tuan",
+              "spotlight": false
+            },
+            {
+              "id": "IWZFFOWB",
+              "name": "K-ICM",
+              "link": "/nghe-si/K-ICM",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/3/5/3/f/353f305006cc99e50ef00877e4135d0e.jpg",
+          "link": "/bai-hat/Em-Gi-Oi-Jack-K-ICM/ZWAEFWIF.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/5/3/f/353f305006cc99e50ef00877e4135d0e.jpg",
+          "duration": 246,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Em-Gi-Oi-Jack-K-ICM/ZWAEFWIF.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBO6CFU",
+          "title": "Tình Anh",
+          "alias": "Tinh-Anh-Dinh-Dung-ACV",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Đình Dũng, ACV",
+          "artists": [
+            {
+              "id": "IW6UI066",
+              "name": "Đình Dũng",
+              "link": "/nghe-si/Dinh-Dung",
+              "spotlight": false
+            },
+            {
+              "id": "IW6ZAAB8",
+              "name": "ACV",
+              "link": "/nghe-si/ACV",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/6/a/b/f6ab94cda33ac9c190a7ac8cd0315270.jpg",
+          "link": "/bai-hat/Tinh-Anh-Dinh-Dung-ACV/ZWBO6CFU.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/6/a/b/f6ab94cda33ac9c190a7ac8cd0315270.jpg",
+          "duration": 292,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1590066000,
+          "mvlink": "/video-clip/Tinh-Anh-Dinh-Dung-ACV/ZWBO6CFU.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOU9W88W",
+          "title": "Đô Trưởng",
+          "alias": "Do-Truong-Dat-G",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Đạt G",
+          "artists": [
+            {
+              "id": "IWZFEEU7",
+              "name": "Đạt G",
+              "link": "/nghe-si/Dat-G",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/2/3/6/9/23698e352f90da49c0c235e7a12288a2.jpg",
+          "link": "/bai-hat/Do-Truong-Dat-G/ZOU9W88W.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/3/6/9/23698e352f90da49c0c235e7a12288a2.jpg",
+          "duration": 272,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1608638400,
+          "mvlink": "/video-clip/Do-Truong-Dat-G/ZOU9W88W.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWB0ZUDO",
+          "title": "Yêu Một Người Tổn Thương",
+          "alias": "Yeu-Mot-Nguoi-Ton-Thuong-Nhat-Phong",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Nhật Phong",
+          "artists": [
+            {
+              "id": "IW6W7AZD",
+              "name": "Nhật Phong",
+              "link": "/nghe-si/Nhat-Phong",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/b/f/0/bbf07ce77b3c28790ddacde01e4c13fd.jpg",
+          "link": "/bai-hat/Yeu-Mot-Nguoi-Ton-Thuong-Nhat-Phong/ZWB0ZUDO.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/b/f/0/bbf07ce77b3c28790ddacde01e4c13fd.jpg",
+          "duration": 262,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1578139200,
+          "mvlink": "/video-clip/Yeu-Mot-Nguoi-Ton-Thuong-Nhat-Phong/ZWB0ZUDO.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOW0OBU8",
+          "title": "BlackJack",
+          "alias": "BlackJack-SOOBIN-Binz",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "SOOBIN, Binz",
+          "artists": [
+            {
+              "id": "IWZ997CU",
+              "name": "SOOBIN",
+              "link": "/nghe-si/SOOBIN",
+              "spotlight": true
+            },
+            {
+              "id": "IWZ96FEI",
+              "name": "Binz",
+              "link": "/nghe-si/Binz",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/4/0/5/6/40564f839b476fd66838e497796a3d5f.jpg",
+          "link": "/bai-hat/BlackJack-SOOBIN-Binz/ZOW0OBU8.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/0/5/6/40564f839b476fd66838e497796a3d5f.jpg",
+          "duration": 197,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1606741200,
+          "mvlink": "/video-clip/BlackJack-SOOBIN-Binz/ZOW0OBU8.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZO6CWUFO",
+          "title": "Anh Luôn Là Lý Do",
+          "alias": "Anh-Luon-La-Ly-Do-ERIK",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "ERIK",
+          "artists": [
+            {
+              "id": "IWZA6CIZ",
+              "name": "ERIK",
+              "link": "/nghe-si/ERIK",
+              "spotlight": true
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/3/d/f/e/3dfe74e8dc17027b17e1626414523049.jpg",
+          "link": "/bai-hat/Anh-Luon-La-Ly-Do-ERIK/ZO6CWUFO.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/d/f/e/3dfe74e8dc17027b17e1626414523049.jpg",
+          "duration": 222,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1610539200,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAFEBZ6",
+          "title": "Tình Đẹp Đến Mấy Cũng Tàn",
+          "alias": "Tinh-Dep-Den-May-Cung-Tan-Nhu-Viet",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Như Việt",
+          "artists": [
+            {
+              "id": "IW6UI0OF",
+              "name": "Như Việt",
+              "link": "/nghe-si/Nhu-Viet",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/3/2/5/73257d3f2cb6b1c16719bebc443980f9.jpg",
+          "link": "/bai-hat/Tinh-Dep-Den-May-Cung-Tan-Nhu-Viet/ZWAFEBZ6.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/3/2/5/73257d3f2cb6b1c16719bebc443980f9.jpg",
+          "duration": 317,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1576152000,
+          "mvlink": "/video-clip/Tinh-Dep-Den-May-Cung-Tan-Nhu-Viet/ZWAFEBZ6.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWA86FZB",
+          "title": "Hồng Nhan",
+          "alias": "Hong-Nhan-Jack",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Jack",
+          "artists": [
+            {
+              "id": "IW6WCI7U",
+              "name": "Jack",
+              "link": "/nghe-si/Trinh-Tran-Phuong-Tuan",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/3/2/7/f/327f68099674128289ba8a2e98232d68.jpg",
+          "link": "/bai-hat/Hong-Nhan-Jack/ZWA86FZB.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/2/7/f/327f68099674128289ba8a2e98232d68.jpg",
+          "duration": 192,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZO096B98",
+          "title": "Cần Không Có, Có Không Cần",
+          "alias": "Can-Khong-Co-Co-Khong-Can-Thanh-Hung",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Thanh Hưng",
+          "artists": [
+            {
+              "id": "IWZ9A7ZD",
+              "name": "Thanh Hưng",
+              "link": "/nghe-si/Thanh-Hung-Idol",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/8/6/b/b86b3c28e123e4e4e94d65ceed2312ac.jpg",
+          "link": "/bai-hat/Can-Khong-Co-Co-Khong-Can-Thanh-Hung/ZO096B98.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/8/6/b/b86b3c28e123e4e4e94d65ceed2312ac.jpg",
+          "duration": 331,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1605702600,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBWCCBU",
+          "title": "Dừng Thương",
+          "alias": "Dung-Thuong-DatKaa",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "DatKaa",
+          "artists": [
+            {
+              "id": "IW6ZBOW8",
+              "name": "DatKaa",
+              "link": "/nghe-si/DatKaa",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/a/e/4/9ae496d0b92cf2ca93359d3b6a508a63.jpg",
+          "link": "/bai-hat/Dung-Thuong-DatKaa/ZWBWCCBU.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/a/e/4/9ae496d0b92cf2ca93359d3b6a508a63.jpg",
+          "duration": 237,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1587453720,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWB00D8D",
+          "title": "Phụ Tình",
+          "alias": "Phu-Tinh-Trinh-Dinh-Quang",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Trịnh Đình Quang",
+          "artists": [
+            {
+              "id": "IWZAODD8",
+              "name": "Trịnh Đình Quang",
+              "link": "/nghe-si/Singer-Trinh-Dinh-Quang",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/6/e/9/66e951f377d556e069afed6c137335ae.jpg",
+          "link": "/bai-hat/Phu-Tinh-Trinh-Dinh-Quang/ZWB00D8D.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/6/e/9/66e951f377d556e069afed6c137335ae.jpg",
+          "duration": 294,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1576839600,
+          "mvlink": "/video-clip/Phu-Tinh-Trinh-Dinh-Quang/ZWB00D8D.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAFE897",
+          "title": "Bánh Mì Không",
+          "alias": "Banh-Mi-Khong-Dat-G-DuUyen",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Đạt G, DuUyen",
+          "artists": [
+            {
+              "id": "IWZFEEU7",
+              "name": "Đạt G",
+              "link": "/nghe-si/Dat-G",
+              "spotlight": false
+            },
+            {
+              "id": "IW6W9WEW",
+              "name": "DuUyen",
+              "link": "/nghe-si/DuUyen",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/2/9/0/6/2906681d4b764cd4677342b66813f25d.jpg",
+          "link": "/bai-hat/Banh-Mi-Khong-Dat-G-DuUyen/ZWAFE897.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/9/0/6/2906681d4b764cd4677342b66813f25d.jpg",
+          "duration": 245,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1576155900,
+          "mvlink": "/video-clip/Banh-Mi-Khong-Dat-G-DuUyen/ZWAFE897.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAEU0EE",
+          "title": "Thay Tôi Yêu Cô Ấy",
+          "alias": "Thay-Toi-Yeu-Co-Ay-Thanh-Hung",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Thanh Hưng",
+          "artists": [
+            {
+              "id": "IWZ9A7ZD",
+              "name": "Thanh Hưng",
+              "link": "/nghe-si/Thanh-Hung-Idol",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/0/d/4/50d49d8c9046d12fe2bace3cf336053a.jpg",
+          "link": "/bai-hat/Thay-Toi-Yeu-Co-Ay-Thanh-Hung/ZWAEU0EE.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/0/d/4/50d49d8c9046d12fe2bace3cf336053a.jpg",
+          "duration": 329,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Thay-Toi-Yeu-Co-Ay-Thanh-Hung/ZWAEU0EE.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBWCA8B",
+          "title": "Yêu Từ Đâu Mà Ra?",
+          "alias": "Yeu-Tu-Dau-Ma-Ra-Lil-Zpoet",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Lil Zpoet",
+          "artists": [
+            {
+              "id": "IW6ZBOWU",
+              "name": "Lil Zpoet",
+              "link": "/nghe-si/Lil-Zpoet",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/1/1/a/6/11a6395562d2eb6e9500d079f8975f32.jpg",
+          "link": "/bai-hat/Yeu-Tu-Dau-Ma-Ra-Lil-Zpoet/ZWBWCA8B.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/1/1/a/6/11a6395562d2eb6e9500d079f8975f32.jpg",
+          "duration": 243,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1587390960,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAFOEAF",
+          "title": "Em Ơi Lên Phố",
+          "alias": "Em-Oi-Len-Pho-Minh-Vuong-M4U",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Minh Vương M4U",
+          "artists": [
+            {
+              "id": "IWZ9ZFA7",
+              "name": "Minh Vương M4U",
+              "link": "/nghe-si/Minh-Vuong-M4U",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/9/b/5/b9b5e03b6e5455a6a24a02cae3a14d3f.jpg",
+          "link": "/bai-hat/Em-Oi-Len-Pho-Minh-Vuong-M4U/ZWAFOEAF.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/9/b/5/b9b5e03b6e5455a6a24a02cae3a14d3f.jpg",
+          "duration": 232,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Em-Oi-Len-Pho-Minh-Vuong-M4U/ZWAFOEAF.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOZ7978I",
+          "title": "Tay Nắm Tay Rời",
+          "alias": "Tay-Nam-Tay-Roi-Pham-Dinh-Thai-Ngan",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Phạm Đình Thái Ngân",
+          "artists": [
+            {
+              "id": "IWZAOADF",
+              "name": "Phạm Đình Thái Ngân",
+              "link": "/nghe-si/Pham-Dinh-Thai-Ngan",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/a/4/3/e/a43e2f55c5699c55e34703b8dc6aad3c.jpg",
+          "link": "/bai-hat/Tay-Nam-Tay-Roi-Pham-Dinh-Thai-Ngan/ZOZ7978I.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/a/4/3/e/a43e2f55c5699c55e34703b8dc6aad3c.jpg",
+          "duration": 308,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1609329600,
+          "mvlink": "/video-clip/Tay-Nam-Tay-Roi-Pham-Dinh-Thai-Ngan/ZOZ7978I.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOW6ZD6E",
+          "title": "từ thích thích thành thương thương",
+          "alias": "tu-thich-thich-thanh-thuong-thuong-AMEE-Hoang-Dung",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE, Hoàng Dũng",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/nghe-si/AMEE",
+              "spotlight": false
+            },
+            {
+              "id": "IWZAZ8U6",
+              "name": "Hoàng Dũng",
+              "link": "/nghe-si/Nguyen-Hoang-Dung",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/a/3/4/fa34528cd48fc5a941273e74e9dfbc2e.jpg",
+          "link": "/bai-hat/tu-thich-thich-thanh-thuong-thuong-AMEE-Hoang-Dung/ZOW6ZD6E.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/a/3/4/fa34528cd48fc5a941273e74e9dfbc2e.jpg",
+          "duration": 204,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1607342400,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAE8CBC",
+          "title": "Bước Qua Đời Nhau",
+          "alias": "Buoc-Qua-Doi-Nhau-Le-Bao-Binh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Lê Bảo Bình",
+          "artists": [
+            {
+              "id": "IWZ9B08F",
+              "name": "Lê Bảo Bình",
+              "link": "/nghe-si/Le-Bao-Binh",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/0/c/1/7/0c17295b34844a5ad26ae2145d62b4fc.jpg",
+          "link": "/bai-hat/Buoc-Qua-Doi-Nhau-Le-Bao-Binh/ZWAE8CBC.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/c/1/7/0c17295b34844a5ad26ae2145d62b4fc.jpg",
+          "duration": 280,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Buoc-Qua-Doi-Nhau-Le-Bao-Binh/ZWAE8CBC.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWCO0WU9",
+          "title": "Người Có Thương?",
+          "alias": "Nguoi-Co-Thuong-DatKaa",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "DatKaa",
+          "artists": [
+            {
+              "id": "IW6ZBOW8",
+              "name": "DatKaa",
+              "link": "/nghe-si/DatKaa",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/0/0/d/a/00da6f15c1a9b83551f3177500b226ea.jpg",
+          "link": "/bai-hat/Nguoi-Co-Thuong-DatKaa/ZWCO0WU9.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/0/d/a/00da6f15c1a9b83551f3177500b226ea.jpg",
+          "duration": 282,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1596891600,
+          "mvlink": "/video-clip/Nguoi-Co-Thuong-DatKaa/ZWCO0WU9.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOWUA7ZO",
+          "title": "nàng thơ... trời giấu trời mang đi",
+          "alias": "nang-tho-troi-giau-troi-mang-di-AMEE-Hoang-Dung",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE, Hoàng Dũng",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/nghe-si/AMEE",
+              "spotlight": false
+            },
+            {
+              "id": "IWZAZ8U6",
+              "name": "Hoàng Dũng",
+              "link": "/nghe-si/Nguyen-Hoang-Dung",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/2/1/c/9/21c9b33dc27fc37aa5f352bf0d84726e.jpg",
+          "link": "/bai-hat/nang-tho-troi-giau-troi-mang-di-AMEE-Hoang-Dung/ZOWUA7ZO.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/1/c/9/21c9b33dc27fc37aa5f352bf0d84726e.jpg",
+          "duration": 262,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1607083200,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAEE7F7",
+          "title": "Hết Thương Cạn Nhớ",
+          "alias": "Het-Thuong-Can-Nho-Duc-Phuc",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Đức Phúc",
+          "artists": [
+            {
+              "id": "IWZA66AO",
+              "name": "Đức Phúc",
+              "link": "/nghe-si/Duc-Phuc",
+              "spotlight": true
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/7/f/a/97fa122b55eefd723d7b97f887ee8786.jpg",
+          "link": "/bai-hat/Het-Thuong-Can-Nho-Duc-Phuc/ZWAEE7F7.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/7/f/a/97fa122b55eefd723d7b97f887ee8786.jpg",
+          "duration": 283,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Het-Thuong-Can-Nho-Duc-Phuc/ZWAEE7F7.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOID9Z8I",
+          "title": "Dễ Đến Dễ Đi (Lofi Version)",
+          "alias": "De-Den-De-Di-Lofi-Version-Quang-Hung-MasterD",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Quang Hùng MasterD",
+          "artists": [
+            {
+              "id": "IWZAZFCO",
+              "name": "Quang Hùng MasterD",
+              "link": "/nghe-si/Quang-Hung-MasterD",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/0/5/e/b/05ebdc00ccf3fb90fc09b3a9e116a2d3.jpg",
+          "link": "/bai-hat/De-Den-De-Di-Lofi-Version-Quang-Hung-MasterD/ZOID9Z8I.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/5/e/b/05ebdc00ccf3fb90fc09b3a9e116a2d3.jpg",
+          "duration": 219,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1606563600,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBWO7C6",
+          "title": "Sợ Phải Kết Thúc",
+          "alias": "So-Phai-Ket-Thuc-Nhat-Phong",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Nhật Phong",
+          "artists": [
+            {
+              "id": "IW6W7AZD",
+              "name": "Nhật Phong",
+              "link": "/nghe-si/Nhat-Phong",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/1/0/1/71016e579c3ffbc4e81691b3ee99d443.jpg",
+          "link": "/bai-hat/So-Phai-Ket-Thuc-Nhat-Phong/ZWBWO7C6.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/1/0/1/71016e579c3ffbc4e81691b3ee99d443.jpg",
+          "duration": 286,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1585396800,
+          "mvlink": "/video-clip/So-Phai-Ket-Thuc-Nhat-Phong/ZWBWO7C6.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBUU0ZE",
+          "title": "Cứ Thế Rời Xa",
+          "alias": "Cu-The-Roi-Xa-Yen-Tatoo-Great",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Yến Tatoo, Great",
+          "artists": [
+            {
+              "id": "IWZA80I8",
+              "name": "Yến Tatoo",
+              "link": "/nghe-si/Yen-Tatoo",
+              "spotlight": false
+            },
+            {
+              "id": "IW6ZBEAB",
+              "name": "Great",
+              "link": "/nghe-si/Great",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/1/5/4/f1541e6b40bfd09848ecc484e13895b6.jpg",
+          "link": "/bai-hat/Cu-The-Roi-Xa-Yen-Tatoo-Great/ZWBUU0ZE.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/1/5/4/f1541e6b40bfd09848ecc484e13895b6.jpg",
+          "duration": 234,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1592571600,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAFFD7E",
+          "title": "Lá Xa Lìa Cành",
+          "alias": "La-Xa-Lia-Canh-Le-Bao-Binh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Lê Bảo Bình",
+          "artists": [
+            {
+              "id": "IWZ9B08F",
+              "name": "Lê Bảo Bình",
+              "link": "/nghe-si/Le-Bao-Binh",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/2/a/8/d2a8fe2f80b1da9ed5ca4d3fc921446f.jpg",
+          "link": "/bai-hat/La-Xa-Lia-Canh-Le-Bao-Binh/ZWAFFD7E.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/2/a/8/d2a8fe2f80b1da9ed5ca4d3fc921446f.jpg",
+          "duration": 292,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1576501200,
+          "mvlink": "/video-clip/La-Xa-Lia-Canh-Le-Bao-Binh/ZWAFFD7E.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWC0FO9O",
+          "title": "Mãi Mãi Không Phải Anh",
+          "alias": "Mai-Mai-Khong-Phai-Anh-Thanh-Binh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Thanh Bình",
+          "artists": [
+            {
+              "id": "IW67C6Z8",
+              "name": "Thanh Bình",
+              "link": "/nghe-si/To-Thanh-Binh",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/b/6/0/8b60c63bca80097a24b834bdb2400bf2.jpg",
+          "link": "/bai-hat/Mai-Mai-Khong-Phai-Anh-Thanh-Binh/ZWC0FO9O.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/b/6/0/8b60c63bca80097a24b834bdb2400bf2.jpg",
+          "duration": 273,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1595576700,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBICDCO",
+          "title": "Ai Đợi Mình Được Mãi",
+          "alias": "Ai-Doi-Minh-Duoc-Mai-Thanh-Hung",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Thanh Hưng",
+          "artists": [
+            {
+              "id": "IWZ9A7ZD",
+              "name": "Thanh Hưng",
+              "link": "/nghe-si/Thanh-Hung-Idol",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/a/9/b/d/a9bdcd0b7a87e4d56ae5e8d6f5dd50cd.jpg",
+          "link": "/bai-hat/Ai-Doi-Minh-Duoc-Mai-Thanh-Hung/ZWBICDCO.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/a/9/b/d/a9bdcd0b7a87e4d56ae5e8d6f5dd50cd.jpg",
+          "duration": 312,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1583501340,
+          "mvlink": "/video-clip/Ai-Doi-Minh-Duoc-Mai-Thanh-Hung/ZWBICDCO.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWCWE8BZ",
+          "title": "Chắc Vì Mình Chưa Tốt",
+          "alias": "Chac-Vi-Minh-Chua-Tot-Thanh-Hung",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Thanh Hưng",
+          "artists": [
+            {
+              "id": "IWZ9A7ZD",
+              "name": "Thanh Hưng",
+              "link": "/nghe-si/Thanh-Hung-Idol",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/e/e/b/feebaec84a211ff8c46a2d803f7a646c.jpg",
+          "link": "/bai-hat/Chac-Vi-Minh-Chua-Tot-Thanh-Hung/ZWCWE8BZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/e/e/b/feebaec84a211ff8c46a2d803f7a646c.jpg",
+          "duration": 355,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1596891600,
+          "mvlink": "/video-clip/Chac-Vi-Minh-Chua-Tot-Thanh-Hung/ZWCWE8BZ.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAEFBDF",
+          "title": "Còn Gì Đau Hơn Chữ Đã Từng",
+          "alias": "Con-Gi-Dau-Hon-Chu-Da-Tung-Quan-A-P",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Quân A.P",
+          "artists": [
+            {
+              "id": "IW6ZUZI8",
+              "name": "Quân A.P",
+              "link": "/nghe-si/Quan-A-P",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/6/5/1/5651a16e61472b25af4af405a8c3df2c.jpg",
+          "link": "/bai-hat/Con-Gi-Dau-Hon-Chu-Da-Tung-Quan-A-P/ZWAEFBDF.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/6/5/1/5651a16e61472b25af4af405a8c3df2c.jpg",
+          "duration": 305,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Con-Gi-Dau-Hon-Chu-Da-Tung-Quan-A-P/ZWAEFBDF.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAD7FEU",
+          "title": "Đau Để Trưởng Thành",
+          "alias": "Dau-De-Truong-Thanh-OnlyC",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "OnlyC",
+          "artists": [
+            {
+              "id": "IWZ9ZED8",
+              "name": "OnlyC",
+              "link": "/nghe-si/OnlyC",
+              "spotlight": true
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/c/a/9/d/ca9d4b6cd6252d7a364c74afabf06958.jpg",
+          "link": "/bai-hat/Dau-De-Truong-Thanh-OnlyC/ZWAD7FEU.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/a/9/d/ca9d4b6cd6252d7a364c74afabf06958.jpg",
+          "duration": 283,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Dau-De-Truong-Thanh-OnlyC/ZWAD7FEU.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWABWOFZ",
+          "title": "Một Bước Yêu Vạn Dặm Đau",
+          "alias": "Mot-Buoc-Yeu-Van-Dam-Dau-Mr-Siro",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Mr Siro",
+          "artists": [
+            {
+              "id": "IWZ98609",
+              "name": "Mr Siro",
+              "link": "/nghe-si/mrsiro",
+              "spotlight": true
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/4/d/6/2/4d62b014dddf2702af85e1d14d5c0a0b.jpg",
+          "link": "/bai-hat/Mot-Buoc-Yeu-Van-Dam-Dau-Mr-Siro/ZWABWOFZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/d/6/2/4d62b014dddf2702af85e1d14d5c0a0b.jpg",
+          "duration": 299,
+          "isZMA": false,
+          "zingChoise": true,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Mot-Buoc-Yeu-Van-Dam-Dau-Mr-Siro/ZWABWOFZ.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWFC6O86",
+          "title": "Cứ Vội Vàng",
+          "alias": "Cu-Voi-Vang-Minh-Vuong-M4U-ACV",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Minh Vương M4U, ACV",
+          "artists": [
+            {
+              "id": "IWZ9ZFA7",
+              "name": "Minh Vương M4U",
+              "link": "/nghe-si/Minh-Vuong-M4U",
+              "spotlight": false
+            },
+            {
+              "id": "IW6ZAAB8",
+              "name": "ACV",
+              "link": "/nghe-si/ACV",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/1/0/0/5100dd89fe120cbc62025ccfc4b583fc.jpg",
+          "link": "/bai-hat/Cu-Voi-Vang-Minh-Vuong-M4U-ACV/ZWFC6O86.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/1/0/0/5100dd89fe120cbc62025ccfc4b583fc.jpg",
+          "duration": 302,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1604833200,
+          "mvlink": "/video-clip/Cu-Voi-Vang-Minh-Vuong-M4U-ACV/ZWFC6O86.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAEOBCW",
+          "title": "Có Tất Cả Nhưng Thiếu Anh",
+          "alias": "Co-Tat-Ca-Nhung-Thieu-Anh-ERIK",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "ERIK",
+          "artists": [
+            {
+              "id": "IWZA6CIZ",
+              "name": "ERIK",
+              "link": "/nghe-si/ERIK",
+              "spotlight": true
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/b/e/4/6be430e44902db6e3e28e8a39034f4df.jpg",
+          "link": "/bai-hat/Co-Tat-Ca-Nhung-Thieu-Anh-ERIK/ZWAEOBCW.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/b/e/4/6be430e44902db6e3e28e8a39034f4df.jpg",
+          "duration": 334,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Co-Tat-Ca-Nhung-Thieu-Anh-ERIK/ZWAEOBCW.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWCWOZ0B",
+          "title": "Anh Kết Em Rồi",
+          "alias": "Anh-Ket-Em-Roi-Hong-Thanh-DJ-Mie",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hồng Thanh, DJ Mie",
+          "artists": [
+            {
+              "id": "IW67C6FD",
+              "name": "Hồng Thanh",
+              "link": "/nghe-si/Hong-Thanh",
+              "spotlight": false
+            },
+            {
+              "id": "IWZD6FED",
+              "name": "DJ Mie",
+              "link": "/nghe-si/DJ-Mie",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/0/b/5/e/0b5ec1beb53571c05a6f166baf56e01d.jpg",
+          "link": "/bai-hat/Anh-Ket-Em-Roi-Hong-Thanh-DJ-Mie/ZWCWOZ0B.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/b/5/e/0b5ec1beb53571c05a6f166baf56e01d.jpg",
+          "duration": 204,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1596027600,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOO98IIA",
+          "title": "Xa Một Người Còn Thương",
+          "alias": "Xa-Mot-Nguoi-Con-Thuong-Du-Thien-ACV",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Du Thiên, ACV",
+          "artists": [
+            {
+              "id": "IWZ97ID6",
+              "name": "Du Thiên",
+              "link": "/nghe-si/Du-Thien",
+              "spotlight": false
+            },
+            {
+              "id": "IW6ZAAB8",
+              "name": "ACV",
+              "link": "/nghe-si/ACV",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/f/c/a/9fca0dc4609a986a824fce375a207583.jpg",
+          "link": "/bai-hat/Xa-Mot-Nguoi-Con-Thuong-Du-Thien-ACV/ZOO98IIA.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/f/c/a/9fca0dc4609a986a824fce375a207583.jpg",
+          "duration": 288,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1608037200,
+          "mvlink": "/video-clip/Xa-Mot-Nguoi-Con-Thuong-Du-Thien-ACV/ZOO98IIA.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWD8BOFU",
+          "title": "Chạnh Lòng Thương Cô",
+          "alias": "Chanh-Long-Thuong-Co-Huy-Vac-NonHanTa",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Huy Vạc, NonHanTa",
+          "artists": [
+            {
+              "id": "IW6W86EF",
+              "name": "Huy Vạc",
+              "link": "/nghe-si/Huy-Vac",
+              "spotlight": false
+            },
+            {
+              "id": "IW6ZUZII",
+              "name": "NonHanTa",
+              "link": "/nghe-si/Non-Han-Ta",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/1/5/9/61595148372c89e1ded340e350d07eaa.jpg",
+          "link": "/bai-hat/Chanh-Long-Thuong-Co-Huy-Vac-NonHanTa/ZWD8BOFU.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/1/5/9/61595148372c89e1ded340e350d07eaa.jpg",
+          "duration": 247,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1600430400,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAF6EE6",
+          "title": "Cô Đơn Sẽ Tốt Hơn",
+          "alias": "Co-Don-Se-Tot-Hon-Luong-Gia-Hung",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Lương Gia Hùng",
+          "artists": [
+            {
+              "id": "IWZ989B6",
+              "name": "Lương Gia Hùng",
+              "link": "/nghe-si/Luong-Gia-Hung",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/3/2/d/5/32d5cb46f04e2fccd0897770ae29f791.jpg",
+          "link": "/bai-hat/Co-Don-Se-Tot-Hon-Luong-Gia-Hung/ZWAF6EE6.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/2/d/5/32d5cb46f04e2fccd0897770ae29f791.jpg",
+          "duration": 361,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1573725120,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWCW788Z",
+          "title": "Yêu Nhau Nhé Bạn Thân",
+          "alias": "Yeu-Nhau-Nhe-Ban-Than-Pham-Dinh-Thai-Ngan",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Phạm Đình Thái Ngân",
+          "artists": [
+            {
+              "id": "IWZAOADF",
+              "name": "Phạm Đình Thái Ngân",
+              "link": "/nghe-si/Pham-Dinh-Thai-Ngan",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/4/6/8/7468cda9226c9caa61730a7fe07151f3.jpg",
+          "link": "/bai-hat/Yeu-Nhau-Nhe-Ban-Than-Pham-Dinh-Thai-Ngan/ZWCW788Z.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/4/6/8/7468cda9226c9caa61730a7fe07151f3.jpg",
+          "duration": 313,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1596112500,
+          "mvlink": "/video-clip/Yeu-Nhau-Nhe-Ban-Than-Pham-Dinh-Thai-Ngan/ZWCW788Z.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBUA8B8",
+          "title": "Bigcityboi",
+          "alias": "Bigcityboi-Binz-Touliver",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Binz, Touliver",
+          "artists": [
+            {
+              "id": "IWZ96FEI",
+              "name": "Binz",
+              "link": "/nghe-si/Binz",
+              "spotlight": false
+            },
+            {
+              "id": "IWZ986AE",
+              "name": "Touliver",
+              "link": "/nghe-si/Touliver",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/a/5/1/5a5164496ababbca1496193ec8b8afb1.jpg",
+          "link": "/bai-hat/Bigcityboi-Binz-Touliver/ZWBUA8B8.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/a/5/1/5a5164496ababbca1496193ec8b8afb1.jpg",
+          "duration": 202,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1593954000,
+          "mvlink": "/video-clip/Bigcityboi-Binz-Touliver/ZWBUA8B8.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWADIOCC",
+          "title": "Đừng Yêu Nữa, Em Mệt Rồi",
+          "alias": "Dung-Yeu-Nua-Em-Met-Roi-MIN",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "MIN",
+          "artists": [
+            {
+              "id": "IWZA0OWC",
+              "name": "MIN",
+              "link": "/nghe-si/Min",
+              "spotlight": true
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/2/7/d/9/27d9bf0671538484ddc719c125cba369.jpg",
+          "link": "/bai-hat/Dung-Yeu-Nua-Em-Met-Roi-MIN/ZWADIOCC.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/7/d/9/27d9bf0671538484ddc719c125cba369.jpg",
+          "duration": 281,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Dung-Yeu-Nua-Em-Met-Roi-MIN/ZWADIOCC.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWDB0OZ9",
+          "title": "Em Bé",
+          "alias": "Em-Be-AMEE-Karik",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE, Karik",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/nghe-si/AMEE",
+              "spotlight": false
+            },
+            {
+              "id": "IWZ96F6O",
+              "name": "Karik",
+              "link": "/nghe-si/Karik",
+              "spotlight": true
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/1/3/5/d/135df4817f98350b0969a2c5beec68e5.jpg",
+          "link": "/bai-hat/Em-Be-AMEE-Karik/ZWDB0OZ9.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/1/3/5/d/135df4817f98350b0969a2c5beec68e5.jpg",
+          "duration": 192,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1600776000,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWD87F6O",
+          "title": "Hồng Tàn",
+          "alias": "Hong-Tan-G5RSquad",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "G5RSquad",
+          "artists": [
+            {
+              "id": "IW6ZU880",
+              "name": "G5RSquad",
+              "link": "/nghe-si/G5RSquad",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/2/f/5/9/2f595fc313e10d763b99bdea0be44979.jpg",
+          "link": "/bai-hat/Hong-Tan-G5RSquad/ZWD87F6O.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/f/5/9/2f595fc313e10d763b99bdea0be44979.jpg",
+          "duration": 350,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1605792600,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWFEZWCB",
+          "title": "Cuộc Gọi Nhỡ",
+          "alias": "Cuoc-Goi-Nho-Vuong-Anh-Tu",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Vương Anh Tú",
+          "artists": [
+            {
+              "id": "IWZ9FE6A",
+              "name": "Vương Anh Tú",
+              "link": "/nghe-si/Vuong-Anh-Tu",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/7/0/1/d701006437bb016b67033577edca6818.jpg",
+          "link": "/bai-hat/Cuoc-Goi-Nho-Vuong-Anh-Tu/ZWFEZWCB.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/7/0/1/d701006437bb016b67033577edca6818.jpg",
+          "duration": 226,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1605096000,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWB0IFAD",
+          "title": "Hoa Vô Sắc",
+          "alias": "Hoa-Vo-Sac-Jack-K-ICM",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Jack, K-ICM",
+          "artists": [
+            {
+              "id": "IW6WCI7U",
+              "name": "Jack",
+              "link": "/nghe-si/Trinh-Tran-Phuong-Tuan",
+              "spotlight": false
+            },
+            {
+              "id": "IWZFFOWB",
+              "name": "K-ICM",
+              "link": "/nghe-si/K-ICM",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/f/f/3/6ff330930e726af162d634a749b2d4eb.jpg",
+          "link": "/bai-hat/Hoa-Vo-Sac-Jack-K-ICM/ZWB0IFAD.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/f/f/3/6ff330930e726af162d634a749b2d4eb.jpg",
+          "duration": 281,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1577106000,
+          "mvlink": "/video-clip/Hoa-Vo-Sac-Jack-K-ICM/ZWB0IFAD.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZO00CDBZ",
+          "title": "Xin Cô Đơn Đi",
+          "alias": "Xin-Co-Don-Di-K-ICM-APJ",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "K-ICM, APJ",
+          "artists": [
+            {
+              "id": "IWZFFOWB",
+              "name": "K-ICM",
+              "link": "/nghe-si/K-ICM",
+              "spotlight": false
+            },
+            {
+              "id": "IW6WAA7W",
+              "name": "APJ",
+              "link": "/nghe-si/APJ",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/5/5/9/5559cc78d22b00fe86b607b9c035dd1f.jpg",
+          "link": "/bai-hat/Xin-Co-Don-Di-K-ICM-APJ/ZO00CDBZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/5/5/9/5559cc78d22b00fe86b607b9c035dd1f.jpg",
+          "duration": 252,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1605067800,
+          "mvlink": "/video-clip/Xin-Co-Don-Di-K-ICM-APJ/ZO00CDBZ.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOWBWWZC",
+          "title": "Bức Bình Phong",
+          "alias": "Buc-Binh-Phong-Trinh-Thang-Binh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Trịnh Thăng Bình",
+          "artists": [
+            {
+              "id": "IWZ9ZD8A",
+              "name": "Trịnh Thăng Bình",
+              "link": "/nghe-si/Trinh-Thang-Binh",
+              "spotlight": true
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/2/c/f/62cf3db282ed88f58fe266ae2f0bfc46.jpg",
+          "link": "/bai-hat/Buc-Binh-Phong-Trinh-Thang-Binh/ZOWBWWZC.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/2/c/f/62cf3db282ed88f58fe266ae2f0bfc46.jpg",
+          "duration": 302,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1608037200,
+          "mvlink": "/video-clip/Buc-Binh-Phong-Trinh-Thang-Binh/ZOWBWWZC.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWFB7UWD",
+          "title": "Buồn Vì Ta Mất Nhau",
+          "alias": "Buon-Vi-Ta-Mat-Nhau-Trinh-Dinh-Quang",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Trịnh Đình Quang",
+          "artists": [
+            {
+              "id": "IWZAODD8",
+              "name": "Trịnh Đình Quang",
+              "link": "/nghe-si/Singer-Trinh-Dinh-Quang",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/1/b/3/a/1b3a2b88f47a75ae2759ccbb23dfff7a.jpg",
+          "link": "/bai-hat/Buon-Vi-Ta-Mat-Nhau-Trinh-Dinh-Quang/ZWFB7UWD.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/1/b/3/a/1b3a2b88f47a75ae2759ccbb23dfff7a.jpg",
+          "duration": 279,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1604743200,
+          "mvlink": "/video-clip/Buon-Vi-Ta-Mat-Nhau-Trinh-Dinh-Quang/ZWFB7UWD.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWCIUBWB",
+          "title": "Đi Cùng Em",
+          "alias": "Di-Cung-Em-Minh-Vuong-M4U-Lemon-Climb-ACV",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Minh Vương M4U, Lemon Climb, ACV",
+          "artists": [
+            {
+              "id": "IWZ9ZFA7",
+              "name": "Minh Vương M4U",
+              "link": "/nghe-si/Minh-Vuong-M4U",
+              "spotlight": false
+            },
+            {
+              "id": "IW67C68I",
+              "name": "Lemon Climb",
+              "link": "/nghe-si/Lemon-Climb",
+              "spotlight": false
+            },
+            {
+              "id": "IW6ZAAB8",
+              "name": "ACV",
+              "link": "/nghe-si/ACV",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/b/f/3/fbf38164222f12d85a41e7631b944b20.jpg",
+          "link": "/bai-hat/Di-Cung-Em-Minh-Vuong-M4U-Lemon-Climb-ACV/ZWCIUBWB.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/b/f/3/fbf38164222f12d85a41e7631b944b20.jpg",
+          "duration": 240,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1595683800,
+          "mvlink": "/video-clip/Di-Cung-Em-Minh-Vuong-M4U-Lemon-Climb-ACV/ZWCIUBWB.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOWI7AWC",
+          "title": "Tự Nắm Tay Mình",
+          "alias": "Tu-Nam-Tay-Minh-Duong-Hoang-Yen-Quan-A-P",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Dương Hoàng Yến, Quân A.P",
+          "artists": [
+            {
+              "id": "IWZ97WAZ",
+              "name": "Dương Hoàng Yến",
+              "link": "/nghe-si/Duong-Hoang-Yen",
+              "spotlight": false
+            },
+            {
+              "id": "IW6ZUZI8",
+              "name": "Quân A.P",
+              "link": "/nghe-si/Quan-A-P",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/e/c/4/8ec47ce61b4e4a84f566ecbdb3f898cd.jpg",
+          "link": "/bai-hat/Tu-Nam-Tay-Minh-Duong-Hoang-Yen-Quan-A-P/ZOWI7AWC.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/e/c/4/8ec47ce61b4e4a84f566ecbdb3f898cd.jpg",
+          "duration": 321,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1607083200,
+          "mvlink": "/video-clip/Tu-Nam-Tay-Minh-Duong-Hoang-Yen-Quan-A-P/ZOWI7AWC.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZO6WC06B",
+          "title": "Tết Này Con Không Về",
+          "alias": "Tet-Nay-Con-Khong-Ve-Thanh-Hung",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Thanh Hưng",
+          "artists": [
+            {
+              "id": "IWZ9A7ZD",
+              "name": "Thanh Hưng",
+              "link": "/nghe-si/Thanh-Hung-Idol",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/c/9/6/2/c9623744539742cea19f8f96abaab602.jpg",
+          "link": "/bai-hat/Tet-Nay-Con-Khong-Ve-Thanh-Hung/ZO6WC06B.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/9/6/2/c9623744539742cea19f8f96abaab602.jpg",
+          "duration": 342,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1610024400,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAWZ0AI",
+          "title": "Đúng Người Đúng Thời Điểm",
+          "alias": "Dung-Nguoi-Dung-Thoi-Diem-Thanh-Hung",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Thanh Hưng",
+          "artists": [
+            {
+              "id": "IWZ9A7ZD",
+              "name": "Thanh Hưng",
+              "link": "/nghe-si/Thanh-Hung-Idol",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/4/0/6/b/406b5324276ed23168cfc11822039372.jpg",
+          "link": "/bai-hat/Dung-Nguoi-Dung-Thoi-Diem-Thanh-Hung/ZWAWZ0AI.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/0/6/b/406b5324276ed23168cfc11822039372.jpg",
+          "duration": 296,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "mvlink": "/video-clip/Dung-Nguoi-Dung-Thoi-Diem-Thanh-Hung/ZWAWZ0AI.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBW6WE8",
+          "title": "Đừng Lo Anh Đợi Mà",
+          "alias": "Dung-Lo-Anh-Doi-Ma-Mr-Siro",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Mr Siro",
+          "artists": [
+            {
+              "id": "IWZ98609",
+              "name": "Mr Siro",
+              "link": "/nghe-si/mrsiro",
+              "spotlight": true
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/1/c/0/f1c06ed70e6be6be9572d99daf5ecc53.jpg",
+          "link": "/bai-hat/Dung-Lo-Anh-Doi-Ma-Mr-Siro/ZWBW6WE8.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/1/c/0/f1c06ed70e6be6be9572d99daf5ecc53.jpg",
+          "duration": 272,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1585810560,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWB0U609",
+          "title": "Duyên Trời Lấy 2",
+          "alias": "Duyen-Troi-Lay-2-Chung-Thanh-Duy",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Chung Thanh Duy",
+          "artists": [
+            {
+              "id": "IW6UIIZW",
+              "name": "Chung Thanh Duy",
+              "link": "/nghe-si/Chung-Thanh-Duy",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/5/4/5/15452c19ea97e0c5d96e79cd93b8cb44.jpg",
+          "link": "/bai-hat/Duyen-Troi-Lay-2-Chung-Thanh-Duy/ZWB0U609.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/1/5/4/5/15452c19ea97e0c5d96e79cd93b8cb44.jpg",
+          "duration": 239,
+          "isZMA": true,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1578103200,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOWE68AO",
+          "title": "Bất Quá Nhân Gian",
+          "alias": "Bat-Qua-Nhan-Gian-Gia-Huy-Singer",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Gia Huy Singer",
+          "artists": [
+            {
+              "id": "IWZFE9DB",
+              "name": "Gia Huy Singer",
+              "link": "/nghe-si/Gia-Huy-Singer",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/b/a/0/bba08bcfdb8155d3ad959744b2f8c313.jpg",
+          "link": "/bai-hat/Bat-Qua-Nhan-Gian-Gia-Huy-Singer/ZOWE68AO.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/b/a/0/bba08bcfdb8155d3ad959744b2f8c313.jpg",
+          "duration": 265,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1607511600,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOI9BZDF",
+          "title": "Lạnh Từ Trong Tim",
+          "alias": "Lanh-Tu-Trong-Tim-Quang-Vinh-Mr-Siro",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Quang Vinh, Mr Siro",
+          "artists": [
+            {
+              "id": "IWZ9Z0A6",
+              "name": "Quang Vinh",
+              "link": "/nghe-si/Tran-Quang-Vinh",
+              "spotlight": false
+            },
+            {
+              "id": "IWZ98609",
+              "name": "Mr Siro",
+              "link": "/nghe-si/mrsiro",
+              "spotlight": true
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/4/d/4/b4d4e4de72b76bb3435cfda17f8e8901.jpg",
+          "link": "/bai-hat/Lanh-Tu-Trong-Tim-Quang-Vinh-Mr-Siro/ZOI9BZDF.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/4/d/4/b4d4e4de72b76bb3435cfda17f8e8901.jpg",
+          "duration": 299,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1606741200,
+          "mvlink": "/video-clip/Lanh-Tu-Trong-Tim-Quang-Vinh-Mr-Siro/ZOI9BZDF.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZO0DIZ0O",
+          "title": "Em Là Châu Báu",
+          "alias": "Em-La-Chau-Bau-MCK-Tlinh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "MCK, Tlinh",
+          "artists": [
+            {
+              "id": "IW68Z8DI",
+              "name": "MCK",
+              "link": "/nghe-si/Nghiem-Vu-Hoang-Long",
+              "spotlight": false
+            },
+            {
+              "id": "IW68Z8DW",
+              "name": "Tlinh",
+              "link": "/nghe-si/Tlinh",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/0/5/d/e/05debcda2cc1bc2639c5f723433b645e.jpg",
+          "link": "/bai-hat/Em-La-Chau-Bau-MCK-Tlinh/ZO0DIZ0O.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/5/d/e/05debcda2cc1bc2639c5f723433b645e.jpg",
+          "duration": 172,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1606050000,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOWE9A67",
+          "title": "Hôm Nay Em Cưới Rồi (Lo-fi)",
+          "alias": "Hom-Nay-Em-Cuoi-Roi-Lo-fi-Khai-Dang-Freak-D",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Khải Đăng, Freak D",
+          "artists": [
+            {
+              "id": "IWZA76EE",
+              "name": "Khải Đăng",
+              "link": "/nghe-si/Khai-Dang",
+              "spotlight": false
+            },
+            {
+              "id": "IW67DFAE",
+              "name": "Freak D",
+              "link": "/nghe-si/Freak-D",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/c/1/3/7c131e10a6951056a11e8bac06913e80.jpg",
+          "link": "/bai-hat/Hom-Nay-Em-Cuoi-Roi-Lo-fi-Khai-Dang-Freak-D/ZOWE9A67.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/c/1/3/7c131e10a6951056a11e8bac06913e80.jpg",
+          "duration": 261,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1607510400,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZO6IIFUU",
+          "title": "Không Sao Đâu Em (Tâm Sắc Tấm OST)",
+          "alias": "Khong-Sao-Dau-Em-Tam-Sac-Tam-OST-Khai-Dang",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Khải Đăng",
+          "artists": [
+            {
+              "id": "IWZA76EE",
+              "name": "Khải Đăng",
+              "link": "/nghe-si/Khai-Dang",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/3/3/b/6/33b610177a6842a7a0a60dd997999c3a.jpg",
+          "link": "/bai-hat/Khong-Sao-Dau-Em-Tam-Sac-Tam-OST-Khai-Dang/ZO6IIFUU.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/3/b/6/33b610177a6842a7a0a60dd997999c3a.jpg",
+          "duration": 236,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1609851600,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        }
+      ],
+      "total": 100,
+      "totalDuration": 27478
+    },
+    "like": 1124927,
+    "listen": 0,
+    "liked": false
+  },
+  "timestamp": 1610953221556
+}
