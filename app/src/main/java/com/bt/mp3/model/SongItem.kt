@@ -1,6 +1,7 @@
 package com.bt.mp3.model
 
 import android.os.Parcelable
+import com.bt.base.extension.toDuration
 import com.bt.base.model.ItemMapper
 import com.bt.base.model.ModelItem
 import com.bt.mp3.entity.Song
@@ -15,10 +16,12 @@ data class SongItem(
     val alias: String? = null,
     val allowAudioAds: Boolean? = null,
     val artists: List<ArtistItem>? = null,
+    val artist: ArtistItem? = null,
     val artistsNames: String? = null,
     val comment: Int? = null,
     val composers: List<ComposerItem>? = null,
     val duration: Int? = null,
+    val durationStr: String? = null,
     val genres: List<GenreItem>? = null,
     val hasLyric: Boolean? = null,
     val isOfficial: Boolean? = null,
@@ -38,6 +41,8 @@ data class SongItem(
     val streamingStatus: Int? = null,
     val thumbnail: String? = null,
     val thumbnailM: String? = null,
+    val thumbnailR: String? = null,
+    val thumbnailHasText: String? = null,
     val title: String? = null,
     val userId: Int? = null,
     val username: String? = null,
@@ -74,10 +79,12 @@ open class SongItemMapper @Inject constructor(
         alias = model.alias,
         allowAudioAds = model.allowAudioAds,
         artists = model.artists?.map { artistItemMapper.mapToPresentation(it) },
+        artist = model.artist?.let { artistItemMapper.mapToPresentation(it) },
         artistsNames = model.artistsNames,
         comment = model.comment,
         composers = model.composers?.map { composerItemMapper.mapToPresentation(it) },
         duration = model.duration,
+        durationStr = model.duration?.toDuration(),
         genres = model.genres?.map { genreItemMapper.mapToPresentation(it) },
         hasLyric = model.hasLyric,
         isOfficial = model.isOfficial,
@@ -97,6 +104,8 @@ open class SongItemMapper @Inject constructor(
         streamingStatus = model.streamingStatus,
         thumbnail = model.thumbnail,
         thumbnailM = model.thumbnailM,
+        thumbnailR = model.thumbnailR,
+        thumbnailHasText = model.thumbnailHasText,
         title = model.title,
         userId = model.userId,
         username = model.username,
@@ -114,6 +123,7 @@ open class SongItemMapper @Inject constructor(
         alias = item.alias,
         allowAudioAds = item.allowAudioAds,
         artists = item.artists?.map { artistItemMapper.mapToDomain(it) },
+        artist = item.artist?.let { artistItemMapper.mapToDomain(it) },
         artistsNames = item.artistsNames,
         comment = item.comment,
         composers = item.composers?.map { composerItemMapper.mapToDomain(it) },
@@ -137,6 +147,8 @@ open class SongItemMapper @Inject constructor(
         streamingStatus = item.streamingStatus,
         thumbnail = item.thumbnail,
         thumbnailM = item.thumbnailM,
+        thumbnailR = item.thumbnailR,
+        thumbnailHasText = item.thumbnailHasText,
         title = item.title,
         userId = item.userId,
         username = item.username,

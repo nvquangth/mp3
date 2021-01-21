@@ -1,6 +1,7 @@
 package com.bt.mp3.data.di
 
 import com.bt.mp3.data.BuildConfig
+import com.bt.mp3.data.mock.network.HomeApiMock
 import com.bt.mp3.data.mock.network.PlaylistApiMock
 import com.bt.mp3.data.mock.network.SongApiMock
 import com.bt.mp3.data.network.HomeApi
@@ -42,5 +43,10 @@ object RemoteModule {
 
     @Singleton
     @Provides
-    fun provideHomeApi(retrofit: Retrofit): HomeApi = retrofit.create(HomeApi::class.java)
+    fun provideHomeApi(retrofit: Retrofit): HomeApi =
+        if (BuildConfig.DEBUG) {
+            HomeApiMock()
+        } else {
+            retrofit.create(HomeApi::class.java)
+        }
 }

@@ -89,14 +89,16 @@ abstract class BaseFragment<ViewBinding : ViewDataBinding, ViewModel : BaseViewM
     }
 
     fun showDialogLoading() {
-        MaterialAlertDialogBuilder(requireContext()).apply {
-            setView(R.layout.layout_loading)
-        }.create().apply {
-            setCancelable(false)
-            setCanceledOnTouchOutside(false)
-            loadingDialog = this
+        if (loadingDialog?.isShowing != true) {
+            MaterialAlertDialogBuilder(requireContext()).apply {
+                setView(R.layout.layout_loading)
+            }.create().apply {
+                setCancelable(false)
+                setCanceledOnTouchOutside(false)
+                loadingDialog = this
 
-            show()
+                show()
+            }
         }
     }
 

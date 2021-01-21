@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="item"
+            type="com.bt.mp3.model.SongItem" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="@dimen/dp_328"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imageThumbnail"
+            bindingImageRadius="@{8}"
+            bindingImageUrl="@{item.thumbnailM}"
+            android:layout_width="@dimen/dp_96"
+            android:layout_height="0dp"
+            android:scaleType="centerInside"
+            app:layout_constraintDimensionRatio="1:1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textTitle"
+            style="?attr/textAppearanceBody1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp_8"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="@{item.title}"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageThumbnail"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Chỉ Muốn Bên Em Lúc Này" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textArtist"
+            bindingArtistName="@{item}"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp_8"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageThumbnail"
+            app:layout_constraintTop_toBottomOf="@+id/textTitle"
+            tools:text="Huy Vạc, Jiki X" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textRanking"
+            style="?attr/textAppearanceHeadline4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp_8"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageThumbnail"
+            tools:text="#1" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

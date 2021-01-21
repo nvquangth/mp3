@@ -46,7 +46,7 @@ object Versions {
 
     // RecyclerView
     // https://developer.android.com/jetpack/androidx/releases/recyclerview
-    const val recyclerView = "1.1.0"
+    const val recyclerView = "1.2.0-beta01"
 
     // Room
     // https://developer.android.com/jetpack/androidx/releases/room

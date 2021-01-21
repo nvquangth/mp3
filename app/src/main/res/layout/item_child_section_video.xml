@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="item"
+            type="com.bt.mp3.model.SongItem" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="@dimen/dp_328"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imageThumbnail"
+            bindingImageRadius="@{8}"
+            bindingImageUrl="@{item.thumbnailM}"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:scaleType="centerInside"
+            app:layout_constraintDimensionRatio="16:9"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imageAvatar"
+            bindingImageUrl="@{item.artist.thumbnail}"
+            bindingImageCircle="@{true}"
+            android:layout_width="@dimen/dp_56"
+            android:layout_height="0dp"
+            android:layout_marginTop="@dimen/dp_8"
+            app:layout_constraintDimensionRatio="1:1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageThumbnail" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textTitle"
+            style="?attr/textAppearanceBody1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp_8"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="@{item.title}"
+            app:layout_constraintBottom_toTopOf="@+id/textArtist"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageAvatar"
+            app:layout_constraintTop_toTopOf="@+id/imageAvatar"
+            app:layout_constraintVertical_chainStyle="packed"
+            tools:text="Yêu Tồn Tại (Live Version)" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textArtist"
+            bindingArtistName="@{item}"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp_8"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textSize="@dimen/sp_12"
+            app:layout_constraintBottom_toBottomOf="@+id/imageAvatar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageAvatar"
+            app:layout_constraintTop_toBottomOf="@+id/textTitle"
+            tools:text="Quang Đăng Trần" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textDuration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/dp_4"
+            android:layout_marginBottom="@dimen/dp_4"
+            android:background="@drawable/bg_rect_onprimary_50_radius_4"
+            android:padding="@dimen/dp_4"
+            android:text="@{item.durationStr}"
+            android:textColor="?android:attr/colorBackground"
+            app:layout_constraintBottom_toBottomOf="@+id/imageThumbnail"
+            app:layout_constraintEnd_toEndOf="@+id/imageThumbnail"
+            tools:text="04:50" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,364 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "items": [
+      {
+        "sectionType": "banner",
+        "viewType": "slider",
+        "title": "",
+        "link": "",
+        "sectionId": "hSlider",
+        "items": [
+          {
+            "encodeId": "ZOB6OA87",
+            "title": "",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/5/0/5/6/505630d568ae9636ce0f926c043342e4.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Tre-Huyen-Thoai-Mot-Thoi-Various-Artists/ZOB6OA87.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 309,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/5/0/5/6/505630d568ae9636ce0f926c043342e4.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false,
+            "banner": "https://photo-zmp3.zadn.vn/banner/0/3/8/d/038db4f2fa2ceb0658a9553340728476.jpg",
+            "cover": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/0/5/6/505630d568ae9636ce0f926c043342e4.jpg",
+            "target": "1",
+            "description": "",
+            "ispr": 0
+          },
+          {
+            "encodeId": "ZO6F9ACO",
+            "title": "",
+            "alias": "Tinh-La-Gi-Day-Em-Oi-K-ICM",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "K-ICM",
+            "artists": [
+              {
+                "id": "IWZFFOWB",
+                "name": "K-ICM",
+                "link": "/nghe-si/K-ICM",
+                "spotlight": false
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/1/f/f/2/1ff2f2ceac575b13d5bc3f8d14e2263d.jpg",
+            "link": "/bai-hat/Tinh-La-Gi-Day-Em-Oi-K-ICM/ZO6F9ACO.html",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/1/f/f/2/1ff2f2ceac575b13d5bc3f8d14e2263d.jpg",
+            "duration": 251,
+            "isZMA": false,
+            "zingChoise": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1610715600,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true,
+            "banner": "https://photo-zmp3.zadn.vn/banner/4/8/c/9/48c963dd56bbba2c08dcf275667ea186.jpg",
+            "cover": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/1/f/f/2/1ff2f2ceac575b13d5bc3f8d14e2263d.jpg",
+            "target": "1",
+            "description": "",
+            "ispr": 0
+          },
+          {
+            "encodeId": "ZO6COICI",
+            "title": "",
+            "alias": "Su-Xuat-Hien-Cua-Em-La-Gi-Anh-Khang",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Anh Khang",
+            "artists": [
+              {
+                "id": "IWZ9ZBO7",
+                "name": "Anh Khang",
+                "link": "/nghe-si/Anh-Khang",
+                "spotlight": false
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/9/0/b/690bb63539fcd924fe9cee770894788f.jpg",
+            "link": "/bai-hat/Su-Xuat-Hien-Cua-Em-La-Gi-Anh-Khang/ZO6COICI.html",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/9/0/b/690bb63539fcd924fe9cee770894788f.jpg",
+            "duration": 314,
+            "isZMA": false,
+            "zingChoise": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1610712000,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true,
+            "banner": "https://photo-zmp3.zadn.vn/banner/6/3/9/2/6392c0600af66cbf6b9af721d94257ad.jpg",
+            "cover": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/3/f/9/2/3f926ca21ff1f93100c822794203f8ad.jpg",
+            "target": "1",
+            "description": "",
+            "ispr": 0
+          },
+          {
+            "encodeId": "ZO7WE9FB",
+            "title": "",
+            "alias": "Tinh-Dau-Chi-Thien-Kun",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Chí Thiện, Kun",
+            "artists": [
+              {
+                "id": "IWZ9ZBUB",
+                "name": "Chí Thiện",
+                "link": "/nghe-si/Chi-Thien",
+                "spotlight": false
+              },
+              {
+                "id": "IW68D8C7",
+                "name": "Kun",
+                "link": "/nghe-si/Kun",
+                "spotlight": false
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/0/b/4/1/0b410b3ac1325660a27eefd8214d14f6.jpg",
+            "link": "/bai-hat/Tinh-Dau-Chi-Thien-Kun/ZO7WE9FB.html",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/b/4/1/0b410b3ac1325660a27eefd8214d14f6.jpg",
+            "duration": 259,
+            "isZMA": false,
+            "zingChoise": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1610881200,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true,
+            "banner": "https://photo-zmp3.zadn.vn/banner/5/5/5/3/5553dc15cb1273e3d8a55b16d66c2d24.jpg",
+            "cover": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/f/4/c/7/f4c7efd191fc39793768ae957c842275.jpg",
+            "target": "1",
+            "description": "",
+            "ispr": 0
+          },
+          {
+            "encodeId": "67I8EOB8",
+            "title": "",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/3/0/1/f/301f5fb6966a97f4fa8ff3508ba0cb96.jpg",
+            "isoffical": true,
+            "link": "/album/Xuan-Ha-Thu-Dong-roi-lai-Xuan-Tap-1-2-Hua-Kim-Tuyen-Hoa-Minzy-Anh-Tu-XHTDRLX/67I8EOB8.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZCOZ0I",
+                "name": "Hứa Kim Tuyền",
+                "link": "/nghe-si/Hua-Kim-Tuyen",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/nghe-si/Hoa-Minzy",
+                "spotlight": true
+              },
+              {
+                "id": "IWZFDF86",
+                "name": "Anh Tú",
+                "link": "/nghe-si/Nguyen-Anh-Tu",
+                "spotlight": false
+              },
+              {
+                "id": "IW68C8UD",
+                "name": "XHTĐRLX",
+                "link": "/nghe-si/XHTDRLX",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 456,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/3/0/1/f/301f5fb6966a97f4fa8ff3508ba0cb96.jpg",
+            "isShuffle": false,
+            "userName": "Zing MP3",
+            "isAlbum": true,
+            "textType": "Album",
+            "isSingle": false,
+            "banner": "https://photo-zmp3.zadn.vn/banner/3/b/8/9/3b89f88cd6949aba344917a2ddc4d9c5.jpg",
+            "cover": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/5/0/9/6/5096f8363d9f31cfa4b31f9b2b088161.jpg",
+            "target": "1",
+            "description": "",
+            "ispr": 0
+          }
+        ]
+      },
+      {
+        "sectionType": "adBanner",
+        "adId": "zmp3_Top",
+        "pageType": "home"
+      },
+      {
+        "sectionType": "promoteSlider",
+        "title": "Chúc Mừng Quán Quân ZMA 2020",
+        "items": [
+          {
+            "banner": "https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/zma-2020/best-singer.png",
+            "link": "https://awards.zingmp3.vn",
+            "target": "_blank"
+          },
+          {
+            "banner": "https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/zma-2020/new-singer.png",
+            "link": "https://awards.zingmp3.vn",
+            "target": "_blank"
+          },
+          {
+            "banner": "https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/zma-2020/male.png",
+            "link": "https://awards.zingmp3.vn",
+            "target": "_blank"
+          },
+          {
+            "banner": "https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/zma-2020/female.png",
+            "link": "https://awards.zingmp3.vn",
+            "target": "_blank"
+          },
+          {
+            "banner": "https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/zma-2020/pop-ballad.png",
+            "link": "https://awards.zingmp3.vn",
+            "target": "_blank"
+          },
+          {
+            "banner": "https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/zma-2020/rap.png",
+            "link": "https://awards.zingmp3.vn",
+            "target": "_blank"
+          },
+          {
+            "banner": "https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/zma-2020/rnb.png",
+            "link": "https://awards.zingmp3.vn",
+            "target": "_blank"
+          },
+          {
+            "banner": "https://zmp3-static.zadn.vn/skins/zmp3-v6.1/images/zma-2020/dance.png",
+            "link": "https://awards.zingmp3.vn",
+            "target": "_blank"
+          }
+        ]
+      },
+      {
+        "sectionType": "playlist",
+        "viewType": "slider",
+        "title": "Gợi Ý Cho Hôm Nay",
+        "link": "",
+        "sectionId": "hRadio",
+        "items": [
+          {
+            "encodeId": "ZWZB969E",
+            "title": "Top 100 Bài Hát Nhạc Trẻ Hay Nhất",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/2/b/6/f/2b6fbb21ac9d4a37e4bd90809a2cd507.jpg",
+            "isoffical": true,
+            "link": "/album/Top-100-Bai-Hat-Nhac-Tre-Hay-Nhat-Various-Artists/ZWZB969E.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 24,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/2/b/6/f/2b6fbb21ac9d4a37e4bd90809a2cd507.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZWZB96AB",
+            "title": "Top 100 Pop Âu Mỹ Hay Nhất",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/d/b/c/b/dbcb684ed2319a6333917085312999c9.jpg",
+            "isoffical": true,
+            "link": "/album/Top-100-Pop-Au-My-Hay-Nhat-Various-Artists/ZWZB96AB.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 24,
+            "uid": 88,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/d/b/c/b/dbcb684ed2319a6333917085312999c9.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZWZB969F",
+            "title": "Top 100 Nhạc Trữ Tình Hay Nhất",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/1/5/2/5/1525280a10e7fb3e616962761f8900a6.jpg",
+            "isoffical": true,
+            "link": "/album/Top-100-Nhac-Tru-Tinh-Hay-Nhat-Various-Artists/ZWZB969F.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 24,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/1/5/2/5/1525280a10e7fb3e616962761f8900a6.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false,
+            "zoneid": "1258648553236426378",
+            "type": "nativeAd"
+          },
+          {
+            "encodeId": "ZWZB96C7",
+            "title": "Top 100 Nhạc Electronic/Dance Âu Mỹ Hay Nhất",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/c/5/f/c/c5fc615c43215c6b72676f42767855ee.jpg",
+            "isoffical": true,
+            "link": "/album/Top-100-Nhac-Electronic-Dance-Au-My-Hay-Nhat-Various-Artists/ZWZB96C7.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 24,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/5/f/c/c5fc615c43215c6b72676f42767855ee.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZWZB96AI",
+            "title": "Top 100 Nhạc Rap Việt Nam Hay Nhất",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/f/5/d/4/f5d481d849c26f13b9f1b489b493c1ec.jpg",
+            "isoffical": true,
+            "link": "/album/Top-100-Nhac-Rap-Viet-Nam-Hay-Nhat-Various-Artists/ZWZB96AI.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 24,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/f/5/d/4/f5d481d849c26f13b9f1b489b493c1ec.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZWZB96DC",
+            "title": "Top 100 Nhạc Hàn Quốc Hay Nhất",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/9/2/a/e/92aedc04f6c9f0af7ed30739ab30510a.jpg",
+            "isoffical": true,
+            "link": "/album/Top-100-Nhac-Han-Quoc-Hay-Nhat-Various-Artists/ZWZB96DC.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 24,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/9/2/a/e/92aedc04f6c9f0af7ed30739ab30510a.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          }
+        ],
+        "isShuffle": true
+      }
+    ],
+    "hasMore": true,
+    "total": 21
+  },
+  "timestamp": 1611047225333
+}

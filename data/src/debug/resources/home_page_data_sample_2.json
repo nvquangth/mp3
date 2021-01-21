@@ -1,0 +1,2785 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "items": [
+      {
+        "sectionType": "playlist",
+        "viewType": "slider",
+        "title": "Radio Nổi Bật",
+        "link": "",
+        "sectionId": "hRadio",
+        "items": [
+          {
+            "encodeId": "67W8EEFZ",
+            "title": "Radio Chỉ Muốn Bên Em Lúc Này",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s2/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzfm8X0LWGKtpw9t5q1K168ETYA3rLH5OneZzbV0W9FYshTX0a101dTTe772Wr6IzOzmuuv1qrE_JlKmdT0N0EnVCM2P0eQ0x1yae9b4HrFi7YIrM54I4woAvlOPq0J4kzxoOLi5XiRxdp8XN1FKqpYEfgEEmqQV_azbhazHaSrxd3Q_Ym60N_wSDt-UWO6DlrltQWf1LLYe6lShdO3L6NpRTcg9mTNOA8_sFSh1HqpwplKiNaMMcUzROlhJbo1_dSb9oKcnrtbjjnruMYbsoBuiFCsAybMMplfdzcfn0q7VB_Scx4&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Chi-Muon-Ben-Em-Luc-Nay-Various-Artists/67W8EEFZ.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6W86EF",
+                "name": "Huy Vạc",
+                "link": "/nghe-si/Huy-Vac",
+                "spotlight": false
+              },
+              {
+                "id": "IW67CZZ6",
+                "name": "JiKi X",
+                "link": "/nghe-si/JiKi-X",
+                "spotlight": false
+              },
+              {
+                "id": "IWZFFOWB",
+                "name": "K-ICM",
+                "link": "/nghe-si/K-ICM",
+                "spotlight": false
+              },
+              {
+                "id": "IW68CC96",
+                "name": "Dương Hùng Sơn",
+                "link": "/nghe-si/Duong-Hung-Son",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s2/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzfm8X0LWGKtpw9t5q1K168ETYA3rLH5OneZzbV0W9FYshTX0a101dTTe772Wr6IzOzmuuv1qrE_JlKmdT0N0EnVCM2P0eQ0x1yae9b4HrFi7YIrM54I4woAvlOPq0J4kzxoOLi5XiRxdp8XN1FKqpYEfgEEmqQV_azbhazHaSrxd3Q_Ym60N_wSDt-UWO6DlrltQWf1LLYe6lShdO3L6NpRTcg9mTNOA8_sFSh1HqpwplKiNaMMcUzROlhJbo1_dSb9oKcnrtbjjnruMYbsoBuiFCsAybMMplfdzcfn0q7VB_Scx4&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "670U97A9",
+            "title": "Radio Đom Đóm",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDyxmDv0LWH7tspVtLXM01RQDe_Q3mi5HuisYuXO3GKKZ6oAs5u2K1ADTT7CMWuMG8O-auLf11r5hJY4oIT330ZXVvM9DmaR2Bv_o8beGneVxo_8XMuI6XEuAPFUQaWP5Rvooe8u6q9FwY6GrNGI2npcPyBUFr12B_rWpkav6nzbwYs2hYXR3I_zBT-kV5jGPVKptV8cKbHihcwEf7m31pdvFzxrVr9GQgmvtg0jLHjaxMlIvdz6N32xFOsyp_G9VrzfSX9SNRkGpd0fJXiB-DBM&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Dom-Dom-Various-Artists/670U97A9.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WCI7U",
+                "name": "Jack",
+                "link": "/nghe-si/Trinh-Tran-Phuong-Tuan",
+                "spotlight": false
+              },
+              {
+                "id": "IW6ZBOW8",
+                "name": "DatKaa",
+                "link": "/nghe-si/DatKaa",
+                "spotlight": false
+              },
+              {
+                "id": "IW6ZZ0OU",
+                "name": "H2K",
+                "link": "/nghe-si/H2K",
+                "spotlight": false
+              },
+              {
+                "id": "IW6ZZ0OZ",
+                "name": "TRUNKY",
+                "link": "/nghe-si/TRUNKY",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDyxmDv0LWH7tspVtLXM01RQDe_Q3mi5HuisYuXO3GKKZ6oAs5u2K1ADTT7CMWuMG8O-auLf11r5hJY4oIT330ZXVvM9DmaR2Bv_o8beGneVxo_8XMuI6XEuAPFUQaWP5Rvooe8u6q9FwY6GrNGI2npcPyBUFr12B_rWpkav6nzbwYs2hYXR3I_zBT-kV5jGPVKptV8cKbHihcwEf7m31pdvFzxrVr9GQgmvtg0jLHjaxMlIvdz6N32xFOsyp_G9VrzfSX9SNRkGpd0fJXiB-DBM&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "67I6D8E8",
+            "title": "Radio Không Muốn Yêu Lại Càng Say Đắm",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDyvmDf0KmGHtslRZ0e0LXUFEeYF1be058Dcs8u43m12Z3A8sbqA1qUEVOQPMGP15OKsnD1g34eGhZ3Jd2HBMrtYTyBSPm4SNUDtnTnc6nf0u7J3t6186X7d8926DXeQ4ECXbTXX7Xr2jNwJtYjD21UvEC7LO0z19A8_pU9cH1nkjNA1fNS432IXSjEbS0HURVGyrlHoN0XefsVK_tKAMZNsOzNwSWfQCFLXXlznN4CxiMAAkIDF16_dDDNZ70Nz-S8xDXe7WsObsVhKICFM7wgIDLLj0YzzOzmHjfuDCNtqBOaizV3owtaqqd2ofZeoVG&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Khong-Muon-Yeu-Lai-Cang-Say-Dam-Various-Artists/67I6D8E8.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ98609",
+                "name": "Mr Siro",
+                "link": "/nghe-si/Mr-Siro",
+                "spotlight": true
+              },
+              {
+                "id": "IWZAOADF",
+                "name": "Phạm Đình Thái Ngân",
+                "link": "/nghe-si/Pham-Dinh-Thai-Ngan",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ9ZFA7",
+                "name": "Minh Vương M4U",
+                "link": "/nghe-si/Minh-Vuong-M4U",
+                "spotlight": false
+              },
+              {
+                "id": "IWZFEZIC",
+                "name": "Thương Võ",
+                "link": "/nghe-si/Thuong-Vo",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDyvmDf0KmGHtslRZ0e0LXUFEeYF1be058Dcs8u43m12Z3A8sbqA1qUEVOQPMGP15OKsnD1g34eGhZ3Jd2HBMrtYTyBSPm4SNUDtnTnc6nf0u7J3t6186X7d8926DXeQ4ECXbTXX7Xr2jNwJtYjD21UvEC7LO0z19A8_pU9cH1nkjNA1fNS432IXSjEbS0HURVGyrlHoN0XefsVK_tKAMZNsOzNwSWfQCFLXXlznN4CxiMAAkIDF16_dDDNZ70Nz-S8xDXe7WsObsVhKICFM7wgIDLLj0YzzOzmHjfuDCNtqBOaizV3owtaqqd2ofZeoVG&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "67WUDIED",
+            "title": "Radio Anh Luôn Là Lý Do",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDy-m8X0KmH7tso9tGvMLKM7EeoELLHUGj5eqTzHLLj5qMZKt5C6NaQ7ST-OK0eO58mwdT5Z01CHfpoAdIr70bphUvlTQ0qKNBvxcjqzHXSMkYkPW6uHGndkUf_LRnGHIkb_pD1e4X9CwtlDstL8LXBdFP_GFWeV8Vmwa-SuGK9hwtVVe2a11o6gTuwWB05MFVvkZAD_051i-M6Fy2WF1MxvODwaBG0CFQHWtl0dM1iqvsRIjdLBN62nC8tiG0SEOhmh9dXYKe4LSYicU7zIYRdj9q1Z90xExwuoVG&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Anh-Luon-La-Ly-Do-Various-Artists/67WUDIED.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZA6CIZ",
+                "name": "ERIK",
+                "link": "/nghe-si/ERIK",
+                "spotlight": true
+              },
+              {
+                "id": "IWZ9ZFA7",
+                "name": "Minh Vương M4U",
+                "link": "/nghe-si/Minh-Vuong-M4U",
+                "spotlight": false
+              },
+              {
+                "id": "IWZFEZIC",
+                "name": "Thương Võ",
+                "link": "/nghe-si/Thuong-Vo",
+                "spotlight": false
+              },
+              {
+                "id": "IW6ZAAB8",
+                "name": "ACV",
+                "link": "/nghe-si/ACV",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDy-m8X0KmH7tso9tGvMLKM7EeoELLHUGj5eqTzHLLj5qMZKt5C6NaQ7ST-OK0eO58mwdT5Z01CHfpoAdIr70bphUvlTQ0qKNBvxcjqzHXSMkYkPW6uHGndkUf_LRnGHIkb_pD1e4X9CwtlDstL8LXBdFP_GFWeV8Vmwa-SuGK9hwtVVe2a11o6gTuwWB05MFVvkZAD_051i-M6Fy2WF1MxvODwaBG0CFQHWtl0dM1iqvsRIjdLBN62nC8tiG0SEOhmh9dXYKe4LSYicU7zIYRdj9q1Z90xExwuoVG&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "6Z87F988",
+            "title": "Radio Chiều Thu Họa Bóng Nàng",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDy-m8n0LWH3tscDt0u0NnU6FDACKmOF4zixquHJ05fFWJg7rr1JNntO9Dx33ryPJzDld8eyLH9A-6cBnd8I0mUqBfg6PrX11-CkdOOmHq8VuohCWseNHKY-BvtIQXCN7xWlpjKm4aSPjth8r2b9KnsxF9hVOWiQBg0xbkXaG4TajtRQhtK0L2xtTeYl9G06Cw8xtFvtLb5XypZU-287KMwZF8_o95nSQgGpWF0bMKKqvMUCjdTA0c2pCTFiG01HeqlOposlwL6ZLr41W8OegEs57oHZUuLlewp-g2zetZFa-ZeoVG&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Chieu-Thu-Hoa-Bong-Nang-Various-Artists/6Z87F988.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6ZBOW8",
+                "name": "DatKaa",
+                "link": "/nghe-si/DatKaa",
+                "spotlight": false
+              },
+              {
+                "id": "IW67DF6B",
+                "name": "NB3 Hoài Bảo",
+                "link": "/nghe-si/NB3-Hoai-Bao",
+                "spotlight": false
+              },
+              {
+                "id": "IW67DFAE",
+                "name": "Freak D",
+                "link": "/nghe-si/Freak-D",
+                "spotlight": false
+              },
+              {
+                "id": "IW67DCOZ",
+                "name": "Văn Võ Ngọc Nhân",
+                "link": "/nghe-si/Van-Vo-Ngoc-Nhan",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDy-m8n0LWH3tscDt0u0NnU6FDACKmOF4zixquHJ05fFWJg7rr1JNntO9Dx33ryPJzDld8eyLH9A-6cBnd8I0mUqBfg6PrX11-CkdOOmHq8VuohCWseNHKY-BvtIQXCN7xWlpjKm4aSPjth8r2b9KnsxF9hVOWiQBg0xbkXaG4TajtRQhtK0L2xtTeYl9G06Cw8xtFvtLb5XypZU-287KMwZF8_o95nSQgGpWF0bMKKqvMUCjdTA0c2pCTFiG01HeqlOposlwL6ZLr41W8OegEs57oHZUuLlewp-g2zetZFa-ZeoVG&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "6Z6UAU6O",
+            "title": "Radio Gặp Nhưng Không Ở Lại",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s2/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzlm8z0L0GItpgEtbnJ1XFSRjY4LGPGIuPkYz461bTCZckFrWfGLXpP9zV23bmGJj9ibOizLXjB-Mg2ntCH2WQrBPE7OriP1kSja8Sn5KzBjNwTWs56HaxbUvw4PnD56h5ycjLb5X9Cj7d8r2fAKnsuFvhVOGWQBgCubkXdGqTaj7NQhtO3L2xsTTolTGDICQPfZQul1L1Xhs-3goa02ZAkQzQfV00DDlfXXAbx2a5jkpI8xoaP1ZdjOjUr6jg6hDgZ8sgiIgQZF5WbpZXlgK1fZTpEbJMDmKnEIas8Rj666ZeoVG&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Gap-Nhung-Khong-O-Lai-Various-Artists/6Z6UAU6O.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZFDDF6",
+                "name": "Hiền Hồ",
+                "link": "/nghe-si/Hien-Ho",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ9FE6A",
+                "name": "Vương Anh Tú",
+                "link": "/nghe-si/Vuong-Anh-Tu",
+                "spotlight": false
+              },
+              {
+                "id": "IW6ZO9UB",
+                "name": "Hương Ly",
+                "link": "/nghe-si/Nguyen-Huong-Ly",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ9ZUU6",
+                "name": "Noo Phước Thịnh",
+                "link": "/nghe-si/Noo-Phuoc-Thinh",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s2/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzlm8z0L0GItpgEtbnJ1XFSRjY4LGPGIuPkYz461bTCZckFrWfGLXpP9zV23bmGJj9ibOizLXjB-Mg2ntCH2WQrBPE7OriP1kSja8Sn5KzBjNwTWs56HaxbUvw4PnD56h5ycjLb5X9Cj7d8r2fAKnsuFvhVOGWQBgCubkXdGqTaj7NQhtO3L2xsTTolTGDICQPfZQul1L1Xhs-3goa02ZAkQzQfV00DDlfXXAbx2a5jkpI8xoaP1ZdjOjUr6jg6hDgZ8sgiIgQZF5WbpZXlgK1fZTpEbJMDmKnEIas8Rj666ZeoVG&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "6Z6UAUA7",
+            "title": "Radio Chẳng Thể Tìm Được Em",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzkmDT0KGHFtpxMXrbL34pQRTBKNm5OJOnXYzSA3bGSWcwCqrG0Lno6TzR2KGmHJeqyb8jY1XfBfZg3non12mRgVPA7R0iO1hvzouSuHK8Hx7dCscyP4aVgUSkDEHb15-ecoTjYJa0Ji2R9XIuLKaoyO9kEPLSRVwTdbxbZ74Ori2hR_d9SLd_qAeZ-SLm5PlGmtQrn3G0n-MNSgNfT1ZVvFDIkBGTQPlnkXFXq3q4yj368lYOS1cZYPzVa4LRTy19XKNxsK5jhnIda1jaTBspvWdGZydZyhGTCDI-LOQVnG1fsROq&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Chang-The-Tim-Duoc-Em-Various-Artists/6Z6UAUA7.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6896B7",
+                "name": "PhucXP",
+                "link": "/nghe-si/PhucXP",
+                "spotlight": false
+              },
+              {
+                "id": "IW67DFAE",
+                "name": "Freak D",
+                "link": "/nghe-si/Freak-D",
+                "spotlight": false
+              },
+              {
+                "id": "IW6ZBOWU",
+                "name": "Lil Zpoet",
+                "link": "/nghe-si/Lil-Zpoet",
+                "spotlight": false
+              },
+              {
+                "id": "IW6ZZIO9",
+                "name": "Phạm Nguyên Ngọc",
+                "link": "/nghe-si/Pham-Nguyen-Ngoc",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzkmDT0KGHFtpxMXrbL34pQRTBKNm5OJOnXYzSA3bGSWcwCqrG0Lno6TzR2KGmHJeqyb8jY1XfBfZg3non12mRgVPA7R0iO1hvzouSuHK8Hx7dCscyP4aVgUSkDEHb15-ecoTjYJa0Ji2R9XIuLKaoyO9kEPLSRVwTdbxbZ74Ori2hR_d9SLd_qAeZ-SLm5PlGmtQrn3G0n-MNSgNfT1ZVvFDIkBGTQPlnkXFXq3q4yj368lYOS1cZYPzVa4LRTy19XKNxsK5jhnIda1jaTBspvWdGZydZyhGTCDI-LOQVnG1fsROq&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "67WWA08C",
+            "title": "Radio Hẹn Yêu",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s2/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzhmDv000GHtshVZGu21qAFROhONLS5GTGstzvILWH3WMdOY5G1113STeNE2mr2GjSznuSu1qb7_3lGotP0M0gmVC6BPWfC2k9yneiqGnb4vot4qs96IX_b9iE5C1iR6-GZn8Km7XWPjoR7qoaLN1gxO9NOObSLAQ1dcUza74XZjohLg7LS3IdsAeIeS5nSDQ8pXgiZNLfafJo5-7HI3sQbFTIiSLq6DVWzrFXx1H4ykplOlYaMLcZjROVa5TNMyykiP9xHWAqSGwq_mfRMxbvR&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Hen-Yeu-Various-Artists/67WWA08C.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZFA7",
+                "name": "Minh Vương M4U",
+                "link": "/nghe-si/Minh-Vuong-M4U",
+                "spotlight": false
+              },
+              {
+                "id": "IWZFEZIC",
+                "name": "Thương Võ",
+                "link": "/nghe-si/Thuong-Vo",
+                "spotlight": false
+              },
+              {
+                "id": "IW6ZAAB8",
+                "name": "ACV",
+                "link": "/nghe-si/ACV",
+                "spotlight": false
+              },
+              {
+                "id": "IWZAW9DE",
+                "name": "Đinh Đại Vũ",
+                "link": "/nghe-si/Dinh-Dai-Vu",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s2/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzhmDv000GHtshVZGu21qAFROhONLS5GTGstzvILWH3WMdOY5G1113STeNE2mr2GjSznuSu1qb7_3lGotP0M0gmVC6BPWfC2k9yneiqGnb4vot4qs96IX_b9iE5C1iR6-GZn8Km7XWPjoR7qoaLN1gxO9NOObSLAQ1dcUza74XZjohLg7LS3IdsAeIeS5nSDQ8pXgiZNLfafJo5-7HI3sQbFTIiSLq6DVWzrFXx1H4ykplOlYaMLcZjROVa5TNMyykiP9xHWAqSGwq_mfRMxbvR&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "67W8EF7W",
+            "title": "Radio 72 Phép Thần Thông",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzjm8n03GGKts6DWraA0ncCPeo13Ga65zvesujT0GOIsMtOZbvI2XQ89Ol8NrvCH8DkoO5iL4T1g6ZUpI8JLWpaBy-DOraN3BKlpOqoHK0Iu7cQtcaJGnRiAvcDQaTAHUD_bubZ4XeNvYwLt7WT3XNgQCVNCrz79l5lo-0r51fivYA7foHKNoRm8eIdU5HSRVWrrlHxNrnYysE7_dKCMZBsOjF-Sm8CPgPgrFzmLn4xi6dOkI94Lc_cFuVZOLHC7RdE3iCfmusC8pq80iSC81WPCkcQYnzxH5vagjYJ&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-72-Phep-Than-Thong-Various-Artists/67W8EF7W.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZBBF",
+                "name": "Ngô Kiến Huy",
+                "link": "/nghe-si/Ngo-Kien-Huy",
+                "spotlight": false
+              },
+              {
+                "id": "IW6UF08A",
+                "name": "Yuno Bigboi",
+                "link": "/nghe-si/Yuno-Bigboi",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ96F6O",
+                "name": "Karik",
+                "link": "/nghe-si/Karik",
+                "spotlight": true
+              },
+              {
+                "id": "IWZFEEU7",
+                "name": "Đạt G",
+                "link": "/nghe-si/Dat-G",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzjm8n03GGKts6DWraA0ncCPeo13Ga65zvesujT0GOIsMtOZbvI2XQ89Ol8NrvCH8DkoO5iL4T1g6ZUpI8JLWpaBy-DOraN3BKlpOqoHK0Iu7cQtcaJGnRiAvcDQaTAHUD_bubZ4XeNvYwLt7WT3XNgQCVNCrz79l5lo-0r51fivYA7foHKNoRm8eIdU5HSRVWrrlHxNrnYysE7_dKCMZBsOjF-Sm8CPgPgrFzmLn4xi6dOkI94Lc_cFuVZOLHC7RdE3iCfmusC8pq80iSC81WPCkcQYnzxH5vagjYJ&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "6ZZ9ZAU8",
+            "title": "Radio Anh Từng Cố Gắng",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDywmDn0MWGGts7TXmrUKqpOCuk0K0zM6uDbYu1H30CNqJ2AZ5SD1qU4UeQPKm515OynnD1W2qeGf3VJd2vCMrteSCBSRmOUNUvmpDnf7XPBx7NBrsmS5qcv8PxNCK11JRCjcTDXGa8Oi2sHXouU2awyQyECPLn3VQTipxjZ5nuti263_79N3Ntm8T7y8bTVOALiXQrm0GWoz6-7goLG23saQzQX8mi5EQDasQCY3XnduZ3LvN0TMpEqPeg_HL49CQ7fMJH_rvBPBZNeLzcDkLO7it3KbPxY2a3bCvQD&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Anh-Tung-Co-Gang-Various-Artists/6ZZ9ZAU8.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6W7AZD",
+                "name": "Nhật Phong",
+                "link": "/nghe-si/Nhat-Phong",
+                "spotlight": false
+              },
+              {
+                "id": "IW6ZZAC7",
+                "name": "Rô Ti",
+                "link": "/nghe-si/Roti",
+                "spotlight": false
+              },
+              {
+                "id": "IW67DCOZ",
+                "name": "Văn Võ Ngọc Nhân",
+                "link": "/nghe-si/Van-Vo-Ngoc-Nhan",
+                "spotlight": false
+              },
+              {
+                "id": "IWZA76EE",
+                "name": "Khải Đăng",
+                "link": "/nghe-si/Khai-Dang",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDywmDn0MWGGts7TXmrUKqpOCuk0K0zM6uDbYu1H30CNqJ2AZ5SD1qU4UeQPKm515OynnD1W2qeGf3VJd2vCMrteSCBSRmOUNUvmpDnf7XPBx7NBrsmS5qcv8PxNCK11JRCjcTDXGa8Oi2sHXouU2awyQyECPLn3VQTipxjZ5nuti263_79N3Ntm8T7y8bTVOALiXQrm0GWoz6-7goLG23saQzQX8mi5EQDasQCY3XnduZ3LvN0TMpEqPeg_HL49CQ7fMJH_rvBPBZNeLzcDkLO7it3KbPxY2a3bCvQD&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "67WUCFD8",
+            "title": "Radio Đêm Nay Không Ngủ",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzgmDP000HEtslNqraB1HZQDz_G3bvG6DnatuLONW0PYsFPX0DOLXZHBzV61bGGIjfabOyrNXjFyMA2mtiP2WAz9PE3E5CQ0h4bnuCq7XKRjYBAq3CV5q-r9yI2FKWT7xqdmOKuInWSxYl5r70ONXtYRPVVEreNBlbgc-Wz4KfaxYVNhonH2owl9uQlBb5QClWvq_bv0W5a-ptVgtfH0Z3oRj3_T5KBPQ8yrQvs011gjZxPw2GJLpxWQ8QobA6kjadO2tc0eQk_yqmkTcDReZbefMkx-eZvPI_pAFdY&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Dem-Nay-Khong-Ngu-Various-Artists/67WUCFD8.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ96F6O",
+                "name": "Karik",
+                "link": "/nghe-si/Karik",
+                "spotlight": true
+              },
+              {
+                "id": "IWZ98WDB",
+                "name": "Wowy",
+                "link": "/nghe-si/Wowy",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ9ZBBF",
+                "name": "Ngô Kiến Huy",
+                "link": "/nghe-si/Ngo-Kien-Huy",
+                "spotlight": false
+              },
+              {
+                "id": "IW6UF08A",
+                "name": "Yuno Bigboi",
+                "link": "/nghe-si/Yuno-Bigboi",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzgmDP000HEtslNqraB1HZQDz_G3bvG6DnatuLONW0PYsFPX0DOLXZHBzV61bGGIjfabOyrNXjFyMA2mtiP2WAz9PE3E5CQ0h4bnuCq7XKRjYBAq3CV5q-r9yI2FKWT7xqdmOKuInWSxYl5r70ONXtYRPVVEreNBlbgc-Wz4KfaxYVNhonH2owl9uQlBb5QClWvq_bv0W5a-ptVgtfH0Z3oRj3_T5KBPQ8yrQvs011gjZxPw2GJLpxWQ8QobA6kjadO2tc0eQk_yqmkTcDReZbefMkx-eZvPI_pAFdY&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "67IAW0U8",
+            "title": "Radio Tay Nắm Tay Rời",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s2/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzjmDj000H7tspQtLq31q7VQedT30HJ4eKyszqD058NsslVsbzM3H7T8OpF2bfBGzPgpeOvK416_MpPodSNKGknAyYAO5qN2-ChcOeoHa51i7cVscCLGatgBvpMFqL3Jxylojbh5HSMkYZFsoGRL1AsRftGRraT8QrfaUTf4a1hkYJTe7XI1I7x98oWVL9KFQyzZgCkKr9ig3ADy7bS1sweCzoaV5CEFVKptF1s2naqjZNGjYGONc3WOu_i15iTOlhZJ6CdclEixkDAu-Kdo6zvN5UukM2UB3jz&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Tay-Nam-Tay-Roi-Various-Artists/67IAW0U8.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZAOADF",
+                "name": "Phạm Đình Thái Ngân",
+                "link": "/nghe-si/Pham-Dinh-Thai-Ngan",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ98609",
+                "name": "Mr Siro",
+                "link": "/nghe-si/Mr-Siro",
+                "spotlight": true
+              },
+              {
+                "id": "IWZA76EE",
+                "name": "Khải Đăng",
+                "link": "/nghe-si/Khai-Dang",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ9ZFA7",
+                "name": "Minh Vương M4U",
+                "link": "/nghe-si/Minh-Vuong-M4U",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s2/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzjmDj000H7tspQtLq31q7VQedT30HJ4eKyszqD058NsslVsbzM3H7T8OpF2bfBGzPgpeOvK416_MpPodSNKGknAyYAO5qN2-ChcOeoHa51i7cVscCLGatgBvpMFqL3Jxylojbh5HSMkYZFsoGRL1AsRftGRraT8QrfaUTf4a1hkYJTe7XI1I7x98oWVL9KFQyzZgCkKr9ig3ADy7bS1sweCzoaV5CEFVKptF1s2naqjZNGjYGONc3WOu_i15iTOlhZJ6CdclEixkDAu-Kdo6zvN5UukM2UB3jz&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "66FCZU88",
+            "title": "Radio Đô Trưởng",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzkmDn0L0GKtplTsGbHKXMBC8lUNr5O5jemrTrONmWIZJI5Z5yB3HRPV8p83WTBHD8tpe4z3K11-J7PpNDAKGorTiYDDm0G3B5smeqp71yQko37WJaV5H_j9yg8Fav25BqYp8riIXKHv2kVZNeO14JeRSs6CLfDT_DgmR4t4H0zv2UDzYPH07Vp9zBsUr5VFV8mWwPxNLbiyZpKe206NJRnEjBxULeFPQfWXgWZ3KDiupEAxd4U13YrPTMqmQpzhb6XPCPH6JJtZoVzTHqARwl8SRut1G&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Do-Truong-Various-Artists/66FCZU88.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZFEEU7",
+                "name": "Đạt G",
+                "link": "/nghe-si/Dat-G",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ9ZD8A",
+                "name": "Trịnh Thăng Bình",
+                "link": "/nghe-si/Trinh-Thang-Binh",
+                "spotlight": true
+              },
+              {
+                "id": "IW6WCI7U",
+                "name": "Jack",
+                "link": "/nghe-si/Trinh-Tran-Phuong-Tuan",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ997CU",
+                "name": "SOOBIN",
+                "link": "/nghe-si/SOOBIN",
+                "spotlight": true
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzkmDn0L0GKtplTsGbHKXMBC8lUNr5O5jemrTrONmWIZJI5Z5yB3HRPV8p83WTBHD8tpe4z3K11-J7PpNDAKGorTiYDDm0G3B5smeqp71yQko37WJaV5H_j9yg8Fav25BqYp8riIXKHv2kVZNeO14JeRSs6CLfDT_DgmR4t4H0zv2UDzYPH07Vp9zBsUr5VFV8mWwPxNLbiyZpKe206NJRnEjBxULeFPQfWXgWZ3KDiupEAxd4U13YrPTMqmQpzhb6XPCPH6JJtZoVzTHqARwl8SRut1G&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "6Z6UAUCD",
+            "title": "Radio Hạnh Phúc Bỏ Rơi Em",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDy-m8z0KmH3tsoEsGq1LqxRFDtG255IJTmwYDDS1LL9ZJYDX0e0K1kCTz75MmmMIOSyaune1XrCh3g4m2P1307WVPM0PmiV0RLznu0oHKuTid_6WsOJ51JdAPxPPa11H-SkcT5ZH4PBiI_9XYySKa-zQPkDP5uRVAPkbxfY5KOsiIFR_NDL1dob8uZz85LLDVKvZlXz1bHY-shS_tu43Z3uE8UlV5TUEVavWgyiK4Thx6wEwNv303-wED6pGe20l9onIq94AngFr30Gckj9gVBwUM8P9mAbbUCYFbvnEZ9z&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Hanh-Phuc-Bo-Roi-Em-Various-Artists/6Z6UAUCD.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6ZO9UB",
+                "name": "Hương Ly",
+                "link": "/nghe-si/Nguyen-Huong-Ly",
+                "spotlight": false
+              },
+              {
+                "id": "IWZFDDF6",
+                "name": "Hiền Hồ",
+                "link": "/nghe-si/Hien-Ho",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ9FE6A",
+                "name": "Vương Anh Tú",
+                "link": "/nghe-si/Vuong-Anh-Tu",
+                "spotlight": false
+              },
+              {
+                "id": "IW6W9D00",
+                "name": "Phan Yến Nhi",
+                "link": "/nghe-si/Phan-Yen-Nhi",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDy-m8z0KmH3tsoEsGq1LqxRFDtG255IJTmwYDDS1LL9ZJYDX0e0K1kCTz75MmmMIOSyaune1XrCh3g4m2P1307WVPM0PmiV0RLznu0oHKuTid_6WsOJ51JdAPxPPa11H-SkcT5ZH4PBiI_9XYySKa-zQPkDP5uRVAPkbxfY5KOsiIFR_NDL1dob8uZz85LLDVKvZlXz1bHY-shS_tu43Z3uE8UlV5TUEVavWgyiK4Thx6wEwNv303-wED6pGe20l9onIq94AngFr30Gckj9gVBwUM8P9mAbbUCYFbvnEZ9z&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "67W8EWWZ",
+            "title": "Radio Đàn Ông Không Nói",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzlmDr0K0H2tpxSYbu5KXMCPOg9MWa05jzcte091bGOss-Bq5i31HgET8J4MGz3I8K_nerg1KXDhZdHmIH2MG3YVi21P0X90E1-ce5cHKKNjIsUt6SHJ1VWVf-1CX5DIx5xajCq4XeRiYwGXomT2qw-QCACPrz2VQLlphjX51ytiYA2_71KMttu8eFyVbHQQlqxYFqeKGPY_cpTg2XNLMAhEjtuAG1IPAfXswueMXvgw6JNw7f9MJw-CeYoolkWl1I2Y8RAl4DZ4YOSeyLVkSx6Rt1CL4BYae4vCmvC&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Dan-Ong-Khong-Noi-Various-Artists/67W8EWWZ.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ98O7W",
+                "name": "Phan Mạnh Quỳnh",
+                "link": "/nghe-si/Phan-Manh-Quynh",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ96F6O",
+                "name": "Karik",
+                "link": "/nghe-si/Karik",
+                "spotlight": true
+              },
+              {
+                "id": "IWZ9ZBBF",
+                "name": "Ngô Kiến Huy",
+                "link": "/nghe-si/Ngo-Kien-Huy",
+                "spotlight": false
+              },
+              {
+                "id": "IW6UF08A",
+                "name": "Yuno Bigboi",
+                "link": "/nghe-si/Yuno-Bigboi",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzlmDr0K0H2tpxSYbu5KXMCPOg9MWa05jzcte091bGOss-Bq5i31HgET8J4MGz3I8K_nerg1KXDhZdHmIH2MG3YVi21P0X90E1-ce5cHKKNjIsUt6SHJ1VWVf-1CX5DIx5xajCq4XeRiYwGXomT2qw-QCACPrz2VQLlphjX51ytiYA2_71KMttu8eFyVbHQQlqxYFqeKGPY_cpTg2XNLMAhEjtuAG1IPAfXswueMXvgw6JNw7f9MJw-CeYoolkWl1I2Y8RAl4DZ4YOSeyLVkSx6Rt1CL4BYae4vCmvC&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "67IAW00W",
+            "title": "Radio Cả Ngàn Lời Chúc",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDyxm8f0L0GKtswBZ5y2MKJPQeFJML1UHDywqTeDK08IZMpOtWy501A6Se7CKGb6G8qvmuLY0qr5fZ_KoIn4N0ZgUCM9Fmv82Ebua8ayHnqKkolEYseGGH7lVyxPQXv15hvtczri6495xNMVY7D6147XCys3E0HDSleqmRG-Jn0uxNcDyoyFL7AdUOpp8GzLPQ9WX_9t2WbjeJVIftSCMctqOTBtTbjTQ_KwrA5t0H5bjp_OvoKILZ7XQOUz4j7Mi8B6MjsIyP4_mnFd-5C9P9LPCwqNonu_oHvbxbNJ&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Ca-Ngan-Loi-Chuc-Various-Artists/67IAW00W.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97U7U",
+                "name": "Rhymastic",
+                "link": "/nghe-si/Rhymastic",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ9Z6U9",
+                "name": "Suboi",
+                "link": "/nghe-si/Suboi",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ99A86",
+                "name": "Trúc Nhân",
+                "link": "/nghe-si/Truc-Nhan",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ98ODO",
+                "name": "Ricky Star",
+                "link": "/nghe-si/Ricky-Star",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s1/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDyxm8f0L0GKtswBZ5y2MKJPQeFJML1UHDywqTeDK08IZMpOtWy501A6Se7CKGb6G8qvmuLY0qr5fZ_KoIn4N0ZgUCM9Fmv82Ebua8ayHnqKkolEYseGGH7lVyxPQXv15hvtczri6495xNMVY7D6147XCys3E0HDSleqmRG-Jn0uxNcDyoyFL7AdUOpp8GzLPQ9WX_9t2WbjeJVIftSCMctqOTBtTbjTQ_KwrA5t0H5bjp_OvoKILZ7XQOUz4j7Mi8B6MjsIyP4_mnFd-5C9P9LPCwqNonu_oHvbxbNJ&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "67I6DA0B",
+            "title": "Radio Không Sao Đâu Em (Tâm Sắc Tấm OST)",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDyvmDf0KmGHtslRZ0e0LXUFEeYF1be058Dcs8u43m12Z3A8sbqA1qUEVOQPMGP15OKsnD1g34eGhZ3Jd2HBMrtYTyBSOG4QNRDtnzmm7Kv4iNIKtJPCIKko9yFIOqv9IkDpnjrg7HHAuoVCXNqKLqplOPwEDbOUV_Hcaham7KCruolU_Y5TKt_tAup-9bq1Dg9bYQya1LSpyJwBf2DJ1MwWEegX95C5QwCusQGd1HnWvplLudKMMpInROguIboYefHYQLz5LA8rPSxhxlNIRM1jtqLiiARz8xfGTQrUw2IcWv60MsVXITdrpDi78BSAc-q&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Khong-Sao-Dau-Em-Tam-Sac-Tam-OST-Various-Artists/67I6DA0B.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZA76EE",
+                "name": "Khải Đăng",
+                "link": "/nghe-si/Khai-Dang",
+                "spotlight": false
+              },
+              {
+                "id": "IWZAOADF",
+                "name": "Phạm Đình Thái Ngân",
+                "link": "/nghe-si/Pham-Dinh-Thai-Ngan",
+                "spotlight": false
+              },
+              {
+                "id": "IWZ9ZFA7",
+                "name": "Minh Vương M4U",
+                "link": "/nghe-si/Minh-Vuong-M4U",
+                "spotlight": false
+              },
+              {
+                "id": "IWZFEZIC",
+                "name": "Thương Võ",
+                "link": "/nghe-si/Thuong-Vo",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDyvmDf0KmGHtslRZ0e0LXUFEeYF1be058Dcs8u43m12Z3A8sbqA1qUEVOQPMGP15OKsnD1g34eGhZ3Jd2HBMrtYTyBSOG4QNRDtnzmm7Kv4iNIKtJPCIKko9yFIOqv9IkDpnjrg7HHAuoVCXNqKLqplOPwEDbOUV_Hcaham7KCruolU_Y5TKt_tAup-9bq1Dg9bYQya1LSpyJwBf2DJ1MwWEegX95C5QwCusQGd1HnWvplLudKMMpInROguIboYefHYQLz5LA8rPSxhxlNIRM1jtqLiiARz8xfGTQrUw2IcWv60MsVXITdrpDi78BSAc-q&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "6700FOU0",
+            "title": "Radio Hẹn Yêu",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s2/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDyzmDn0KmGGts_TYGq7LKA9E8_O3WLJ5zWuW8WAL5aHWpM4ZmLRMn26BDhEKLSTGerdc8TYNHP7fc6FoomQ1mhg9fwBR50J2hacpOi_6KCGloEGs3vEJKFj99FQP1nE4RPqaOaq5KyGitJ1ZYr7MaU_CfE5PWKJTAGrdx9WJau-itZJzN4E2dIaUD3rBGu9FgnkqwH_LG5e_cY9f7S7K6ocE8-Z85W5F_Ousg8Y1nzcuZdMv70KM3AqRuc-JDVOgPAkQiI8WgD66gyncC_Ku0G2&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Hen-Yeu-Various-Artists/6700FOU0.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6W9D00",
+                "name": "Phan Yến Nhi",
+                "link": "/nghe-si/Phan-Yen-Nhi",
+                "spotlight": false
+              },
+              {
+                "id": "IW67DCOZ",
+                "name": "Văn Võ Ngọc Nhân",
+                "link": "/nghe-si/Van-Vo-Ngoc-Nhan",
+                "spotlight": false
+              },
+              {
+                "id": "IW6W8EB0",
+                "name": "Duy Zuno",
+                "link": "/nghe-si/Duy-Zuno",
+                "spotlight": false
+              },
+              {
+                "id": "IW67DF6B",
+                "name": "NB3 Hoài Bảo",
+                "link": "/nghe-si/NB3-Hoai-Bao",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s2/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDyzmDn0KmGGts_TYGq7LKA9E8_O3WLJ5zWuW8WAL5aHWpM4ZmLRMn26BDhEKLSTGerdc8TYNHP7fc6FoomQ1mhg9fwBR50J2hacpOi_6KCGloEGs3vEJKFj99FQP1nE4RPqaOaq5KyGitJ1ZYr7MaU_CfE5PWKJTAGrdx9WJau-itZJzN4E2dIaUD3rBGu9FgnkqwH_LG5e_cY9f7S7K6ocE8-Z85W5F_Ousg8Y1nzcuZdMv70KM3AqRuc-JDVOgPAkQiI8WgD66gyncC_Ku0G2&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "6ZZE09CF",
+            "title": "Radio Sao Em Lại Tắt Máy?",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzkmDT0KGHFtpxMXrbL34pQRTBKNm5OJOnXYzSA3bGSWcwCqrG0Lno6TzR2KGmHJeqyb8jY1XfBfZg3non12mRgVPA7F0jF1hbzaOTl4aySx2wHrcf5GadjAfg6R4D24EKjpTmm4aT2jNkKr2j83nsvFSRVO0f6Bg8wokXcGHjajNU6htS12Ix_TzklTW5KEVzXYVPz3b5hz36DftC9KstsQOxrS0O3Q_CwZAGWKqbWu6s0ud903ZIsEz-uLGDRDg0taDJnrDeJOTdG1txq6-GD38brdtb0hrPGpYFSCdq&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Sao-Em-Lai-Tat-May-Various-Artists/6ZZE09CF.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6ZZIO9",
+                "name": "Phạm Nguyên Ngọc",
+                "link": "/nghe-si/Pham-Nguyen-Ngoc",
+                "spotlight": false
+              },
+              {
+                "id": "IW689UW0",
+                "name": "Vanh",
+                "link": "/nghe-si/Vanh",
+                "spotlight": false
+              },
+              {
+                "id": "IW68U68B",
+                "name": "B.",
+                "link": "/nghe-si/Bui-Thanh-Binh",
+                "spotlight": false
+              },
+              {
+                "id": "IW6ZBOWU",
+                "name": "Lil Zpoet",
+                "link": "/nghe-si/Lil-Zpoet",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzkmDT0KGHFtpxMXrbL34pQRTBKNm5OJOnXYzSA3bGSWcwCqrG0Lno6TzR2KGmHJeqyb8jY1XfBfZg3non12mRgVPA7F0jF1hbzaOTl4aySx2wHrcf5GadjAfg6R4D24EKjpTmm4aT2jNkKr2j83nsvFSRVO0f6Bg8wokXcGHjajNU6htS12Ix_TzklTW5KEVzXYVPz3b5hz36DftC9KstsQOxrS0O3Q_CwZAGWKqbWu6s0ud903ZIsEz-uLGDRDg0taDJnrDeJOTdG1txq6-GD38brdtb0hrPGpYFSCdq&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "6ZOEODW7",
+            "title": "Radio Kết Thúc Lưng Chừng",
+            "thumbnail": "https://photo-playlist-zmp3.zadn.vn/s2/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzgm8j00WGStscAWrO1LKw4OTpHK5jLHjOms8a0NL8HYMMBsG08KnFMVzBD0GGLGTqqa8Go3Xv4zZA7o7n93mcwTPQ8RmDF2UXrneWz7Xf4l2IKtcfCIqU-8i6FQaCRG-yenzHdHnnCu2h6qNuPNHZiR9JQDLiKA_ThcEqp44bXu2RKgY9G3okd9jAg8L09CQS_rwqaLWfcycxJ_NK23cEdE8Fx8mDRPVLjXVqa1q0vv3c9ktOK1ssoRzRXITU7y8skE3R-JR2u0jBhUDMhGxw4IGD-KpB4yfSINpa5EZ9z&size=thumb/240_240",
+            "isoffical": true,
+            "link": "/album/Radio-Ket-Thuc-Lung-Chung-Various-Artists/6ZOEODW7.html",
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW67DCOZ",
+                "name": "Văn Võ Ngọc Nhân",
+                "link": "/nghe-si/Van-Vo-Ngoc-Nhan",
+                "spotlight": false
+              },
+              {
+                "id": "IW6W8EB0",
+                "name": "Duy Zuno",
+                "link": "/nghe-si/Duy-Zuno",
+                "spotlight": false
+              },
+              {
+                "id": "IWZA76EE",
+                "name": "Khải Đăng",
+                "link": "/nghe-si/Khai-Dang",
+                "spotlight": false
+              },
+              {
+                "id": "IW67DF6B",
+                "name": "NB3 Hoài Bảo",
+                "link": "/nghe-si/NB3-Hoai-Bao",
+                "spotlight": false
+              }
+            ],
+            "artistsNames": "Nhiều nghệ sĩ",
+            "playItemMode": 0,
+            "subType": 19,
+            "uid": 1,
+            "thumbnailM": "https://photo-playlist-zmp3.zadn.vn/s2/v3/radio?src=HavwqN7EYmrDGr6VBegSG044GDzgm8j00WGStscAWrO1LKw4OTpHK5jLHjOms8a0NL8HYMMBsG08KnFMVzBD0GGLGTqqa8Go3Xv4zZA7o7n93mcwTPQ8RmDF2UXrneWz7Xf4l2IKtcfCIqU-8i6FQaCRG-yenzHdHnnCu2h6qNuPNHZiR9JQDLiKA_ThcEqp44bXu2RKgY9G3okd9jAg8L09CQS_rwqaLWfcycxJ_NK23cEdE8Fx8mDRPVLjXVqa1q0vv3c9ktOK1ssoRzRXITU7y8skE3R-JR2u0jBhUDMhGxw4IGD-KpB4yfSINpa5EZ9z&size=thumb/240_240",
+            "isShuffle": false,
+            "userName": "",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          }
+        ],
+        "isShuffle": true
+      },
+      {
+        "sectionType": "genre_mood",
+        "viewType": "slider",
+        "title": "Tâm Trạng Và Hoạt Động",
+        "link": "",
+        "sectionId": "hGenre",
+        "items": [
+          {
+            "encodeId": "IWZ9Z09F",
+            "cover": "https://photo-zmp3.zadn.vn/cover/7/1/a/b/71ab8a69d1ad4cad8c6289a346773073.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/d/b/5/c/db5cf069b328c7858b2d9642cc6b4529.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/6/a/9/8/6a982b0ea4de24100388beb27087d241.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/a/a/6/a/aa6afa7fdab849574a71dec0770a4b22.jpg",
+            "title": "Workout",
+            "link": "/hub/Workout/IWZ9Z09F.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z0AI",
+            "cover": "https://photo-zmp3.zadn.vn/cover/d/f/b/2/dfb2357709d81574da689144f0348c78.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/b/1/e/b/b1eb8ae84392957f9b9d1ce2bb42aab9.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/b/3/2/d/b32dab34664c9a7f0d1f837b4babd4bb.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/3/f/3/2/3f3258892f1c047c566fddada2d18a10.jpg",
+            "title": "Tập Trung",
+            "link": "/hub/Tap-Trung/IWZ9Z0AI.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z098",
+            "cover": "https://photo-zmp3.zadn.vn/cover/7/b/a/3/7ba3b164504295c3ab8ee10e1133678e.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/e/3/d/4/e3d43659c6dc756f87f4e44220313f92.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/d/0/7/1/d0714f6cfd28af5d7518d582285f3312.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/a/5/9/2/a592ccc7e41403e2f7b5233e064cf594.jpg",
+            "title": "Du lịch",
+            "link": "/hub/Du-lich/IWZ9Z098.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z09A",
+            "cover": "https://photo-zmp3.zadn.vn/cover/3/5/a/0/35a00836fa2d4f688246cbc717d30269.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/0/9/0/9/09090b19d3417d364547db3027d141d5.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/0/4/6/c/046cb712123452d99e0f5d6d3f77d6ec.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/8/5/2/c/852c3ed184696671fc596d96952ced37.jpg",
+            "title": "Khúc Nhạc Vui",
+            "link": "/hub/Khuc-Nhac-Vui/IWZ9Z09A.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z099",
+            "cover": "https://photo-zmp3.zadn.vn/cover/9/5/e/2/95e21d554ae394322b3bb79f7a01617b.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/e/6/8/0/e680570f74b3497c95d96f6ba6db7b07.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/4/f/d/a/4fda0068d6821c35e89a6d405b314ba0.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/0/7/e/a/07eaa28ca48cc2557737deee06d3c3f6.jpg",
+            "title": "Giai Điệu Buồn",
+            "link": "/hub/Giai-Dieu-Buon/IWZ9Z099.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z096",
+            "cover": "https://photo-zmp3.zadn.vn/cover/f/b/7/9/fb79cd3242278a6d8f8a8e473a80cd3b.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/0/f/d/1/0fd1da7445b21a752a1c4282b06f2cf0.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/a/2/7/8/a2784283efbab4c3b17e344f9b0a4b30.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/9/2/2/d/922d20a7762e49a74a5564942189fb84.jpg",
+            "title": "Thư Giãn",
+            "link": "/hub/Thu-Gian/IWZ9Z096.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z097",
+            "cover": "https://photo-zmp3.zadn.vn/cover/9/2/4/d/924d799e99bc603fe8aab02284711de1.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/4/d/f/4/4df44f0a15edb254717c383cf256b193.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/c/1/5/1/c151d0ea45ca4e88bade5841047acb9e.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/2/5/2/9/25296c695110c33adaf08901c9223017.jpg",
+            "title": "Chơi Game",
+            "link": "/hub/Choi-Game/IWZ9Z097.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z09E",
+            "cover": "https://photo-zmp3.zadn.vn/cover/5/7/d/b/57dbc9145318876d3d79e26a99ec8a83.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/0/a/e/f/0aef849d584c7e995073617f53b9ac24.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/9/8/7/3/98732de40faf3fa472968bd081369978.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/a/2/3/b/a23b64ffea1892027878ffe3fd5a38bb.jpg",
+            "title": "Tình Yêu",
+            "link": "/hub/Tinh-Yeu/IWZ9Z09E.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z0CI",
+            "cover": "https://photo-zmp3.zadn.vn/cover/d/6/2/1/d621f4cf5cecdf0ab58f6c4dfd8536a1.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/9/d/0/4/9d045c7d3a111975bb6920d963046dd1.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/4/f/8/5/4f857e3277bb89b5e1c5ecc24598027c.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/e/2/c/6/e2c683306586cb2e6e9cbfa77b4fd622.jpg",
+            "title": "Chill",
+            "link": "/hub/Chill/IWZ9Z0CI.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z0A0",
+            "cover": "https://photo-zmp3.zadn.vn/cover/7/4/5/7/7457c5c2972c13603b22885baf25b47d.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/9/5/1/b/951bb18f468ea711a81a0dd28a8797d4.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/e/d/3/2/ed325aa9d68abced2dc9234965f4af73.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/4/d/8/3/4d83d75dbb440bc97b3e397ea7606936.jpg",
+            "title": "Motivation",
+            "link": "/hub/Motivation/IWZ9Z0A0.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z09D",
+            "cover": "https://photo-zmp3.zadn.vn/cover/7/f/3/2/7f3211c85f057eaf1adfc4debad997d7.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/8/0/4/7/8047a5134646835763068f7439e17f2b.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/b/8/2/1/b8212d0524ead535a238c624ab9649e2.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/c/8/4/9/c849dda54d0c4db98486fd33d9b1d5ad.jpg",
+            "title": "Tiệc Tùng",
+            "link": "/hub/Tiec-Tung/IWZ9Z09D.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z0AF",
+            "cover": "https://photo-zmp3.zadn.vn/cover/1/6/6/4/16643b9766c7cd5a5eb819d8160eb8b8.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/2/e/9/6/2e966bf47b1989fdff7149c7a1b0f25e.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/b/e/9/b/be9b83fdbb931eaf0a0342914cb6a12d.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/0/c/6/a/0c6a98b09036e57ecea05f0d19fe7011.jpg",
+            "title": "Driving",
+            "link": "/hub/Driving/IWZ9Z0AF.html",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "sectionType": "genre_mood",
+        "viewType": "slider",
+        "title": "Thể Loại",
+        "link": "",
+        "sectionId": "hGenre",
+        "items": [
+          {
+            "encodeId": "IWZ9Z09U",
+            "cover": "https://photo-zmp3.zadn.vn/cover/1/d/0/0/1d0063f9a66d2dfcfc4bd1c39969283b.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/9/1/2/7/91279ad1aad03a8a9001e0fedb24eaae.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/d/0/4/4/d0444267f5150cac95ee512d2149101c.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/5/d/c/f/5dcf39a2a590e3f43927a55d0c37866b.jpg",
+            "title": "Trữ Tình & Bolero",
+            "link": "/hub/Tru-Tinh-Bolero/IWZ9Z09U.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z08B",
+            "cover": "https://photo-zmp3.zadn.vn/cover/9/a/d/c/9adcf62c1562be1b0de00358329c2b7f.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/4/4/6/4/4464764cf7af3370dc62f5a38870c5e1.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/9/d/0/a/9d0ac957b959ec3e6a0e60a6ff061e10.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/a/f/d/1/afd1e6ab52cce81fd3ec42f3da44a467.jpg",
+            "title": "EDM",
+            "link": "/hub/EDM/IWZ9Z08B.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z0BO",
+            "cover": "https://photo-zmp3.zadn.vn/cover/7/a/0/8/7a083801926b8a65fa5531b948dcecbb.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/c/3/d/f/c3df8e5c7e4f7c2370be01fcaa8d0d73.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/4/2/8/4/428431a34d60865f3e7b60b005cb8b57.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/6/1/5/5/615537c15ca79a69695b47444ee90d5d.jpg",
+            "title": "Remix",
+            "link": "/hub/Remix/IWZ9Z0BO.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z08C",
+            "cover": "https://photo-zmp3.zadn.vn/cover/5/a/6/c/5a6c404b17b90ae8eeb04b2e20b29b5f.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/0/a/f/3/0af3f0d684b8d7d94125fa2c8f0ea44b.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/2/f/1/b/2f1b2628661a7b1671f36c241ffa4812.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/c/8/c/b/c8cb04fe6011aaf231d1b2b6e983ed72.jpg",
+            "title": "Hip-hop",
+            "link": "/hub/Hip-hop/IWZ9Z08C.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z09W",
+            "cover": "https://photo-zmp3.zadn.vn/cover/d/3/4/3/d3436727fdc88ee4abe0de9326a7c8da.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/8/5/7/6/8576c5b5e0e59d6cd626d0d6004ed0b9.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/a/5/c/9/a5c93a9fd2727baaca6afd2e7beb8d44.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/a/5/4/4/a54405ab40d843bc73366684a74203b4.jpg",
+            "title": "R&B",
+            "link": "/hub/R-B/IWZ9Z09W.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z0B7",
+            "cover": "https://photo-zmp3.zadn.vn/cover/d/c/e/d/dced68be2533e35a4819b3961d267319.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/2/6/f/d/26fd8cc26f31cc85d61742b37f9ffd3a.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/7/f/9/e/7f9efc369ed4e9c99d35c6dafdb97936.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/d/a/0/3/da037012a912238fb41429ec6db03acf.jpg",
+            "title": "Nhạc Phim",
+            "link": "/hub/Nhac-Phim/IWZ9Z0B7.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z090",
+            "cover": "https://photo-zmp3.zadn.vn/cover/2/6/c/6/26c64a7d02597c75357b78319769b320.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/6/e/2/e/6e2ec73dadc97a5eb9c39c3a386daa92.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/2/a/e/9/2ae9f6ad91b43b53edf4294fd92cd1bf.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/2/c/a/8/2ca897edce274537558a8bde25e122de.jpg",
+            "title": "Nhạc Thiếu Nhi",
+            "link": "/hub/Nhac-Thieu-Nhi/IWZ9Z090.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z08D",
+            "cover": "https://photo-zmp3.zadn.vn/cover/9/6/2/5/962510e296a7f0ccd74b0878fb43f027.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/9/f/1/4/9f14f8204ad29bd6e880f78342728ad4.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/2/2/4/7/2247c9b9ad3a56bf766ed7f78c8fdf76.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/6/1/9/6/6196360849aafa52ba0a3722219d6cf9.jpg",
+            "title": "Nhạc Không Lời",
+            "link": "/hub/Nhac-Khong-Loi/IWZ9Z08D.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z0CW",
+            "cover": "https://photo-zmp3.zadn.vn/cover/a/4/6/5/a465aa0710d01f33d34efba00fdaedc4.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/d/3/1/c/d31c98f8fbc04aaceb04af660260663c.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/3/c/8/9/3c8930f64580c3176becca82b14b1fc2.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/b/9/8/5/b98570bea447af51db22aa7b91aaa13e.jpg",
+            "title": "Nhạc Việt Bất Hủ",
+            "link": "/hub/Nhac-Viet-Bat-Hu/IWZ9Z0CW.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z09I",
+            "cover": "https://photo-zmp3.zadn.vn/cover/0/c/7/b/0c7b46f44b70689fbb44191363647fbc.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/0/5/e/5/05e50f9cfdf0b624949d0beda4199017.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/3/3/2/9/3329958fe7b2d63732e5ecf3a7efecfa.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/a/0/e/2/a0e2095f9df9f873f912fc828ceb5888.jpg",
+            "title": "Nhạc Trịnh",
+            "link": "/hub/Nhac-Trinh/IWZ9Z09I.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z0AB",
+            "cover": "https://photo-zmp3.zadn.vn/cover/b/d/7/9/bd79ee8f3f8dbeed300b02b1e52d2fdb.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/d/0/2/3/d0232877a66df92fcb7cd44170126948.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/4/c/3/b/4c3be5fbb5af686a2cbc1aa012179928.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/1/e/7/0/1e702841a5206a0755bd7401863fce24.jpg",
+            "title": "Jazz",
+            "link": "/hub/Jazz/IWZ9Z0AB.html",
+            "description": ""
+          },
+          {
+            "encodeId": "IWZ9Z0B0",
+            "cover": "https://photo-zmp3.zadn.vn/cover/6/c/d/4/6cd451408b042c7f30ac4959db0a36cf.jpg",
+            "thumbnail": "https://photo-zmp3.zadn.vn/cover/5/b/0/b/5b0b955cca651a89652a8b4d01f48733.jpg",
+            "thumbnailHasText": "https://photo-zmp3.zadn.vn/cover/7/2/f/8/72f8305fed91e2414c30b6df20bb6750.jpg",
+            "thumbnailR": "https://photo-zmp3.zadn.vn/cover/9/d/a/6/9da6438aaf0226da64a3e6467f803d7e.jpg",
+            "title": "Nhạc Âu Mỹ Bất Hủ",
+            "link": "/hub/Nhac-Au-My-Bat-Hu/IWZ9Z0B0.html",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "sectionType": "playlist",
+        "viewType": "slider",
+        "title": "Thứ Tư rộn ràng",
+        "link": "",
+        "sectionId": "hAutoTheme1",
+        "items": [
+          {
+            "encodeId": "ZWZA76CI",
+            "title": "Nhạc Xuân Hay Nhất",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/e/9/9/2/e9920467447b291ac02b17e11f196ead.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Xuan-Hay-Nhat-Various-Artists/ZWZA76CI.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/e/9/9/2/e9920467447b291ac02b17e11f196ead.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZCF8IE6B",
+            "title": "K-POP: Những Bản Hits Quốc Dân",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/a/d/8/9/ad89ed74f82efd427a0f9610ce6da328.jpg",
+            "isoffical": true,
+            "link": "/album/K-POP-Nhung-Ban-Hits-Quoc-Dan-Various-Artists/ZCF8IE6B.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 422,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/a/d/8/9/ad89ed74f82efd427a0f9610ce6da328.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZU9EUF68",
+            "title": "V-Pop Nhạc Mới Nổi Bật",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/5/9/3/a/593ac489368dad55865b7968e6be5ea4.jpg",
+            "isoffical": true,
+            "link": "/album/V-Pop-Nhac-Moi-Noi-Bat-Various-Artists/ZU9EUF68.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 298,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/5/9/3/a/593ac489368dad55865b7968e6be5ea4.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "6IOE88EA",
+            "title": "Gia Vị Rap Việt",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/d/6/e/6/d6e69137830a2956074f30ee518dc575.jpg",
+            "isoffical": true,
+            "link": "/album/Gia-Vi-Rap-Viet-Various-Artists/6IOE88EA.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 422,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/d/6/e/6/d6e69137830a2956074f30ee518dc575.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "67WIO6CF",
+            "title": "Nhạc Mới Mỗi Ngày",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/2/e/a/2/2ea2e99e292988ef6270419978c8b78b.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Moi-Moi-Ngay-Various-Artists/67WIO6CF.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 422,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/2/e/a/2/2ea2e99e292988ef6270419978c8b78b.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "67WIUEW8",
+            "title": "Nhà Nhà Nghe Gì?",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/4/5/0/1/45013acb9a58da5ae7e6817d326df7b5.jpg",
+            "isoffical": true,
+            "link": "/album/Nha-Nha-Nghe-Gi-Various-Artists/67WIUEW8.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 422,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/4/5/0/1/45013acb9a58da5ae7e6817d326df7b5.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZOBF07ZB",
+            "title": "EDM Thư Giãn Tốt Nhất",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/7/c/2/2/7c2268c10cdc1f15e2879670c5e94380.jpg",
+            "isoffical": true,
+            "link": "/album/EDM-Thu-Gian-Tot-Nhat-Various-Artists/ZOBF07ZB.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 309,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/7/c/2/2/7c2268c10cdc1f15e2879670c5e94380.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "67IZC677",
+            "title": "USUK 2021 Nghe Gì?",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/1/2/5/2/12527282898bac09ec8346349b55d962.jpg",
+            "isoffical": true,
+            "link": "/album/USUK-2021-Nghe-Gi-Various-Artists/67IZC677.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 422,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/1/2/5/2/12527282898bac09ec8346349b55d962.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "670AC87E",
+            "title": "K-Pop Tháng 1/2021 Có Gì Hot?",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/b/a/6/1/ba613b098f0c9a3a8887ce97264cdaca.jpg",
+            "isoffical": true,
+            "link": "/album/K-Pop-Thang-1-2021-Co-Gi-Hot-Various-Artists/670AC87E.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 435,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/b/a/6/1/ba613b098f0c9a3a8887ce97264cdaca.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "6707CZ08",
+            "title": "Tết Này Nghe Gì?",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/8/6/6/0/8660a54b1f92d92aa24022d08995f47a.jpg",
+            "isoffical": true,
+            "link": "/album/Tet-Nay-Nghe-Gi-Various-Artists/6707CZ08.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 435,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/8/6/6/0/8660a54b1f92d92aa24022d08995f47a.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          }
+        ]
+      },
+      {
+        "sectionType": "playlist",
+        "viewType": "slider",
+        "title": "Nhạc hay hôm nay",
+        "link": "",
+        "sectionId": "hAutoTheme2",
+        "items": [
+          {
+            "encodeId": "ZODE98IZ",
+            "title": "Today's Latin Hits",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/3/4/6/3/34632d8e065d06f7494bf74089f535e6.jpg",
+            "isoffical": true,
+            "link": "/album/Today-s-Latin-Hits-Various-Artists/ZODE98IZ.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 298,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/3/4/6/3/34632d8e065d06f7494bf74089f535e6.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZODDIFW6",
+            "title": "Nhạc Bolero Hôm Nay",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/a/9/f/e/a9fe30b968a16ac280d2383a708cc7d9.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Bolero-Hom-Nay-Various-Artists/ZODDIFW6.html",
+            "PR": false,
+            "playItemMode": 1,
+            "subType": 1,
+            "uid": 133,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/a/9/f/e/a9fe30b968a16ac280d2383a708cc7d9.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZODE6000",
+            "title": "Today's Rap Hits",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/4/c/1/a/4c1a28af25331cb61189541572e9a05b.jpg",
+            "isoffical": true,
+            "link": "/album/Today-s-Rap-Hits-Various-Artists/ZODE6000.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 298,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/4/c/1/a/4c1a28af25331cb61189541572e9a05b.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZODAB8EF",
+            "title": "Today's EDM Hits",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/6/3/9/d/639d9162351b688f64966773d42e9641.jpg",
+            "isoffical": true,
+            "link": "/album/Today-s-EDM-Hits-Various-Artists/ZODAB8EF.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 309,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/6/3/9/d/639d9162351b688f64966773d42e9641.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZODAWWWZ",
+            "title": "Today's Country Hits",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/b/6/1/e/b61e8a4e10a506e1329a34742b8396ff.jpg",
+            "isoffical": true,
+            "link": "/album/Today-s-Country-Hits-Various-Artists/ZODAWWWZ.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 309,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/b/6/1/e/b61e8a4e10a506e1329a34742b8396ff.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "60B8U0OB",
+            "title": "Trào Lưu Nhạc Hot",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/0/e/b/e/0ebe491d9d173b809a6eea98375f5616.jpg",
+            "isoffical": true,
+            "link": "/album/Trao-Luu-Nhac-Hot-Various-Artists/60B8U0OB.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 422,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/0/e/b/e/0ebe491d9d173b809a6eea98375f5616.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZU89UD8D",
+            "title": "Nhạc Trẻ Gây Nghiện",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/7/5/4/0/7540fbc87a23ac44fb5b00b08db6a4b0.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Tre-Gay-Nghien-Various-Artists/ZU89UD8D.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 298,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/7/5/4/0/7540fbc87a23ac44fb5b00b08db6a4b0.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZE80ODOZ",
+            "title": "R&B Việt Ngày Nay",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/f/b/c/9/fbc9a6fd392ee5701bc324471db54510.jpg",
+            "isoffical": true,
+            "link": "/album/R-B-Viet-Ngay-Nay-Various-Artists/ZE80ODOZ.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 422,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/f/b/c/9/fbc9a6fd392ee5701bc324471db54510.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZWZCOE6B",
+            "title": "Nhạc Hàn Hôm Nay Nghe Gì?",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/6/a/f/e/6afe30e6d451bf9d618413fb00cb8973.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Han-Hom-Nay-Nghe-Gi-Various-Artists/ZWZCOE6B.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/6/a/f/e/6afe30e6d451bf9d618413fb00cb8973.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZODEAZB7",
+            "title": "Today's R&B Hits",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/2/8/4/9/2849a5b50dd6cda9697ecbe3534ff8aa.jpg",
+            "isoffical": true,
+            "link": "/album/Today-s-R-B-Hits-Various-Artists/ZODEAZB7.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 298,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/2/8/4/9/2849a5b50dd6cda9697ecbe3534ff8aa.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZOEIZ8U7",
+            "title": "Giai Điệu Và Trào Lưu Gây Sốt",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/2/4/c/f/24cf288035cb70d33f4bb561d9ac4813.jpg",
+            "isoffical": true,
+            "link": "/album/Giai-Dieu-Va-Trao-Luu-Gay-Sot-Various-Artists/ZOEIZ8U7.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 309,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/2/4/c/f/24cf288035cb70d33f4bb561d9ac4813.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "6IIBO7AB",
+            "title": "Nhạc Chuông Mới Nhất",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/1/7/0/1/1701074a9dc2f2009ad8c7cb49f26c31.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Chuong-Moi-Nhat-Various-Artists/6IIBO7AB.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 422,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/1/7/0/1/1701074a9dc2f2009ad8c7cb49f26c31.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZODDIAW9",
+            "title": "Nhạc Quê Hương Hôm Nay",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/c/c/e/0/cce005f9880a1241b82e97e3f57bcf41.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Que-Huong-Hom-Nay-Various-Artists/ZODDIAW9.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 133,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/c/e/0/cce005f9880a1241b82e97e3f57bcf41.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZWZCOE6C",
+            "title": "Nhạc USUK Hôm Nay Nghe Gì?",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/0/2/3/d/023d5bd90b57ac08422f263b1f829e84.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-USUK-Hom-Nay-Nghe-Gi-Various-Artists/ZWZCOE6C.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/0/2/3/d/023d5bd90b57ac08422f263b1f829e84.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZFUFCUC7",
+            "title": "Nhạc Phim Hàn Mới Nhất",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/3/a/5/7/3a57489aefbe9ceee24e779bcc1ea4f9.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Phim-Han-Moi-Nhat-Various-Artists/ZFUFCUC7.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 435,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/3/a/5/7/3a57489aefbe9ceee24e779bcc1ea4f9.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZE80U0II",
+            "title": "Dance Việt Ngày Nay",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/7/3/c/2/73c2790dd9021f403a4d81f93d54c348.jpg",
+            "isoffical": true,
+            "link": "/album/Dance-Viet-Ngay-Nay-Various-Artists/ZE80U0II.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 422,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/7/3/c/2/73c2790dd9021f403a4d81f93d54c348.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZWZC0WCE",
+            "title": "Today's Top Hits",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/7/c/d/1/7cd125876e0f96427536af0bde2a36c8.jpg",
+            "isoffical": true,
+            "link": "/album/Today-s-Top-Hits-Various-Artists/ZWZC0WCE.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/7/c/d/1/7cd125876e0f96427536af0bde2a36c8.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZDBO0CUI",
+            "title": "Nhạc Hoa Hôm Nay Nghe Gì?",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/0/a/2/1/0a21436ad460d75834b9c8810f80a5fa.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Hoa-Hom-Nay-Nghe-Gi-Various-Artists/ZDBO0CUI.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 435,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/0/a/2/1/0a21436ad460d75834b9c8810f80a5fa.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZE7BI8ZZ",
+            "title": "Pop Việt Ngày Nay",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/1/4/3/a/143aa01cd590aadd5a807934cd0cd823.jpg",
+            "isoffical": true,
+            "link": "/album/Pop-Viet-Ngay-Nay-Various-Artists/ZE7BI8ZZ.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 422,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/1/4/3/a/143aa01cd590aadd5a807934cd0cd823.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZABDOABU",
+            "title": "Đỉnh Cao TRENDING",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/1/f/f/5/1ff5fe34c2f7617f74432c4a8613b8e8.jpg",
+            "isoffical": true,
+            "link": "/album/Dinh-Cao-TRENDING-Various-Artists/ZABDOABU.html",
+            "PR": false,
+            "playItemMode": 2,
+            "subType": 1,
+            "uid": 422,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/1/f/f/5/1ff5fe34c2f7617f74432c4a8613b8e8.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          }
+        ]
+      },
+      {
+        "sectionType": "playlist",
+        "viewType": "slider",
+        "title": "Tập trung cao độ",
+        "link": "",
+        "sectionId": "hAutoTheme2",
+        "items": [
+          {
+            "encodeId": "60BFCA0F",
+            "title": "Classical Focus",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/5/c/2/6/5c268eb2511045a2a52c336bbda20514.jpg",
+            "isoffical": true,
+            "link": "/album/Classical-Focus-Various-Artists/60BFCA0F.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 435,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/5/c/2/6/5c268eb2511045a2a52c336bbda20514.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZOBAAE0Z",
+            "title": "Cảm Hứng Cho Công Việc",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/c/0/5/9/c0593c7f74b47c91ad95ed2311ab2614.jpg",
+            "isoffical": true,
+            "link": "/album/Cam-Hung-Cho-Cong-Viec-Various-Artists/ZOBAAE0Z.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 283,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/0/5/9/c0593c7f74b47c91ad95ed2311ab2614.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZOUUF6DO",
+            "title": "Nhạc Êm Dịu Cho Học Tập",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/7/c/d/b/7cdb743d615dec33e9cbc6f5ee7ab5b2.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Em-Diu-Cho-Hoc-Tap-Various-Artists/ZOUUF6DO.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 234,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/7/c/d/b/7cdb743d615dec33e9cbc6f5ee7ab5b2.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZOUZUEZC",
+            "title": "Nhạc Hàn Không Lời Giúp Tập Trung Học Tập",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/d/4/e/6/d4e664a5b5bf5b2b59d69546f6310078.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Han-Khong-Loi-Giup-Tap-Trung-Hoc-Tap-Various-Artists/ZOUZUEZC.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 235,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/d/4/e/6/d4e664a5b5bf5b2b59d69546f6310078.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZUZ67DO9",
+            "title": "Nhạc Baroque Giúp Tập Trung Làm Việc",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/c/b/0/5/cb05e02ab782508cc5d7e6c86cc67166.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Baroque-Giup-Tap-Trung-Lam-Viec-Various-Artists/ZUZ67DO9.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 133,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/0/5/cb05e02ab782508cc5d7e6c86cc67166.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZWZCOE68",
+            "title": "Nhạc Không Lời Giúp Tập Trung Làm Việc",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/3/d/4/6/3d46ade91d38474ae0dfef38a3173489.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Khong-Loi-Giup-Tap-Trung-Lam-Viec-Various-Artists/ZWZCOE68.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/3/d/4/6/3d46ade91d38474ae0dfef38a3173489.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZODOI9AC",
+            "title": "Music For Concentration",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/a/3/4/9/a349e9d0ab389444270130b7a33ae60e.jpg",
+            "isoffical": true,
+            "link": "/album/Music-For-Concentration-Various-Artists/ZODOI9AC.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 309,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/a/3/4/9/a349e9d0ab389444270130b7a33ae60e.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZOC00Z7F",
+            "title": "Peaceful Guitar",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/4/6/2/e/462ee53ba540df109b8bb2a6248c042e.jpg",
+            "isoffical": true,
+            "link": "/album/Peaceful-Guitar-Various-Artists/ZOC00Z7F.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 309,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/4/6/2/e/462ee53ba540df109b8bb2a6248c042e.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZECEWU9O",
+            "title": "Peaceful Piano",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/d/8/2/4/d824359a8c3f3b83bd85fcae8228e948.jpg",
+            "isoffical": true,
+            "link": "/album/Peaceful-Piano-Various-Artists/ZECEWU9O.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 309,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/d/8/2/4/d824359a8c3f3b83bd85fcae8228e948.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZOUZZ8EC",
+            "title": "Music At Work",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/3/e/c/d/3ecd899d4fb84168fc958282175d1282.jpg",
+            "isoffical": true,
+            "link": "/album/Music-At-Work-Various-Artists/ZOUZZ8EC.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 234,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/3/e/c/d/3ecd899d4fb84168fc958282175d1282.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "60BFBD9O",
+            "title": "Focus Ambient",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/2/a/1/a/2a1a616d34ed8b200db67669a03d75dc.jpg",
+            "isoffical": true,
+            "link": "/album/Focus-Ambient-Various-Artists/60BFBD9O.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 435,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/2/a/1/a/2a1a616d34ed8b200db67669a03d75dc.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZO69Z9E9",
+            "title": "Nhạc Không Lời Dành Cho Mẹ & Bé",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/4/e/c/2/4ec24b4053bf4f5afc97cedecebb55d5.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Khong-Loi-Danh-Cho-Me-Be-Various-Artists/ZO69Z9E9.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 283,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/4/e/c/2/4ec24b4053bf4f5afc97cedecebb55d5.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "60B8W96O",
+            "title": "Peaceful Jazz",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/1/d/e/7/1de78f112eb61b7de274f9b66a6771cc.jpg",
+            "isoffical": true,
+            "link": "/album/Peaceful-Jazz-Various-Artists/60B8W96O.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 435,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/1/d/e/7/1de78f112eb61b7de274f9b66a6771cc.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZUUOAE6W",
+            "title": "Nhạc Baroque Giúp Tập Trung Học Tập",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/a/e/0/6/ae0698891a9b350d94f1038b7e88fe1b.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Baroque-Giup-Tap-Trung-Hoc-Tap-Various-Artists/ZUUOAE6W.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 133,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/a/e/0/6/ae0698891a9b350d94f1038b7e88fe1b.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZOCF9FDE",
+            "title": "Những Bản Nhạc Kích Thích Trí Não",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/3/c/0/5/3c05212cdf8e866f312b762dc3ccb3e3.jpg",
+            "isoffical": true,
+            "link": "/album/Nhung-Ban-Nhac-Kich-Thich-Tri-Nao-Various-Artists/ZOCF9FDE.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 298,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/3/c/0/5/3c05212cdf8e866f312b762dc3ccb3e3.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZOUZZ8EZ",
+            "title": "Âm Nhạc Đánh Thức Sáng Tạo",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/a/e/5/5/ae5508b3140865732fad562ac7d4153b.jpg",
+            "isoffical": true,
+            "link": "/album/Am-Nhac-Danh-Thuc-Sang-Tao-Various-Artists/ZOUZZ8EZ.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 234,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/a/e/5/5/ae5508b3140865732fad562ac7d4153b.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZWZCO9FI",
+            "title": "Nhạc Nghe Khi Làm Việc",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/3/f/7/e/3f7ec2ba888acbe439b6c9967bfaec09.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Nghe-Khi-Lam-Viec-Various-Artists/ZWZCO9FI.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 0,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/3/f/7/e/3f7ec2ba888acbe439b6c9967bfaec09.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "60BFAOA7",
+            "title": "Focus Instrumental",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/2/8/4/0/28408bf16ae6fdb234107a25671c3cc2.jpg",
+            "isoffical": true,
+            "link": "/album/Focus-Instrumental-Various-Artists/60BFAOA7.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 435,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/2/8/4/0/28408bf16ae6fdb234107a25671c3cc2.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          },
+          {
+            "encodeId": "ZOUUF7UI",
+            "title": "Nhạc Hàn Không Lời Tập Trung Làm Việc",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/e/5/5/b/e55ba4b8278842a117db0ccd892cd028.jpg",
+            "isoffical": true,
+            "link": "/album/Nhac-Han-Khong-Loi-Tap-Trung-Lam-Viec-Various-Artists/ZOUUF7UI.html",
+            "PR": false,
+            "playItemMode": 0,
+            "subType": 1,
+            "uid": 70,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/e/5/5/b/e55ba4b8278842a117db0ccd892cd028.jpg",
+            "isShuffle": true,
+            "userName": "Zing MP3",
+            "isAlbum": false,
+            "textType": "Playlist",
+            "isSingle": false
+          }
+        ]
+      },
+      {
+        "promote": {
+          "encodeId": "ZO6WC06B",
+          "title": "Tết Này Con Không Về",
+          "alias": "Tet-Nay-Con-Khong-Ve-Thanh-Hung",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Thanh Hưng",
+          "artists": [
+            {
+              "id": "IWZ9A7ZD",
+              "name": "Thanh Hưng",
+              "link": "/nghe-si/Thanh-Hung-Idol",
+              "spotlight": false
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/c/9/6/2/c9623744539742cea19f8f96abaab602.jpg",
+          "link": "/bai-hat/Tet-Nay-Con-Khong-Ve-Thanh-Hung/ZO6WC06B.html",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/9/6/2/c9623744539742cea19f8f96abaab602.jpg",
+          "duration": 342,
+          "isZMA": false,
+          "zingChoise": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1610024400,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        "items": [
+          {
+            "encodeId": "ZO6FCU8E",
+            "title": "Chỉ Muốn Bên Em Lúc Này",
+            "alias": "Chi-Muon-Ben-Em-Luc-Nay-Huy-Vac-JiKi-X",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Huy Vạc, JiKi X",
+            "artists": [
+              {
+                "id": "IW6W86EF",
+                "name": "Huy Vạc",
+                "link": "/nghe-si/Huy-Vac",
+                "spotlight": false
+              },
+              {
+                "id": "IW67CZZ6",
+                "name": "JiKi X",
+                "link": "/nghe-si/JiKi-X",
+                "spotlight": false
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/e/4/d/c/e4dce0d4ae15c688e2cd8b1934902380.jpg",
+            "link": "/bai-hat/Chi-Muon-Ben-Em-Luc-Nay-Huy-Vac-JiKi-X/ZO6FCU8E.html",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/e/4/d/c/e4dce0d4ae15c688e2cd8b1934902380.jpg",
+            "duration": 243,
+            "isZMA": false,
+            "zingChoise": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1610884800,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true,
+            "rakingStatus": 0,
+            "score": 14662,
+            "totalTopZing": 0,
+            "artist": {
+              "id": "IW6W86EF",
+              "name": "Huy Vạc",
+              "link": "/nghe-si/Huy-Vac",
+              "spotlight": false,
+              "cover": "https://zmp3-static.zadn.vn/skins/zmp3-v5.2/images/default_cover.png",
+              "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/b/1/3/7/b13722c8f802e9535ea0cacc09236e84.jpg",
+              "playlistId": "Z6BOEE77"
+            }
+          },
+          {
+            "encodeId": "ZOZ0WD80",
+            "title": "Đom Đóm",
+            "alias": "Dom-Dom-Jack",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Jack",
+            "artists": [
+              {
+                "id": "IW6WCI7U",
+                "name": "Jack",
+                "link": "/nghe-si/Trinh-Tran-Phuong-Tuan",
+                "spotlight": false
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/e/9/8/fe9875941d98fbbcb8aedc8960ccbc94.jpg",
+            "link": "/bai-hat/Dom-Dom-Jack/ZOZ0WD80.html",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/e/9/8/fe9875941d98fbbcb8aedc8960ccbc94.jpg",
+            "duration": 325,
+            "isZMA": false,
+            "zingChoise": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1608988200,
+            "mvlink": "/video-clip/Dom-Dom-Jack/ZOZ0WD80.html",
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true,
+            "rakingStatus": 0,
+            "score": 11954,
+            "totalTopZing": 0,
+            "artist": {
+              "id": "IW6WCI7U",
+              "name": "Jack",
+              "link": "/nghe-si/Trinh-Tran-Phuong-Tuan",
+              "spotlight": false,
+              "cover": "https://photo-zmp3.zadn.vn/cover_artist/2/c/0/0/2c007482930d267b813e0d29879a10f4.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/7/e/9/c7e9586f5e9720d1a38bd187409117a3.jpg"
+            }
+          },
+          {
+            "encodeId": "ZOZA0U99",
+            "title": "Không Muốn Yêu Lại Càng Say Đắm",
+            "alias": "Khong-Muon-Yeu-Lai-Cang-Say-Dam-Mr-Siro",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Mr Siro",
+            "artists": [
+              {
+                "id": "IWZ98609",
+                "name": "Mr Siro",
+                "link": "/nghe-si/Mr-Siro",
+                "spotlight": true
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/5/4/2/554266220e2c71a9aca8ebdf2fc4d9e2.jpg",
+            "link": "/bai-hat/Khong-Muon-Yeu-Lai-Cang-Say-Dam-Mr-Siro/ZOZA0U99.html",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/5/4/2/554266220e2c71a9aca8ebdf2fc4d9e2.jpg",
+            "duration": 331,
+            "isZMA": false,
+            "zingChoise": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1609502400,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true,
+            "rakingStatus": 0,
+            "score": 10145,
+            "totalTopZing": 0,
+            "artist": {
+              "id": "IWZ98609",
+              "name": "Mr Siro",
+              "link": "/nghe-si/Mr-Siro",
+              "spotlight": true,
+              "cover": "https://photo-zmp3.zadn.vn/cover_artist/a/6/2/1/a62188a5db16a4ce31c80fd5420edb92.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/1/1/2/e1120261421cfec7513423222b0ca94c.jpg",
+              "playlistId": "Z6BUID88"
+            }
+          },
+          {
+            "encodeId": "ZO6CWUFO",
+            "title": "Anh Luôn Là Lý Do",
+            "alias": "Anh-Luon-La-Ly-Do-ERIK",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "ERIK",
+            "artists": [
+              {
+                "id": "IWZA6CIZ",
+                "name": "ERIK",
+                "link": "/nghe-si/ERIK",
+                "spotlight": true
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/3/d/f/e/3dfe74e8dc17027b17e1626414523049.jpg",
+            "link": "/bai-hat/Anh-Luon-La-Ly-Do-ERIK/ZO6CWUFO.html",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/d/f/e/3dfe74e8dc17027b17e1626414523049.jpg",
+            "duration": 222,
+            "isZMA": false,
+            "zingChoise": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1610539200,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true,
+            "rakingStatus": 0,
+            "score": 9435,
+            "totalTopZing": 0,
+            "artist": {
+              "id": "IWZA6CIZ",
+              "name": "ERIK",
+              "link": "/nghe-si/ERIK",
+              "spotlight": true,
+              "cover": "https://photo-zmp3.zadn.vn/cover_artist/4/0/a/9/40a932ce3c9aa9eebedb537aa6201b37.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/c/3/1/1c316ca8b1bc893664e10bc908258420.jpg"
+            }
+          },
+          {
+            "encodeId": "ZOOI7Z87",
+            "title": "Chiều Thu Họa Bóng Nàng",
+            "alias": "Chieu-Thu-Hoa-Bong-Nang-DatKaa",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "DatKaa",
+            "artists": [
+              {
+                "id": "IW6ZBOW8",
+                "name": "DatKaa",
+                "link": "/nghe-si/DatKaa",
+                "spotlight": false
+              }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/c/0/4/7/c047c4e29dbeda34deacbe2d8dbb71dc.jpg",
+            "link": "/bai-hat/Chieu-Thu-Hoa-Bong-Nang-DatKaa/ZOOI7Z87.html",
+            "thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/0/4/7/c047c4e29dbeda34deacbe2d8dbb71dc.jpg",
+            "duration": 267,
+            "isZMA": false,
+            "zingChoise": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1607864400,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true,
+            "rakingStatus": 0,
+            "score": 7309,
+            "totalTopZing": 0,
+            "artist": {
+              "id": "IW6ZBOW8",
+              "name": "DatKaa",
+              "link": "/nghe-si/DatKaa",
+              "spotlight": false,
+              "cover": "https://zmp3-static.zadn.vn/skins/zmp3-v5.2/images/default_cover.png",
+              "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/9/6/0/f9607b88c70f63f133aca52353c2ef9d.jpg"
+            }
+          }
+        ],
+        "chart": {
+          "times": [
+            {
+              "hour": "12"
+            },
+            {
+              "hour": "13"
+            },
+            {
+              "hour": "14"
+            },
+            {
+              "hour": "15"
+            },
+            {
+              "hour": "16"
+            },
+            {
+              "hour": "17"
+            },
+            {
+              "hour": "18"
+            },
+            {
+              "hour": "19"
+            },
+            {
+              "hour": "20"
+            },
+            {
+              "hour": "21"
+            },
+            {
+              "hour": "22"
+            },
+            {
+              "hour": "23"
+            },
+            {
+              "hour": "00"
+            },
+            {
+              "hour": "01"
+            },
+            {
+              "hour": "02"
+            },
+            {
+              "hour": "03"
+            },
+            {
+              "hour": "04"
+            },
+            {
+              "hour": "05"
+            },
+            {
+              "hour": "06"
+            },
+            {
+              "hour": "07"
+            },
+            {
+              "hour": "08"
+            },
+            {
+              "hour": "09"
+            },
+            {
+              "hour": "10"
+            },
+            {
+              "hour": "11"
+            }
+          ],
+          "minScore": 0,
+          "maxScore": 19760.4,
+          "items": {
+            "ZO6FCU8E": [
+              {
+                "time": 1611032400000,
+                "hour": "12",
+                "counter": 5838
+              },
+              {
+                "time": 1611036000000,
+                "hour": "13",
+                "counter": 6863
+              },
+              {
+                "time": 1611039600000,
+                "hour": "14",
+                "counter": 7606
+              },
+              {
+                "time": 1611043200000,
+                "hour": "15",
+                "counter": 6326
+              },
+              {
+                "time": 1611046800000,
+                "hour": "16",
+                "counter": 6058
+              },
+              {
+                "time": 1611050400000,
+                "hour": "17",
+                "counter": 6097
+              },
+              {
+                "time": 1611054000000,
+                "hour": "18",
+                "counter": 6912
+              },
+              {
+                "time": 1611057600000,
+                "hour": "19",
+                "counter": 7972
+              },
+              {
+                "time": 1611061200000,
+                "hour": "20",
+                "counter": 7059
+              },
+              {
+                "time": 1611064800000,
+                "hour": "21",
+                "counter": 7831
+              },
+              {
+                "time": 1611068400000,
+                "hour": "22",
+                "counter": 9695
+              },
+              {
+                "time": 1611072000000,
+                "hour": "23",
+                "counter": 10572
+              },
+              {
+                "time": 1611075600000,
+                "hour": "00",
+                "counter": 10562
+              },
+              {
+                "time": 1611079200000,
+                "hour": "01",
+                "counter": 7841
+              },
+              {
+                "time": 1611082800000,
+                "hour": "02",
+                "counter": 4704
+              },
+              {
+                "time": 1611086400000,
+                "hour": "03",
+                "counter": 3122
+              },
+              {
+                "time": 1611090000000,
+                "hour": "04",
+                "counter": 2521
+              },
+              {
+                "time": 1611093600000,
+                "hour": "05",
+                "counter": 2273
+              },
+              {
+                "time": 1611097200000,
+                "hour": "06",
+                "counter": 3522
+              },
+              {
+                "time": 1611100800000,
+                "hour": "07",
+                "counter": 10438
+              },
+              {
+                "time": 1611104400000,
+                "hour": "08",
+                "counter": 15019
+              },
+              {
+                "time": 1611108000000,
+                "hour": "09",
+                "counter": 15529
+              },
+              {
+                "time": 1611111600000,
+                "hour": "10",
+                "counter": 14919
+              },
+              {
+                "time": 1611115200000,
+                "hour": "11",
+                "counter": 14666
+              }
+            ],
+            "ZOZ0WD80": [
+              {
+                "time": 1611032400000,
+                "hour": "12",
+                "counter": 11940
+              },
+              {
+                "time": 1611036000000,
+                "hour": "13",
+                "counter": 15209
+              },
+              {
+                "time": 1611039600000,
+                "hour": "14",
+                "counter": 15065
+              },
+              {
+                "time": 1611043200000,
+                "hour": "15",
+                "counter": 13371
+              },
+              {
+                "time": 1611046800000,
+                "hour": "16",
+                "counter": 12321
+              },
+              {
+                "time": 1611050400000,
+                "hour": "17",
+                "counter": 12644
+              },
+              {
+                "time": 1611054000000,
+                "hour": "18",
+                "counter": 14519
+              },
+              {
+                "time": 1611057600000,
+                "hour": "19",
+                "counter": 15801
+              },
+              {
+                "time": 1611061200000,
+                "hour": "20",
+                "counter": 14499
+              },
+              {
+                "time": 1611064800000,
+                "hour": "21",
+                "counter": 14365
+              },
+              {
+                "time": 1611068400000,
+                "hour": "22",
+                "counter": 15010
+              },
+              {
+                "time": 1611072000000,
+                "hour": "23",
+                "counter": 16467
+              },
+              {
+                "time": 1611075600000,
+                "hour": "00",
+                "counter": 15746
+              },
+              {
+                "time": 1611079200000,
+                "hour": "01",
+                "counter": 12145
+              },
+              {
+                "time": 1611082800000,
+                "hour": "02",
+                "counter": 7992
+              },
+              {
+                "time": 1611086400000,
+                "hour": "03",
+                "counter": 5586
+              },
+              {
+                "time": 1611090000000,
+                "hour": "04",
+                "counter": 4564
+              },
+              {
+                "time": 1611093600000,
+                "hour": "05",
+                "counter": 4172
+              },
+              {
+                "time": 1611097200000,
+                "hour": "06",
+                "counter": 5471
+              },
+              {
+                "time": 1611100800000,
+                "hour": "07",
+                "counter": 11145
+              },
+              {
+                "time": 1611104400000,
+                "hour": "08",
+                "counter": 12021
+              },
+              {
+                "time": 1611108000000,
+                "hour": "09",
+                "counter": 11892
+              },
+              {
+                "time": 1611111600000,
+                "hour": "10",
+                "counter": 12402
+              },
+              {
+                "time": 1611115200000,
+                "hour": "11",
+                "counter": 12365
+              }
+            ],
+            "ZOZA0U99": [
+              {
+                "time": 1611032400000,
+                "hour": "12",
+                "counter": 10830
+              },
+              {
+                "time": 1611036000000,
+                "hour": "13",
+                "counter": 12838
+              },
+              {
+                "time": 1611039600000,
+                "hour": "14",
+                "counter": 12652
+              },
+              {
+                "time": 1611043200000,
+                "hour": "15",
+                "counter": 11273
+              },
+              {
+                "time": 1611046800000,
+                "hour": "16",
+                "counter": 10943
+              },
+              {
+                "time": 1611050400000,
+                "hour": "17",
+                "counter": 11256
+              },
+              {
+                "time": 1611054000000,
+                "hour": "18",
+                "counter": 12429
+              },
+              {
+                "time": 1611057600000,
+                "hour": "19",
+                "counter": 13148
+              },
+              {
+                "time": 1611061200000,
+                "hour": "20",
+                "counter": 11573
+              },
+              {
+                "time": 1611064800000,
+                "hour": "21",
+                "counter": 11394
+              },
+              {
+                "time": 1611068400000,
+                "hour": "22",
+                "counter": 11849
+              },
+              {
+                "time": 1611072000000,
+                "hour": "23",
+                "counter": 13199
+              },
+              {
+                "time": 1611075600000,
+                "hour": "00",
+                "counter": 12499
+              },
+              {
+                "time": 1611079200000,
+                "hour": "01",
+                "counter": 10083
+              },
+              {
+                "time": 1611082800000,
+                "hour": "02",
+                "counter": 6884
+              },
+              {
+                "time": 1611086400000,
+                "hour": "03",
+                "counter": 4812
+              },
+              {
+                "time": 1611090000000,
+                "hour": "04",
+                "counter": 3459
+              },
+              {
+                "time": 1611093600000,
+                "hour": "05",
+                "counter": 3131
+              },
+              {
+                "time": 1611097200000,
+                "hour": "06",
+                "counter": 4503
+              },
+              {
+                "time": 1611100800000,
+                "hour": "07",
+                "counter": 8900
+              },
+              {
+                "time": 1611104400000,
+                "hour": "08",
+                "counter": 10877
+              },
+              {
+                "time": 1611108000000,
+                "hour": "09",
+                "counter": 10821
+              },
+              {
+                "time": 1611111600000,
+                "hour": "10",
+                "counter": 10896
+              },
+              {
+                "time": 1611115200000,
+                "hour": "11",
+                "counter": 10698
+              }
+            ]
+          },
+          "totalScore": 36761
+        },
+        "chartType": "song",
+        "sectionType": "RTChart",
+        "sectionId": "hZC"
+      },
+      {
+        "items": [
+          {
+            "banner": "https://zmp3-static.zadn.vn/skins/zmp3-v5.2/images/chart-song-vn.png",
+            "cover": "https://zmp3-static.zadn.vn/skins/zmp3-v5.2/images/song-vn-2x.jpg",
+            "country": "vn",
+            "type": "song",
+            "group": [
+              {
+                "id": 1,
+                "name": "Bài hát",
+                "type": "song",
+                "link": "/zing-chart-tuan/Bai-hat-Viet-Nam/IWZ9Z08I.html"
+              },
+              {
+                "id": 2,
+                "name": "MV",
+                "type": "video",
+                "link": "/zing-chart-tuan/MV-Viet-Nam/IWZ9Z08W.html"
+              }
+            ],
+            "link": "/zing-chart-tuan/Bai-hat-Viet-Nam/IWZ9Z08I.html",
+            "startDate": "01/01",
+            "endDate": "07/01"
+          },
+          {
+            "banner": "https://zmp3-static.zadn.vn/skins/zmp3-v5.2/images/chart-song-us.png",
+            "cover": "https://zmp3-static.zadn.vn/skins/zmp3-v5.2/images/web_song_usuk.jpg",
+            "country": "us",
+            "type": "song",
+            "group": [
+              {
+                "id": 50,
+                "name": "Bài hát",
+                "type": "song",
+                "link": "/zing-chart-tuan/Bai-hat-US-UK/IWZ9Z0BW.html"
+              },
+              {
+                "id": 52,
+                "name": "MV",
+                "type": "video",
+                "link": "/zing-chart-tuan/MV-US-UK/IWZ9Z0BU.html"
+              }
+            ],
+            "link": "/zing-chart-tuan/Bai-hat-US-UK/IWZ9Z0BW.html",
+            "startDate": "01/01",
+            "endDate": "07/01"
+          },
+          {
+            "banner": "https://zmp3-static.zadn.vn/skins/zmp3-v5.2/images/chart-song-kpop.png",
+            "cover": "https://zmp3-static.zadn.vn/skins/zmp3-v5.2/images/web_song_kpop.jpg",
+            "country": "korea",
+            "type": "song",
+            "group": [
+              {
+                "id": 51,
+                "name": "Bài hát",
+                "type": "song",
+                "link": "/zing-chart-tuan/Bai-hat-KPop/IWZ9Z0BO.html"
+              },
+              {
+                "id": 53,
+                "name": "MV",
+                "type": "video",
+                "link": "/zing-chart-tuan/MV-KPop/IWZ9Z0BZ.html"
+              }
+            ],
+            "link": "/zing-chart-tuan/Bai-hat-KPop/IWZ9Z0BO.html",
+            "startDate": "01/01",
+            "endDate": "07/01"
+          }
+        ],
+        "sectionType": "weekChart"
+      }
+    ],
+    "hasMore": true,
+    "total": 20
+  },
+  "timestamp": 1611117308741
+}

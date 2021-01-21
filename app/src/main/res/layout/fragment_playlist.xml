@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <androidx.core.widget.NestedScrollView
+        android:id="@+id/nestedScrollView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:overScrollMode="never">
@@ -18,7 +19,7 @@
                 android:layout_width="@dimen/dp_52"
                 android:layout_height="@dimen/dp_52"
                 android:layout_marginStart="@dimen/dp_12"
-                android:background="@drawable/bg_rect_primary_4"
+                android:background="@drawable/bg_rect_primary_radius_4"
                 android:padding="@dimen/dp_12"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
