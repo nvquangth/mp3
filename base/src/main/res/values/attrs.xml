@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularProgressView">
+        <attr name="cpDuration" format="integer" />
+        <attr name="cpReverse" format="boolean" />
+        <attr name="cpColors" format="string" />
+        <attr name="cpStroke" format="integer" />
+    </declare-styleable>
+</resources>

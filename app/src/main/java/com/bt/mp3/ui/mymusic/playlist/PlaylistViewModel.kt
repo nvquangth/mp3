@@ -20,18 +20,19 @@ class PlaylistViewModel @ViewModelInject constructor(
     @DefaultDispatcher private val defaultDispatcher: CoroutineDispatcher
 ) : BaseViewModel() {
 
-    private val _playlistId = MutableLiveData<String>()
+    private val _playlistId = MutableLiveData<String>("ZWZB969E")
     val playlistId: LiveData<String>
         get() = _playlistId
 
     val playlistsResult: LiveData<Result<List<SongItem>>> = _playlistId.switchMap {
-        liveData(defaultDispatcher) {
+        liveData<Result<List<SongItem>>>(defaultDispatcher) {
             runCatching {
-                emit(Result.Loading)
+                setLoadingAsync(true)
                 getSuggestionPlaylistUseCase.execute(GetSuggestionPlaylistUseCase.Param(playlistId = it)).map {
                     playlistItemMapper.mapToPresentation(it)
                 }.run {
                     emit(Result.Success(this))
+                    setLoadingAsync(false)
                 }
             }.getOrElse {
                 setExceptionAsync(it.mapToCleanException())

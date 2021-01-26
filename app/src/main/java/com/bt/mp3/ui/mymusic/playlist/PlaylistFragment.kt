@@ -40,8 +40,6 @@ class PlaylistFragment : BaseFragment<FragmentPlaylistBinding, PlaylistViewModel
                     }
                 }
             }
-
-            setPlaylistId("ZWZB969E")
         }
     }
 }

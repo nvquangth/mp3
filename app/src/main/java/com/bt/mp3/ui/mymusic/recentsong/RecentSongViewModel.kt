@@ -20,13 +20,14 @@ class RecentSongViewModel @ViewModelInject constructor(
 ) : BaseViewModel() {
 
     private val _recentSongs = MutableLiveData<List<SongItem>>()
-    val recentSongsResult: LiveData<Result<List<SongItem>>> = liveData(defaultDispatcher) {
+    val recentSongsResult: LiveData<Result<List<SongItem>>> = liveData<Result<List<SongItem>>>(defaultDispatcher) {
         runCatching {
-            emit(Result.Loading)
+            setLoadingAsync(true)
             getRecentSongUseCase.execute().map {
                 songItemMapper.mapToPresentation(it)
             }.run {
                 emit(Result.Success(this))
+                setLoadingAsync(false)
             }
         }.getOrElse {
             setExceptionAsync(it.mapToCleanException())

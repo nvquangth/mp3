@@ -132,11 +132,14 @@ class DiscoverViewModel @ViewModelInject constructor(
                 _sectionVideoLoaded.postValue(false)
                 _sectionSongLoaded.postValue(false)
 
-                emit(Result.Loading)
+                setLoadingAsync(true)
                 getHomePageUseCase.execute(GetHomePageUseCase.Param(pageNumber = it)).let {
                     homePageItemMapper.mapToPresentation(it)
-                }.run {
-                    emit(Result.Success(this))
+                }.let {
+                    emit(Result.Success(it))
+                    if (it.hasMore == false) {
+                        setLoadingAsync(false)
+                    }
                 }
             }.getOrElse {
                 setExceptionAsync(it.mapToCleanException())
