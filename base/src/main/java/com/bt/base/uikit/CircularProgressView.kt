@@ -28,7 +28,7 @@ class CircularProgressView @JvmOverloads constructor(
         val hexColors = arrayListOf("#FF4081", "#27A1D8", "#4DA945", "#F37D25")
         const val MAX_PART = 10
         const val MIN_PART = 2
-        const val DURATION_DEFAULT = 1000
+        const val DURATION_DEFAULT = 800
         const val STROKE_DEFAULT = 3F
         const val MIN_WIDTH = 36F
         const val HEX_COLOR_PATTERN = "^#([a-fA-F0-9]{6}|[a-fA-F0-9]{3})\$"

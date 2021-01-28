@@ -41,6 +41,11 @@
     <dimen name="dp_184">184dp</dimen>
     <dimen name="dp_192">192dp</dimen>
     <dimen name="dp_200">200dp</dimen>
+    <dimen name="dp_208">208dp</dimen>
+    <dimen name="dp_216">216dp</dimen>
+    <dimen name="dp_224">224dp</dimen>
+    <dimen name="dp_232">232dp</dimen>
+    <dimen name="dp_248">248dp</dimen>
     <dimen name="dp_256">256dp</dimen>
     <dimen name="dp_264">264dp</dimen>
     <dimen name="dp_272">272dp</dimen>
