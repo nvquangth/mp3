@@ -13,7 +13,7 @@ data class ChartItem(
     val maxScore: Float? = null,
     val totalScore: Long? = null,
     val times: List<TimeItem>? = null,
-    val items: Map<String, CounterItem>? = null
+    val items: Map<String, List<CounterItem>>? = null
 ) : ModelItem(), Parcelable
 
 class ChartItemMapper @Inject constructor(
@@ -25,7 +25,7 @@ class ChartItemMapper @Inject constructor(
         maxScore = model.maxScore,
         totalScore = model.totalScore,
         times = model.times?.map { timeItemMapper.mapToPresentation(it) },
-        items = model.items?.mapValues { counterItemMapper.mapToPresentation(it.value) }
+        items = model.items?.mapValues { it.value.map { counterItemMapper.mapToPresentation(it) } }
     )
 
     override fun mapToDomain(item: ChartItem): Chart = Chart(
@@ -33,6 +33,6 @@ class ChartItemMapper @Inject constructor(
         maxScore = item.maxScore,
         totalScore = item.totalScore,
         times = item.times?.map { timeItemMapper.mapToDomain(it) },
-        items = item.items?.mapValues { counterItemMapper.mapToDomain(it.value) }
+        items = item.items?.mapValues { it.value.map { counterItemMapper.mapToDomain(it) } }
     )
 }

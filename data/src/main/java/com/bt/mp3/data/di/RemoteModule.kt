@@ -3,10 +3,12 @@ package com.bt.mp3.data.di
 import com.bt.mp3.data.BuildConfig
 import com.bt.mp3.data.mock.network.HomeApiMock
 import com.bt.mp3.data.mock.network.PlaylistApiMock
+import com.bt.mp3.data.mock.network.SectionApiMock
 import com.bt.mp3.data.mock.network.SongApiMock
 import com.bt.mp3.data.network.HomeApi
 import com.bt.mp3.data.network.PlaylistApi
 import com.bt.mp3.data.network.RetrofitBuilder
+import com.bt.mp3.data.network.SectionApi
 import com.bt.mp3.data.network.SongApi
 import dagger.Module
 import dagger.Provides
@@ -48,5 +50,14 @@ object RemoteModule {
             HomeApiMock()
         } else {
             retrofit.create(HomeApi::class.java)
+        }
+
+    @Singleton
+    @Provides
+    fun provideSectionApi(retrofit: Retrofit): SectionApi =
+        if (BuildConfig.DEBUG) {
+            SectionApiMock()
+        } else {
+            retrofit.create(SectionApi::class.java)
         }
 }

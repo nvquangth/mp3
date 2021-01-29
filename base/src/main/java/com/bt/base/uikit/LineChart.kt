@@ -53,6 +53,8 @@ class LineChart @JvmOverloads constructor(
     override fun onDraw(canvas: Canvas?) {
         super.onDraw(canvas)
 
+        if (datas.isEmpty()) return
+
         unitX = (width - radiusDot * 2 - strokeDot * 2) / maxX
         unitY = (height - radiusDot * 2 - strokeDot * 2) / maxY
 

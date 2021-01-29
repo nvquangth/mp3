@@ -5,6 +5,7 @@ import com.bt.base.model.ItemMapper
 import com.bt.base.model.ModelItem
 import com.bt.mp3.entity.Counter
 import kotlinx.android.parcel.Parcelize
+import javax.inject.Inject
 
 @Parcelize
 data class CounterItem(
@@ -13,7 +14,7 @@ data class CounterItem(
     val counter: Long? = null
 ) : ModelItem(), Parcelable
 
-class CounterItemMapper : ItemMapper<Counter, CounterItem> {
+class CounterItemMapper @Inject constructor() : ItemMapper<Counter, CounterItem> {
     override fun mapToPresentation(model: Counter): CounterItem = CounterItem(
         time = model.time,
         hour = model.hour,

@@ -5,5 +5,5 @@ data class Chart(
     val maxScore: Float? = null,
     val totalScore: Long? = null,
     val times: List<Time>? = null,
-    val items: Map<String, Counter>? = null
+    val items: Map<String, List<Counter>>? = null
 ) : Model()

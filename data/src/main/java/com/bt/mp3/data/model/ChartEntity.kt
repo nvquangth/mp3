@@ -10,7 +10,7 @@ data class ChartEntity(
     val maxScore: Float? = null,
     val totalScore: Long? = null,
     val times: List<TimeEntity>? = null,
-    val items: Map<String, CounterEntity>? = null
+    val items: Map<String, List<CounterEntity>>? = null
 ) : ModelEntity()
 
 class ChartEntityMapper @Inject constructor(
@@ -22,7 +22,7 @@ class ChartEntityMapper @Inject constructor(
         maxScore = model.maxScore,
         totalScore = model.totalScore,
         times = model.times?.map { timeEntityMapper.mapToData(it) },
-        items = model.items?.mapValues { counterEntityMapper.mapToData(it.value) }
+        items = model.items?.mapValues { it.value.map { counterEntityMapper.mapToData(it) } }
     )
 
     override fun mapToDomain(entity: ChartEntity): Chart = Chart(
@@ -30,6 +30,6 @@ class ChartEntityMapper @Inject constructor(
         maxScore = entity.maxScore,
         totalScore = entity.totalScore,
         times = entity.times?.map { timeEntityMapper.mapToDomain(it) },
-        items = entity.items?.mapValues { counterEntityMapper.mapToDomain(it.value) }
+        items = entity.items?.mapValues { it.value.map { counterEntityMapper.mapToDomain(it) } }
     )
 }
