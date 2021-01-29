@@ -10,6 +10,7 @@ import com.bt.mp3.data.extension.mapToCleanException
 import com.bt.mp3.domain.usecase.GetSectionUseCase
 import com.bt.mp3.model.SectionItem
 import com.bt.mp3.model.SectionItemMapper
+import com.bt.mp3.model.SongItem
 import kotlinx.coroutines.CoroutineDispatcher
 
 class ChartViewModel @ViewModelInject constructor(
@@ -55,6 +56,16 @@ class ChartViewModel @ViewModelInject constructor(
             }.getOrElse {
                 it.printStackTrace()
                 setExceptionAsync(it.mapToCleanException())
+            }
+        }
+    }
+
+    val songs: LiveData<List<SongItem>> = _sectionChart.switchMap {
+        liveData(defaultDispatcher) {
+            runCatching {
+                it.items?.let {
+                    emit(it)
+                }
             }
         }
     }
