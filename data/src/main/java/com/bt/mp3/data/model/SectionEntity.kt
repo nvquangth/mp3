@@ -11,11 +11,14 @@ data class SectionEntity(
     val sectionId: String? = null,
     val sectionType: String? = null,
     val title: String? = null,
-    val viewType: String? = null
+    val viewType: String? = null,
+    val chart: ChartEntity? = null,
+    val chartType: String? = null
 ) : ModelEntity()
 
 class SectionEntityMapper @Inject constructor(
-    private val songEntityMapper: SongEntityMapper
+    private val songEntityMapper: SongEntityMapper,
+    private val chartEntityMapper: ChartEntityMapper
 ) : EntityMapper<Section, SectionEntity> {
     override fun mapToData(model: Section): SectionEntity = SectionEntity(
         items = model.items?.map { songEntityMapper.mapToData(it) },
@@ -23,7 +26,9 @@ class SectionEntityMapper @Inject constructor(
         sectionId = model.sectionId,
         sectionType = model.sectionType,
         title = model.title,
-        viewType = model.viewType
+        viewType = model.viewType,
+        chart = model.chart?.let { chartEntityMapper.mapToData(it) },
+        chartType = model.chartType
     )
 
     override fun mapToDomain(entity: SectionEntity): Section = Section(
@@ -32,6 +37,8 @@ class SectionEntityMapper @Inject constructor(
         sectionId = entity.sectionId,
         sectionType = entity.sectionType,
         title = entity.title,
-        viewType = entity.viewType
+        viewType = entity.viewType,
+        chart = entity.chart?.let { chartEntityMapper.mapToDomain(it) },
+        chartType = entity.chartType
     )
 }

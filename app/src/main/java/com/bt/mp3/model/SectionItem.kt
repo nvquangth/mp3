@@ -14,7 +14,9 @@ data class SectionItem(
     val sectionId: String? = null,
     val sectionType: String? = null,
     val title: String? = null,
-    val viewType: String? = null
+    val viewType: String? = null,
+    val chart: ChartItem? = null,
+    val chartType: String? = null
 ) : ModelItem(), Parcelable {
 
     companion object {
@@ -52,7 +54,8 @@ data class SectionItem(
 }
 
 class SectionItemMapper @Inject constructor(
-    private val songItemMapper: SongItemMapper
+    private val songItemMapper: SongItemMapper,
+    private val chartItemMapper: ChartItemMapper
 ) : ItemMapper<Section, SectionItem> {
     override fun mapToPresentation(model: Section): SectionItem = SectionItem(
         items = model.items?.map { songItemMapper.mapToPresentation(it) },
@@ -60,7 +63,9 @@ class SectionItemMapper @Inject constructor(
         sectionId = model.sectionId,
         sectionType = model.sectionType,
         title = model.title,
-        viewType = model.viewType
+        viewType = model.viewType,
+        chart = model.chart?.let { chartItemMapper.mapToPresentation(it) },
+        chartType = model.chartType
     )
 
     override fun mapToDomain(item: SectionItem): Section = Section(
@@ -69,6 +74,8 @@ class SectionItemMapper @Inject constructor(
         sectionId = item.sectionId,
         sectionType = item.sectionType,
         title = item.title,
-        viewType = item.viewType
+        viewType = item.viewType,
+        chart = item.chart?.let { chartItemMapper.mapToDomain(it) },
+        chartType = item.chartType
     )
 }

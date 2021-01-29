@@ -6,5 +6,7 @@ data class Section(
     val sectionId: String? = null,
     val sectionType: String? = null,
     val title: String? = null,
-    val viewType: String? = null
+    val viewType: String? = null,
+    val chart: Chart? = null,
+    val chartType: String? = null
 ) : Model()
