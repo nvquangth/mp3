@@ -12,64 +12,65 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="?android:attr/selectableItemBackground"
-        android:paddingTop="@dimen/dp_8"
-        android:paddingBottom="@dimen/dp_8">
+        android:layout_height="@dimen/item_song_height"
+        android:background="?attr/selectableItemBackground">
 
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/imagePlaylist"
             bindingImageRadius="@{4}"
             bindingImageUrl="@{item.thumbnailM}"
-            android:layout_width="@dimen/dp_52"
-            android:layout_height="@dimen/dp_52"
-            android:layout_marginStart="@dimen/dp_12"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="@dimen/item_song_thumbnail_margin_start"
+            android:layout_marginTop="@dimen/item_song_thumbnail_margin_top"
+            android:layout_marginBottom="@dimen/item_song_thumbnail_margin_bottom"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintDimensionRatio="1:1"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
         <androidx.appcompat.widget.AppCompatImageView
-            android:id="@+id/imageFavorite"
+            android:id="@+id/imageMore"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:background="?attr/actionBarItemBackground"
-            android:padding="@dimen/dp_16"
-            android:tint="?colorOnBackground"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:padding="@dimen/item_song_icon_padding"
+            android:tint="?colorSurface"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintDimensionRatio="1:1"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/ic_favorite" />
+            app:srcCompat="@drawable/ic_more_vertical" />
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/title"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/dp_8"
-            android:layout_marginEnd="@dimen/dp_8"
             android:ellipsize="end"
             android:maxLines="2"
             android:text="@{item.title}"
-            android:textColor="?colorOnBackground"
+            android:textColor="?colorSurface"
             android:textSize="@dimen/sp_13"
             app:layout_constraintBottom_toTopOf="@+id/textPublisher"
-            app:layout_constraintEnd_toStartOf="@+id/imageFavorite"
+            app:layout_constraintEnd_toStartOf="@+id/imageMore"
             app:layout_constraintStart_toEndOf="@+id/imagePlaylist"
-            app:layout_constraintTop_toTopOf="@+id/imageFavorite"
+            app:layout_constraintTop_toTopOf="@+id/imageMore"
             app:layout_constraintVertical_chainStyle="packed"
             tools:text="Ca Khúc Dance/Electonic Được Yêu Thích #ZMA2020" />
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/textPublisher"
+            bindingArtistName="@{item}"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/dp_8"
-            android:layout_marginEnd="@dimen/dp_8"
             android:ellipsize="end"
             android:maxLines="1"
-            bindingArtistName="@{item}"
             android:textSize="@dimen/sp_12"
-            app:layout_constraintBottom_toBottomOf="@+id/imageFavorite"
-            app:layout_constraintEnd_toStartOf="@+id/imageFavorite"
+            android:textColor="?attr/colorOnPrimarySurface"
+            app:layout_constraintBottom_toBottomOf="@+id/imageMore"
+            app:layout_constraintEnd_toStartOf="@+id/imageMore"
             app:layout_constraintStart_toEndOf="@+id/imagePlaylist"
             app:layout_constraintTop_toBottomOf="@+id/title"
             tools:text="Zing MP3" />

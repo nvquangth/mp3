@@ -34,4 +34,9 @@
     <style name="ShapeAppearance.MyTheme.LargeComponent" parent="ShapeAppearance.MaterialComponents.LargeComponent">
         <!--Your custom shape here-->
     </style>
+
+    <style name="ShapeAppearanceOverlay.MyTheme.Button.Circle" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
 </resources>

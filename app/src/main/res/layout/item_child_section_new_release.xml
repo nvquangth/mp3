@@ -12,7 +12,8 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="@dimen/dp_328"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackground">
 
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/imageThumbnail"

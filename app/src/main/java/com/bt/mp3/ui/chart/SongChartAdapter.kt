@@ -15,4 +15,14 @@ class SongChartAdapter : BaseRecyclerAdapter<SongItem, ItemSongChartBinding>(
 ) {
 
     override fun getLayoutRes(viewType: Int): Int = R.layout.item_song_chart
+
+    override fun bindFirstTime(binding: ItemSongChartBinding) {
+        binding.apply {
+            root.setOnClickListener {
+            }
+
+            imageMore.setOnClickListener {
+            }
+        }
+    }
 }

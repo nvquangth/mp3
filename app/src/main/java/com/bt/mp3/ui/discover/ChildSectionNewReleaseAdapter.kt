@@ -17,6 +17,13 @@ class ChildSectionNewReleaseAdapter : BaseRecyclerAdapter<SongItem, ItemChildSec
 
     override fun getLayoutRes(viewType: Int): Int = R.layout.item_child_section_new_release
 
+    override fun bindFirstTime(binding: ItemChildSectionNewReleaseBinding) {
+        binding.apply {
+            root.setOnClickListener {
+            }
+        }
+    }
+
     @SuppressLint("SetTextI18n")
     override fun bindView(binding: ItemChildSectionNewReleaseBinding, item: SongItem, position: Int) {
         binding.apply {

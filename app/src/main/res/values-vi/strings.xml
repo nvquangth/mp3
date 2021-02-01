@@ -26,4 +26,7 @@
     <string name="top_10">Top 10</string>
     <string name="top_50">Top 50</string>
     <string name="top_100">Top 100</string>
+
+    <!--  Chart  -->
+    <string name="view_more">Xem thêm</string>
 </resources>

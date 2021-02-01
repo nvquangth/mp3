@@ -44,12 +44,10 @@ class ChartViewModel @ViewModelInject constructor(
                 val result = arrayListOf<ArrayList<Pair<Long, Long>>>()
                 it.chart?.items?.values?.forEach {
                     val data = arrayListOf<Pair<Long, Long>>()
-                    if (it.size >= k) {
-                        it.takeLast(k).forEach {
-                            data.add(Pair(it.hour?.toLong() ?: 0L, it.counter ?: 0L))
-                        }
-                        result.add(data)
+                    it.take(k).forEach {
+                        data.add(Pair(it.hour?.toLong() ?: 0L, it.counter ?: 0L))
                     }
+                    result.add(data)
                 }
                 emit(result)
                 setLoadingAsync(false)
@@ -63,7 +61,7 @@ class ChartViewModel @ViewModelInject constructor(
     val songs: LiveData<List<SongItem>> = _sectionChart.switchMap {
         liveData(defaultDispatcher) {
             runCatching {
-                it.items?.let {
+                it.items?.take(k)?.let {
                     emit(it)
                 }
             }

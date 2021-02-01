@@ -12,18 +12,20 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="?android:attr/selectableItemBackground"
-        android:paddingTop="@dimen/dp_8"
-        android:paddingBottom="@dimen/dp_8">
+        android:layout_height="@dimen/item_song_height"
+        android:background="?android:attr/selectableItemBackground">
 
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/imageSong"
             bindingImageRadius="@{4}"
             bindingImageUrl="@{item.thumbnailM}"
-            android:layout_width="@dimen/dp_52"
-            android:layout_height="@dimen/dp_52"
-            android:layout_marginStart="@dimen/dp_12"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="@dimen/item_song_thumbnail_margin_start"
+            android:layout_marginTop="@dimen/item_song_thumbnail_margin_top"
+            android:layout_marginBottom="@dimen/item_song_thumbnail_margin_bottom"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintDimensionRatio="1:1"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 

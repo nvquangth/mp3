@@ -3,13 +3,15 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:elevation="0dp"
     app:cardCornerRadius="@dimen/dp_8">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content"
+        android:background="#231932"
+        android:paddingBottom="@dimen/dp_8">
 
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/imageBgChart"
@@ -47,7 +49,7 @@
                 android:id="@+id/imagePlay"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
-                android:background="?attr/actionBarItemBackground"
+                android:background="?android:attr/selectableItemBackgroundBorderless"
                 android:padding="@dimen/dp_12"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintDimensionRatio="1:1"
@@ -59,11 +61,11 @@
                 android:id="@+id/textCurrentTime"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:text="28.01.2021 - 15:00"
                 android:textColor="?attr/colorSurface"
                 app:layout_constraintBottom_toBottomOf="@+id/imagePlay"
                 app:layout_constraintEnd_toStartOf="@+id/imagePlay"
-                app:layout_constraintTop_toTopOf="@+id/imagePlay"
-                tools:text="28.01.2021 - 15:00" />
+                app:layout_constraintTop_toTopOf="@+id/imagePlay" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -83,12 +85,29 @@
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recyclerSong"
             android:layout_width="0dp"
-            android:layout_height="0dp"
+            android:layout_height="wrap_content"
+            android:overScrollMode="never"
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-            app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/imageBgChart"
+            tools:itemCount="5"
             tools:listitem="@layout/item_song_chart" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/buttonViewMore"
+            android:layout_width="@dimen/dp_128"
+            android:layout_height="@dimen/dp_32"
+            android:layout_marginTop="@dimen/dp_24"
+            android:insetLeft="0dp"
+            android:insetTop="0dp"
+            android:insetRight="0dp"
+            android:insetBottom="0dp"
+            android:text="@string/view_more"
+            android:textColor="?attr/colorSurface"
+            app:cornerRadius="@dimen/dp_20"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/recyclerSong" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </com.google.android.material.card.MaterialCardView>
