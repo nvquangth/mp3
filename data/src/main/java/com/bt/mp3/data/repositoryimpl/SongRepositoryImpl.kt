@@ -3,7 +3,7 @@ package com.bt.mp3.data.repositoryimpl
 import com.bt.mp3.data.extension.mapToCleanException
 import com.bt.mp3.data.model.SongEntityMapper
 import com.bt.mp3.data.model.StreamEntityMapper
-import com.bt.mp3.data.network.SongApi
+import com.bt.mp3.data.network.retrofit.SongApi
 import com.bt.mp3.domain.repository.SongRepository
 import com.bt.mp3.entity.Song
 import com.bt.mp3.entity.Stream

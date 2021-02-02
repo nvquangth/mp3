@@ -4,7 +4,7 @@ import com.bt.mp3.data.mock.factory.FileResourcesUtils
 import com.bt.mp3.data.model.SongEntity
 import com.bt.mp3.data.model.SongResponseEntity
 import com.bt.mp3.data.model.StreamResponseEntity
-import com.bt.mp3.data.network.SongApi
+import com.bt.mp3.data.network.retrofit.SongApi
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 

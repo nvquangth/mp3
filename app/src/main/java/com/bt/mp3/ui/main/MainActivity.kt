@@ -1,12 +1,14 @@
 package com.bt.mp3.ui.main
 
 import android.os.Bundle
+import android.util.Log
 import androidx.activity.viewModels
 import com.bt.base.ui.BaseActivity
 import com.bt.mp3.R
 import com.bt.mp3.databinding.ActivityMainBinding
 import com.bt.mp3.extension.setupWithNavControllerKeepState
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.zing.crypto.Crypto
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
@@ -24,6 +26,9 @@ class MainActivity : BaseActivity<ActivityMainBinding, MainViewModel>() {
         if (savedInstanceState == null) {
             setupBottomNav()
         }
+        System.loadLibrary("zcrypto")
+        Log.e("ducnguyen", Crypto.getPubKey2())
+        Log.e("ducnguyen", Crypto.getPubKey())
     }
 
     override fun onRestoreInstanceState(savedInstanceState: Bundle) {

@@ -233,6 +233,9 @@ dependencies {
 //    // ViewPager2
 //    implementation(Libs.viewPager2)
 
+    // SwipeRefreshLayout
+    implementation(Libs.swipeRefreshLayout)
+
     // Retrofit
     implementation(Libs.retrofit)
     implementation(Libs.retrofitGson)

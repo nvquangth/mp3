@@ -54,6 +54,9 @@ object Libs {
     // ViewPager2
     const val viewPager2 = "androidx.viewpager2:viewpager2:${Versions.viewPager2}"
 
+    // SwipeRefreshLayout
+    const val swipeRefreshLayout = "androidx.swiperefreshlayout:swiperefreshlayout:${Versions.swipeRefreshLayout}"
+
     // Retrofit
     const val retrofit      = "com.squareup.retrofit2:retrofit:${Versions.retrofit}"
     const val retrofitGson  = "com.squareup.retrofit2:converter-gson:${Versions.retrofit}"

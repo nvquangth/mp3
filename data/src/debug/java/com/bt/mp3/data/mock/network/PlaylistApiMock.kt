@@ -3,7 +3,7 @@ package com.bt.mp3.data.mock.network
 import com.bt.mp3.data.mock.factory.FileResourcesUtils
 import com.bt.mp3.data.model.SongResponseEntity
 import com.bt.mp3.data.model.SuggestionPlaylistResponseEntity
-import com.bt.mp3.data.network.PlaylistApi
+import com.bt.mp3.data.network.retrofit.PlaylistApi
 import com.google.gson.Gson
 
 class PlaylistApiMock : PlaylistApi {

@@ -1,4 +1,4 @@
-package com.bt.mp3.data.network
+package com.bt.mp3.data.network.retrofit
 
 import com.bt.mp3.data.model.SectionResponseEntity
 import retrofit2.http.GET

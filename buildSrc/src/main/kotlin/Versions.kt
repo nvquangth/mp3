@@ -64,6 +64,10 @@ object Versions {
     // https://developer.android.com/jetpack/androidx/releases/preference
     const val preference = "1.1.1"
 
+    // SwipeRefreshLayout
+    // https://developer.android.com/jetpack/androidx/releases/swiperefreshlayout
+    const val swipeRefreshLayout = "1.1.0"
+
     // Retrofit
     // https://github.com/square/retrofit/releases
     const val retrofit = "2.9.0"

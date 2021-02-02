@@ -2,7 +2,7 @@ package com.bt.mp3.data.repositoryimpl
 
 import com.bt.mp3.data.extension.mapToCleanException
 import com.bt.mp3.data.model.SectionEntityMapper
-import com.bt.mp3.data.network.SectionApi
+import com.bt.mp3.data.network.retrofit.SectionApi
 import com.bt.mp3.domain.repository.SectionRepository
 import com.bt.mp3.entity.Section
 import com.bt.mp3.entity.exception.CleanException

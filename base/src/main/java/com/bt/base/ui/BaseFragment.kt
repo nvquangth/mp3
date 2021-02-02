@@ -57,6 +57,9 @@ abstract class BaseFragment<ViewBinding : ViewDataBinding, ViewModel : BaseViewM
         with(viewModel) {
             exceptionEvent.observe(viewLifecycleOwner) {
                 it.getContentIfNotHandled()?.let {
+                    // dismiss loading
+                    hideDialogLoading()
+
                     when (val e = it.mapToExceptionItem(requireContext())) {
                         is AlertExceptionItem -> {
                             showAlertException(e)
@@ -90,7 +93,7 @@ abstract class BaseFragment<ViewBinding : ViewDataBinding, ViewModel : BaseViewM
         }
     }
 
-    fun showDialogLoading(cancelable: Boolean = false, canceledOnTouchOutside: Boolean = false) {
+    private fun showDialogLoading(cancelable: Boolean = false, canceledOnTouchOutside: Boolean = false) {
         if (loadingDialog?.isShowing != true) {
             MaterialAlertDialogBuilder(requireContext()).apply {
                 background = ColorDrawable(Color.TRANSPARENT)
@@ -105,7 +108,7 @@ abstract class BaseFragment<ViewBinding : ViewDataBinding, ViewModel : BaseViewM
         }
     }
 
-    fun hideDialogLoading() {
+    open fun hideDialogLoading() {
         if (loadingDialog?.isShowing == true) {
             loadingDialog?.dismiss()
         }

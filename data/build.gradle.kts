@@ -209,4 +209,7 @@ dependencies {
 
     // Robolectric
     testImplementation(Libs.robolectric)
+
+    // Volley
+    implementation("com.android.volley:volley:1.1.1")
 }

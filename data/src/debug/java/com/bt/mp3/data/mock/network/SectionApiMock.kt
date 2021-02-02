@@ -2,7 +2,7 @@ package com.bt.mp3.data.mock.network
 
 import com.bt.mp3.data.mock.factory.FileResourcesUtils
 import com.bt.mp3.data.model.SectionResponseEntity
-import com.bt.mp3.data.network.SectionApi
+import com.bt.mp3.data.network.retrofit.SectionApi
 import com.google.gson.Gson
 
 class SectionApiMock : SectionApi {
