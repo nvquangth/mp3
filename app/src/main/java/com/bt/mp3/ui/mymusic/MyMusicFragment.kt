@@ -11,11 +11,16 @@ import com.bt.base.ui.BaseFragment
 import com.bt.mp3.R
 import com.bt.mp3.databinding.FragmentMyMusicBinding
 import com.bt.mp3.model.LibraryItem
+import com.bt.mp3.ui.main.MainActivity
 import com.bt.mp3.ui.mymusic.playlist.PlaylistFragment
 import com.bt.mp3.ui.mymusic.recentsong.RecentSongFragment
 import com.google.android.material.tabs.TabLayoutMediator
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.android.synthetic.main.fragment_my_music.*
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.launch
 
 @AndroidEntryPoint
 class MyMusicFragment : BaseFragment<FragmentMyMusicBinding, MyMusicViewModel>() {
@@ -26,6 +31,18 @@ class MyMusicFragment : BaseFragment<FragmentMyMusicBinding, MyMusicViewModel>()
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+
+
+        buttonGetSong.setOnClickListener {
+            GlobalScope.launch(Dispatchers.Default) {
+//                (activity as MainActivity).getDetailSong2("")
+                (activity as MainActivity).checkIP()
+            }
+        }
+        with(viewModel) {
+
+//            getDetailSong()
+        }
 
         // Library
         val libraryAdapter = LibraryAdapter {

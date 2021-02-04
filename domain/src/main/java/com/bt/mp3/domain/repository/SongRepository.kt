@@ -10,4 +10,6 @@ interface SongRepository {
     suspend fun getDetailSong(songId: String): Song
 
     suspend fun getStreamSong(songId: String): Stream
+
+    suspend fun getDetailSong2(songId: String)
 }

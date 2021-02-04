@@ -27,4 +27,8 @@ class SongApiMock : SongApi {
 
         return Gson().fromJson(data, StreamResponseEntity::class.java)
     }
+
+    override suspend fun getDetailSong2(map: Map<String, String>) {
+
+    }
 }

@@ -34,6 +34,14 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
+            <com.google.android.material.button.MaterialButton
+                android:layout_width="wrap_content"
+                android:id="@+id/buttonGetSong"
+                android:text="GET SONG"
+                app:layout_constraintStart_toEndOf="@id/titleLibrary"
+                app:layout_constraintTop_toTopOf="@id/titleLibrary"
+                android:layout_height="wrap_content" />
+
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/recyclerLibrary"
                 android:layout_width="0dp"
