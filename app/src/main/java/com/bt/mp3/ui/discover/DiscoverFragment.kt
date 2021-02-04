@@ -9,7 +9,6 @@ import androidx.recyclerview.widget.ConcatAdapter
 import androidx.recyclerview.widget.RecyclerView
 import androidx.viewpager2.widget.MarginPageTransformer
 import com.bt.base.extension.toPx
-import com.bt.base.model.Result
 import com.bt.base.ui.BaseFragment
 import com.bt.mp3.R
 import com.bt.mp3.databinding.FragmentDiscoverBinding
@@ -71,7 +70,6 @@ class DiscoverFragment : BaseFragment<FragmentDiscoverBinding, DiscoverViewModel
         swipeRefreshLayout.apply {
             setOnRefreshListener {
                 viewModel.setPage(1)
-
             }
         }
 

@@ -5,7 +5,6 @@ import com.android.volley.DefaultRetryPolicy
 import com.android.volley.Response
 import com.android.volley.toolbox.StringRequest
 import com.android.volley.toolbox.Volley
-import com.bt.mp3.data.interceptor.SignatureInterceptor
 import com.bt.mp3.data.model.HomePageResponseEntity
 import com.bt.mp3.data.network.retrofit.HomeRetrofitApi
 import com.google.gson.Gson
@@ -37,19 +36,24 @@ class HomeApiMock(
 //            param = query
 //        )
 
-        val version  = "1.0.19"
+        val version = "1.0.19"
         val ctime = "1612175523"
-        val apiKey  = "kI44ARvPwaqL7v0KuDSM0rGORtdY1nnw"
+        val apiKey = "kI44ARvPwaqL7v0KuDSM0rGORtdY1nnw"
         val sig = "a85cab53e169b75ffef25c9c03e57300837092eab9eb5fdacc7fb698f202c4fce6ab4ec84ddba046dd26f6e5c570813b9f7751a1aca4090f43e3ee22bb689dd2"
 
         val queue = Volley.newRequestQueue(context)
         val url = "https://zingmp3.vn/api/v2/home?page=$pageNumber&version=$version&ctime=$ctime&apiKey=$apiKey&sig=$sig"
-        val stringRequest = object: StringRequest(Method.GET, url, Response.Listener<String> { response ->
+        val stringRequest = object : StringRequest(
+            Method.GET,
+            url,
+            Response.Listener<String> { response ->
 
-            it.resume(Gson().fromJson(response, HomePageResponseEntity::class.java))
-        }, Response.ErrorListener {error ->
-            it.resume(HomePageResponseEntity())
-        }) {
+                it.resume(Gson().fromJson(response, HomePageResponseEntity::class.java))
+            },
+            Response.ErrorListener { error ->
+                it.resume(HomePageResponseEntity())
+            }
+        ) {
             override fun getHeaders(): MutableMap<String, String> {
 
                 return mapOf(

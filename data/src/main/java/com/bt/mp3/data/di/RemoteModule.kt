@@ -3,7 +3,7 @@ package com.bt.mp3.data.di
 import android.content.Context
 import com.bt.mp3.data.BuildConfig
 import com.bt.mp3.data.encryption.Encryption
-import com.bt.mp3.data.interceptor.SignatureInterceptor
+import com.bt.mp3.data.network.retrofit.interceptor.SignatureInterceptor
 import com.bt.mp3.data.mock.network.PlaylistApiMock
 import com.bt.mp3.data.mock.network.SectionApiMock
 import com.bt.mp3.data.mock.network.SongApiMock

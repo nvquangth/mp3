@@ -17,7 +17,7 @@ class Encryption @Inject constructor() {
 
     fun getSignature(path: String, param: String): SignatureEntity {
         val time = System.currentTimeMillis() / 1000
-        val hash256 = toHexString(getSHA("ctime=${time}${param}"))
+        val hash256 = toHexString(getSHA("ctime=${time}$param"))
 
         return SignatureEntity(
             time = time,

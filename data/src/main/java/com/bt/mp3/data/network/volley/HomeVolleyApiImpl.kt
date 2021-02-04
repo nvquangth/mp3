@@ -16,11 +16,11 @@ import kotlin.coroutines.suspendCoroutine
 class HomeVolleyApiImpl @Inject constructor(
     private val context: Context,
     private val encryption: Encryption
-): HomeVolleyApi {
+) : HomeVolleyApi {
 
     override suspend fun getHomePage(pageNumber: Int?): HomePageResponseEntity = suspendCoroutine {
         val path = "/api/v2/home"
-        val query = "version=${apiVersion}"
+        val query = "version=$apiVersion"
         val signature = encryption.getSignature(
             path = path,
             param = query
@@ -28,12 +28,17 @@ class HomeVolleyApiImpl @Inject constructor(
 
         val queue = Volley.newRequestQueue(context)
         val url = "${BuildConfig.BASE_URL}$path?version=$apiVersion&ctime=${signature.time}&apiKey=$apiKey&sig=${signature.sig}&page=$pageNumber"
-        val stringRequest = object: StringRequest(Method.GET, url, Response.Listener<String> { response ->
+        val stringRequest = object : StringRequest(
+            Method.GET,
+            url,
+            Response.Listener<String> { response ->
 
-            it.resume(Gson().fromJson(response, HomePageResponseEntity::class.java))
-        }, Response.ErrorListener { error ->
-            it.resume(HomePageResponseEntity())
-        }) {
+                it.resume(Gson().fromJson(response, HomePageResponseEntity::class.java))
+            },
+            Response.ErrorListener { error ->
+                it.resume(HomePageResponseEntity())
+            }
+        ) {
             override fun getHeaders(): MutableMap<String, String> {
 
                 return mapOf(

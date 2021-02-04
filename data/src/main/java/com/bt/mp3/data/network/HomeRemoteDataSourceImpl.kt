@@ -8,7 +8,7 @@ import javax.inject.Inject
 class HomeRemoteDataSourceImpl @Inject constructor(
     private val homeRetrofitApi: HomeRetrofitApi,
     private val homeVolleyApi: HomeVolleyApi
-): HomeRemoteDataSource {
+) : HomeRemoteDataSource {
 
     override suspend fun getHomePage(pageNumber: Int?): HomePageResponseEntity {
         return homeRetrofitApi.getHomePage(pageNumber)
