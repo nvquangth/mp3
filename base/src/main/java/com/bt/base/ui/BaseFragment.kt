@@ -6,7 +6,9 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.annotation.CallSuper
 import androidx.annotation.LayoutRes
+import androidx.annotation.MainThread
 import androidx.appcompat.app.AlertDialog
 import androidx.databinding.DataBindingUtil
 import androidx.databinding.ViewDataBinding
@@ -26,24 +28,37 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder
 
 abstract class BaseFragment<ViewBinding : ViewDataBinding, ViewModel : BaseViewModel> : Fragment() {
 
-    lateinit var viewBinding: ViewBinding
+    private var _viewBinding: ViewBinding? = null
+
+    // FIXME: restrict to protected modifier and correct throw expression (create new class?)
+    val viewBinding: ViewBinding
+        get() = _viewBinding ?: throw IllegalStateException(
+            "BaseFragment#viewBinding is only valid between BaseFragment#onCreateView(..) " +
+                "and BaseFragment#onDestroyView(..)"
+        )
 
     abstract val viewModel: ViewModel
 
     @get:LayoutRes
     abstract val layoutRes: Int
 
+    // FIXME: this can be private
     var loadingDialog: AlertDialog? = null
 
+    // FIXME: add final modifier
+    @CallSuper
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
-        viewBinding = DataBindingUtil.inflate(inflater, layoutRes, container, false)
-        return viewBinding.root
+    ): View {
+        return DataBindingUtil.inflate<ViewBinding>(inflater, layoutRes, container, false).run {
+            _viewBinding = this
+            root
+        }
     }
 
+    @CallSuper
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
@@ -54,10 +69,16 @@ abstract class BaseFragment<ViewBinding : ViewDataBinding, ViewModel : BaseViewM
             executePendingBindings()
         }
 
+        observeLiveData()
+    }
+
+    @CallSuper
+    open fun observeLiveData() {
         with(viewModel) {
             exceptionEvent.observe(viewLifecycleOwner) {
-                it.getContentIfNotHandled()?.let {
-                    when (val e = it.mapToExceptionItem(requireContext())) {
+                it.getContentIfNotHandled()?.let { cleanException ->
+                    val view = viewBinding.root
+                    when (val e = cleanException.mapToExceptionItem(requireContext())) {
                         is AlertExceptionItem -> {
                             showAlertException(e)
                         }
@@ -90,6 +111,15 @@ abstract class BaseFragment<ViewBinding : ViewDataBinding, ViewModel : BaseViewM
         }
     }
 
+    @CallSuper
+    override fun onDestroyView() {
+        super.onDestroyView()
+        // release view
+        _viewBinding = null
+    }
+
+    // FIXME: this can be private
+    @MainThread
     fun showDialogLoading(cancelable: Boolean = false, canceledOnTouchOutside: Boolean = false) {
         if (loadingDialog?.isShowing != true) {
             MaterialAlertDialogBuilder(requireContext()).apply {
@@ -105,6 +135,8 @@ abstract class BaseFragment<ViewBinding : ViewDataBinding, ViewModel : BaseViewM
         }
     }
 
+    // FIXME: this can be private
+    @MainThread
     fun hideDialogLoading() {
         if (loadingDialog?.isShowing == true) {
             loadingDialog?.dismiss()
